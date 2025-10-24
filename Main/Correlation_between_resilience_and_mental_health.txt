@@ -1,0 +1,1101 @@
+The correlation between
+resilience and mental health
+of adolescents and young
+adults: a systematic review
+and meta-analysis
+
+Shulai Luo, Jiangtao Hu, Junshuai Zhang, Zhengyang Mei,
+Zhongjian Tang and Shi Luo*
+School of Physical Education, Southwest University, Chongqing, China
+Background: Adolescents and young adults (AYAs) aged 10–25 exhibit an
+increased prevalence of mental health disorders. Resilience has been well
+established as a positive factor in promoting and protecting mental health. This
+systematic review and meta-analysis aimed to quantify the correlation between
+resilience and mental health in AYAs by including relevant observational studies.
+Additionally, it explored potential moderators such as percentage of female
+participants, sample regions, and resilience measurements.
+Methods: A comprehensive search of the PubMed, Embase, Cochrane Library,
+Web of Science and Scopus databases was conducted until September 2024.
+CMA 3.0 software was used to perform meta-analysis, publication bias and
+sensitivity analysis of the included studies, and the moderating effect was
+verified by meta-analysis of variance (ANOVA).
+Result: Nineteen studies involving a total of 17,746 participants were included,
+and the summary effect sizes from the random effect model showed that
+resilience among AYAs had a correlation coefficient of -0.391 with negative
+indicators of mental health (95% CI: - 0.469, - 0.308, p < 0.001), and a correlation
+coefficient of 0.499 with positive indicators of mental health (95% CI: 0.400,
+0.586, p < 0.001). Additionally, sample regions and resilience measurements
+significantly moderated the correlation between resilience and positive
+indicators of mental health.
+Conclusion: Resilience in AYAs showed a moderately negative correlation with
+negative indicators of mental health and a moderately strong positive correlation
+with positive indicators of mental health. The findings strengthened the basis for
+future resilience research in AYAs aged 10–25, highlighting the potential of
+resilience to help mitigate the increasing mental health challenges faced by
+this population.
+KEYWORDS
+resilience, mental health, adolescents, young adults, meta-analysis, correlation
+Frontiers in Psychiatry 01 frontiersin.org
+OPEN ACCESS
+EDITED BY
+Yibo Wu,
+Peking University, China
+REVIEWED BY
+Avital Laufer,
+Netanya Academic College, Israel
+Magdalena Anna Lazarewicz,
+Medical University of Warsaw, Poland
+Hannah Süss,
+Psychiatric University Hospital Zurich,
+Switzerland
+*CORRESPONDENCE
+Shi Luo
+luoshi0604@126.com
+RECEIVED 29 November 2024
+ACCEPTED 15 January 2025
+PUBLISHED 10 February 2025
+CITATION
+Luo S, Hu J, Zhang J, Mei Z, Tang Z and
+Luo S (2025) The correlation between
+resilience and mental health of
+adolescents and young adults:
+a systematic review and meta-analysis.
+Front. Psychiatry 16:1536553.
+doi: 10.3389/fpsyt.2025.1536553
+COPYRIGHT
+© 2025 Luo, Hu, Zhang, Mei, Tang and Luo.
+This is an open-access article distributed under
+the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic
+practice. No use, distribution or reproduction
+is permitted which does not comply with
+these terms.
+TYPE Review
+PUBLISHED 10 February 2025
+DOI 10.3389/fpsyt.2025.1536553
+1 Introduction
+Recent statistics from the World Health Organization showed
+that the prevalence of diagnosed mental health disorders among
+adolescents and young adults (AYAs) aged 10-25 ranged between
+10% - 20% (1). Mental health disorders refer to health conditions
+that are characterized by significant changes or disturbances in
+emotion, thinking, or behavior (2). The 10-25 age group
+encompasses adolescents aged 10-19 and young adults aged 18-25
+(3, 4), where mental health disorders drawn increasing public
+attention and are now recognized as a critical global public health
+issue (5, 6). In specific, approximately one in seven adolescents aged
+10-19 suffers from mental health disorders, mainly anxiety and
+depression, which account for 13% of the global burden of disease in
+this age group (1). Among young adults aged 18-25, the prevalence
+of major depressive episodes has risen sharply, increasing from
+8.8% in 2005 to 15.2% in 2019, and the percentage of people with
+severe impairment from major depressive episodes nearly doubling
+from 5.2% to 10.3% during the decade from 2009 to 2019 (7).
+Without timely intervention, these mental health disorders can
+result in long-lasting adverse effects across individuals including
+social isolation (8), unemployment (9), and substance abuse (10),
+while significantly increasing the incidence of suicidal behaviors
+among AYAs (11). Alarmingly, suicide has now become the second
+leading cause of death among individuals aged 15-25 (12). The
+consistent epidemiological evidence indicates that all major
+syndromes constituting approximately 75% of mental health
+disorders begin before the age of 25 (13). Therefore, prevention
+and intervention mechanisms for mental health disorders in AYAs
+aged 10-25 are urgently needed to effectively reduce the
+disease burden.
+Building resilience has received considerable attention from
+researchers due to its crucial role in reducing the risk of mental
+health disorders and promoting individual mental health (14). The
+conceptualization and study of resilience initially emerged from
+research on children at high risk for severe psychopathology (15).
+Over time, resilience has been defined in various ways, including as
+a personality trait that enables an individual to cope with adversity
+and to achieve positive adjustment and development (16, 17), or as
+a functional or behavioral outcome that overcomes and helps an
+individual to recover from adversity (18, 19). However, we propose
+a broader used definition of resilience as the ability and dynamic
+process of maintaining or regaining mental health despite
+experiencing adversity (20–22). Notably, many empirical studies
+have demonstrated its effectiveness in coping with stress and
+facilitating positive adaptations to protect the mental health of
+individuals (23–28). Meanwhile, researchers have explored the
+theoretical mechanisms underlying this positive effect, developing
+models of the relationship between resilience and mental health that
+incorporate mediating variables such as positive affect, perceived
+social support (29), and coping strategies (30). Despite substantial
+theoretical and empirical evidence supporting the relationship
+between resilience and mental health (31–33), previous reviews
+have paid relatively limited attention to AYAs, leaving the precise
+strength of this association unclear. In fact, individuals aged 10-25
+experience an increased biological stress response (34) which makes
+them a highly susceptible group to various stressors (35). As a
+result, this age group exhibits a dramatically increased prevalence of
+mental health disorders (36). Examining the correlation between
+resilience and mental health specifically within AYAs will be
+beneficial in informing targeted resilience interventions. In
+addition, the dual-factor model of mental health (37, 38)
+emphasizes the need to evaluate mental health comprehensively.
+This entails considering both the absence of negative
+psychopathological indicators and the presence of positive
+psychological indicators such as subjective well-being, life
+satisfaction (39, 40). However, previous reviews have rarely
+explored these aspects in an integrated manner. To address this
+gap, our study attempts to conduct a more comprehensive
+quantitative review that combines these dimensions, with a
+particular focus on AYAs.
+Potential moderators influencing the relationship between
+resilience and mental health in AYAs warrant further
+investigation. Building on previous studies, we focus on
+examining the moderating effects of gender, sample regions, and
+resilience measurements. First, regarding gender, researchers have
+found that as the percentage of female participants increases, the
+association between resilience and positive indicators of mental
+health becomes stronger (41). Second, results observed in samples
+from different regions often vary due to multiple influencing factors,
+such as sociocultural differences between Western and Eastern
+societies or disparities in the stages of resilience research (42, 43).
+These factors may contribute to differences in the strength of the
+relationship between resilience and mental health indicators. Lastly,
+the diversity of resilience measurements, with their different
+measurement properties, may influence the association between
+resilience and mental health indicators, resulting in variations in the
+observed outcomes (44).
+In summary, this study aims to systematically quantify the
+correlation between resilience and both positive and negative
+indicators of mental health in AYAs through a review of the
+literature, along with an exploration of some potential moderators
+including percentage of female participants, sample regions, and
+resilience measurements.
+2 Methods
+This systematic review was conducted following the Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses
+(PRISMA) guidelines, and was pre-registered in the International
+Prospective Register of Systematic Reviews (PROSPERO;
+ID: CRD42024604631).
+2.1 Search strategy
+We performed a systematic search in the following five
+electronic databases (PubMed, Embase, Cochrane Library, Web of
+Science, and Scopus) and used a snowball strategy to find relevant
+articles from their references and subsequent citations. The search
+of literature was limited to the period covered from the inception of
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 02 frontiersin.org
+each database till September 2024. The detailed search strategy is
+provided in the Supplementary Material, as the PubMed interface.
+2.2 Inclusion and exclusion criteria
+The retrieved studies were included in the meta-analysis when
+the following criteria were met: (1) published studies in English; (2)
+the study types were observational studies, which included cohort
+studies, case-control studies, cross-sectional studies and
+longitudinal studies reporting multiple cross-sections; (3) the
+participants were AYAs aged 10-25 years; (4) measured resilience,
+negative indicators (including symptoms of psychopathology and
+negative affect such as anxiety, depression, schizophrenia, bipolar
+and other reported mental health disorders or problems) or positive
+indicators (including subjective well-being, life satisfaction, quality
+of life etc.) of mental health; (5) reported Pearson’s correlation
+coefficients (r) between resilience and the above indicators of
+mental health.
+The exclusion criteria are as follows: (1) newspaper, conference
+presentations, and review literature; (2) studies with incomplete or
+unreported data; (3) non-observational studies and purely
+descriptive studies.
+2.3 Literature screening
+Endnote X9 literature management software was used to detect
+and exclude all the duplications. Then, two authors evaluated the
+titles and abstracts of the remaining articles to ensure their
+eligibility for inclusion in the study. No further review was
+conducted for articles that met the exclusion criteria. After that,
+the two authors reviewed the full texts of the eligible literature.
+During this process, any disagreements were discussed to reach a
+resolution, or addressed by consulting another author.
+2.4 Data extraction and quality assessment
+After literature screening, the two authors reviewed the full text
+for data extraction. The following information of each included
+study was extracted: author, country, mean age, gender, resilience
+measurements, and mental health measurements of both negative
+and positive indicators, as well as Pearson’s correlation coefficient
+between resilience and both indicators of mental health. Separate
+extractions were performed if several different samples were
+investigated in the same study.
+The Joanna Briggs Institute (JBI) Critical Appraisal Checklist
+for Analytical Cross-Sectional Studies was applied for quality
+assessment (45). This checklist consists of 8 items, each of which
+includes four answers (“yes,” “no,” “unclear,” and “not applicable”).
+Each “yes” answer corresponds to one point and the rest of the
+answers are assigned no points, with the points summed to give a
+total score for each study. Converting the total score to percentages,
+we rated studies scoring 70% and above as high quality, studies
+scoring 50% to < 70% as moderate quality, and studies scoring less
+than 50% as low quality (46).
+2.5 Data analysis
+All statistical analyses of our study were performed using
+Comprehensive Meta-Analysis version 3.0 (CMA 3.0) software.
+Pearson’s correlation coefficient was utilized to evaluate the
+correlation between resilience and both negative and positive
+indicators of mental health. First, we converted r values to
+Fisher’s Z by using the formula Fisher’s Z = 0.5 ln [(1 + r)/(1-r)].
+The values obtained were then weighted according to the sample
+size using the formula SEz = (1/(n-3))1/2. Finally, all values were
+converted to r by the formula Summary r = (e2z – 1)/(e2z + 1) to
+evaluate the correlation between resilience and mental health. In
+addition, according to (47), r = 0.1 represented low correlation, r =
+0.3 represented moderate correlation, and r = 0.5 and above
+represented strong correlation. All mean effect sizes were
+calculated by averaging the correlation coefficients of all
+independent samples, weighted by their inverse variance.
+Heterogeneity test was conducted using Cochran’s Q and I2
+statistics (48). The fixed effect model was used to summarize the
+effects when I2 < 50%; otherwise, the random effect model was more
+appropriate for the analysis of the effect sizes from the existing
+literature (49). Moreover, a meta-analysis of variance (ANOVA)
+was used on categorical variables to test whether it was possible to
+moderate the correlation between resilience and mental health. The
+moderating variables in this study were identified based on insights
+from the existing literature, including the percentage of female
+participants, sample regions, and resilience measurements. The
+differences between and within groups were assessed by the Q
+test, and groups with fewer than 3 studies (k < 3) were removed due
+to concerns regarding under-representation and limited statistical
+reliability. Funnel plots and Egger’s linear regression (50) were used
+to evaluate publication bias. Sensitivity analysis was also conducted
+to test the robustness of the results of this study.
+3 Results
+3.1 Literature selection
+We retrieved 2581 records from the database in the initial
+literature search. After removing 1020 duplicates, 11 non-English
+literature and 9 conference abstracts, 1541 studies were retained.
+Title and abstract screening excluded 1255 articles that did not
+match our requirements in terms of sample or topic. The remaining
+286 articles were screened in full text, and 267 articles were excluded
+due to unavailability of data, inappropriate article type, and not
+reporting Pearson’s correlation coefficient. Finally, a total of 19
+studies were included in the current review. Figure 1 shows the flow
+chart of literature selection process.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 03 frontiersin.org
+3.2 Study characteristics
+The 19 included studies, involving a total of 17746 participants,
+were conducted between 2011-2024, with more than half of them
+conducted in the last three years. The detailed characteristics of the
+included studies are shown in Table 1. Five studies were from China
+(mainland and HK), three from Spain, two from Norway and
+Poland, and one each from Malaysia, Nigeria, Canada, Japan,
+Saudi Arabia, USA, Germany and India. All studies measured
+both resilience and mental health, and reported Pearson’s
+correlation coefficient. The CD-RISC was utilized in three studies,
+while four studies applied the short version (CD-RISC-10). Of the
+remaining studies, three utilized READ and RS, two used BRS, and
+PIES, PSS/GHQ, CYRM, CPYDS, RSCA. Out of the 19 included
+studies, twelve studies measured the negative indicators of mental
+health, including anxiety, depression, perceived stress, burnout, etc.
+However, thirteen involved the assessment of various positive
+indicators of mental health, such as quality of life, life satisfaction,
+psychological well-being, hope, optimism, self-efficacy.
+3.3 Effect size and heterogeneity
+3.3.1 The summary correlation between
+resilience and negative indicators of
+mental health
+Data from 12132 AYAs were included in the 12 studies. The
+results of the heterogeneity test showed a high level of heterogeneity
+among the included studies (Q = 266.615, p < 0.001, I2 = 95.874%).
+Therefore, we calculated the mean weighted effect size (r), sample
+size (k), and 95% confidence intervals using a random effect
+model (Table 2). The results showed a moderately negative
+correlation between resilience and negative indicators of mental
+health (r = - 0.391, 95% CI: - 0.469, - 0.308, p < 0.001; see Figure 2).
+3.3.2 The summary correlation between
+resilience and positive indicators of mental health
+The correlations between resilience and positive indicators of
+mental health were reported in 13 studies, involving 13135 AYAs.
+The results of the heterogeneity test were similar to the negative
+FIGURE 1
+The process of literature screening.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 04 frontiersin.org
+TABLE 1 Basic characteristics of the included studies.
+Study Country (sample
+regions classification)
+Mean age
+(range)
+Total/
+male/female
+Resilience measurements Mental health indicators Pearson’s r
+Achour and Nor (51) Malaysia (Eastern) (15-19) 200/NA/NA Psychosocial Inventory of Ego
+Strengths (PIES)
+Life satisfaction (SLS) 0.431
+Anyan et al. (52) Norway (Western) (13-17) 529/244/285 Resilience Scale for Adolescents (READ) Depressive symptoms (SMFQ)
+Anxiety symptoms (53)
+-0.204
+-0.325
+Chow et al. (54) China (Eastern) NA 678/170/508 Connor-Davidson resilience scale (CDRISC-10) Psychological well-being (WHO-5) 0.378
+de la Fuente et al. (55) Spain (Western) 21.33 (19-25) 1069/155/914 Connor-Davidson resilience scale (CD-RISC) Behavioral positivity (EDP)
+Burnout (MBI)
+0.592
+-0.372
+Hjemdal et al. (56) Norway (Western) 16.4(14-18) 307/167/140 Resilience Scale for Adolescents (READ) Anxiety (DASS-21)
+Depression (DASS-21)
+Stress (DASS-21)
+-0.34
+-0.39
+-0.29
+Ibigbami et al. (57) Nigeria (Africa) 17.11(13-19) 1321/NA/NA Connor-Davidson resilience scale (CDRISC-10) Depressive symptoms (PHQ-9) -0.31
+Las-Hayas et al. (58) Spain (Western) 12.4 3727/1820/1907 Resilience Scale for Adolescents (READ) Mental well-being (WEMWBS)
+Health-related quality of life (KIDSCREEN-10)
+Stress (PSS-4)
+Depression (PHQ-9)
+Generalized anxiety disorder (GAD-7)
+0.710
+0.731
+-0.609
+-0.596
+-0.501
+Lau (59) China (Eastern) 21.56 125/63/62 Perceived Stress Scale (PSS), General Health
+Questionnaire (GHQ)
+Anxiety (DASS‐anxiety, 7 items)
+Depression (DASS‐depression, 7 items)
+-0.462
+-0.58
+Marulanda and
+Addington (60)
+Canada (Western) 18.09 80/43/37 Child and Youth Resilience Measure (CYRM) Depression (CDSS)
+Anxiety (SIAS and SAS)
+-0.46
+-0.34
+-0.32
+Masuyama et al. (61) Japan (Eastern) 14.03 (12-15) 965/NA/NA Bidimensional resilience scale (BRS) Depressive symptoms (DSRS-C) -0.51
+Rayani et al. (62) Saudi Arabia (Middle East) NA 175/72/102 Connor-Davidson resilience scale (CDRISC-10) Perceived well-being (WHO-5) 0.281
+Rew et al. (63) USA (Western) 21.25 (18-24) 111/60/51 Resilience scale (RS) Life satisfaction (SLS)
+Social Connectedness
+Optimism
+Hope
+0.29
+0.24
+0.48
+0.48
+Scheiner et al. (64) Germany (Western) 12.31 (11-14) 2154/1099/1055 Connor-Davidson resilience scale (CDRISC-10) Health-related quality of life (KIDSCREEN-10) Self-efficacy (RESE-R)
+Self-esteem (SISE)
+Depressive symptoms (PHQ-9)
+0.61
+0.52
+0.58
+-0.51
+Shek and Liang (65) China (Eastern) 12.59 3291/1719/1572 Chinese Positive Youth Development
+Scale (CPYDS)
+Life satisfaction (SLS) 0.45
+(Continued)
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry frontiersin.org 05
+TABLE 1 Continued
+Study Country (sample
+regions classification)
+Mean age
+(range)
+Total/
+male/female
+Resilience measurements Mental health indicators Pearson’s r
+Shi et al. (66) China (Eastern) 20.42 (18-25) 521/180/341 Connor-Davidson resilience scale (CD-RISC) Life satisfaction (SLS) 0.47
+Sia and Aneesh (67) India (Eastern) 15.03 (13-17) 385/179/206 Brief Resilience Scale (BRS) Psychological Well-being (PWBS) 0.217
+Visier-Alfonso
+et al. (68)
+Spain (Western) 20.27 370/62/308 Connor-Davidson resilience scale (CD-RISC) Stress (SINS)
+Depressive symptoms (PROMIS)
+anxiety symptoms (PROMIS)
+Psychological well-being (SPWB)
+-0.145
+-0.32
+-0.24
+0.4
+Zhu et al. (69) China (Eastern) (10-19) 1284/620/664 Resilience Scale for Chinese
+Adolescents (RSCA)
+Mental health problems (MSSMHS) -0.28
+Konaszewski et al. (70) Poland (Western) Study 1: 15.71 (13-18)
+Study 2: 16.34 (13-18)
+Study 1: 201/121/
+80
+Study 2: 253/
+172/81
+Resilience scale (RS-14) Life satisfaction (SLS)
+Depression (KADS)
+Mental Well-being (WEMWBS)
+0.65
+-0.31
+0.71
+TABLE 2 Random-model of the correlation between resilience and mental health.
+Mental health k N
+Mean r effect size
+95% CI for r Test of null (2-tail) Homogeneity test Tau-squared
+LL UL z- Value p-Value Q(T) df p I-squared Tau-squared SE Variance Tau
+Negative indicators 12 12132 -0.391 -0.469 -0.308 -8.532 0.000 266.615 11 0.000 95.874 0.025 0.015 0.000 0.159
+Positive indicators 13 13172 0.499 0.400 0.586 8.661 0.000 536.259 12 0.000 97.762 0.049 0.031 0.001 0.222
+k, number of effect sizes; N, number of samples.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry frontiersin.org 06
+indicators, demonstrating high heterogeneity (Q = 536.259; p < 0.001;
+I
+2 = 97.762%). The effect size calculated by the random effect model
+(Table 2) revealed a moderately strong positive correlation between
+resilience and positive indicators of mental health among the AYAs
+(r = 0.499, 95% CI: 0.400, 0.586, p < 0.001; see Figure 3).
+3.4 Quality assessment
+The quality of included cross-sectional studies was assessed
+using the JBI Critical Appraisal Checklist for Analytical CrossSectional Studies, which has been well-validated and considered the
+most commonly used tool for assessing bias in analytical crosssectional studies (71). Two authors independently assessed the
+quality of each study, and any disagreements were resolved
+through discussions at group meetings. A total of 16 studies
+received scores above 70%, classifying the majority of the
+included studies as high quality. Among the remaining three
+studies, two were categorized as moderate quality, while one was
+classified as low quality. The detailed results of each included study
+are shown in the Supplementary Material.
+3.5 Moderator analyses
+The current study used meta-analysis of variance (ANOVA) to
+test the moderating effects of three variables below: percentage of
+female participants, sample regions, and resilience measurements.
+Results from the moderator analyses are presented in Tables 3.
+In terms of the positive indicators of mental health, the sample
+regions and the resilience measurements significantly moderated
+the correlation between resilience and mental health (sample
+regions: QBET = 11.338, p < 0.001, resilience measurements:
+QBET = 69.932, p < 0.001). More specifically, Studies from
+Western countries reported the stronger correlation between
+resilience and mental health (Western: r = 0.589, 95% CI: 0.494,
+0.670, p < 0.001, Eastern: r = 0.380, 95% CI: 0.304, 0.452, p < 0.001).
+For resilience measurements, the RS scale reported stronger
+FIGURE 2
+Forest plot of the correlation between resilience and negative indicators of mental health.
+FIGURE 3
+Forest plot of the correlation between resilience and positive indicators of mental health.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 07 frontiersin.org
+correlations than CD-RISC scale and other scales (RS: r = 0.579,
+95% CI: 0.335, 0.750, p < 0.001, CD-RISC: r = 0.467, 95% CI: 0.366,
+0.557, p < 0.001, Others: r = 0.371, 95% CI: 0.212, 0.512, p < 0.001),
+while the READ scale group was excluded due to a small sample size
+of less than 3 studies (k=1). However, percentage of female
+participants did not have a significant moderating effect on the
+correlation between resilience and mental health. Regarding the
+negative indicators of mental health, none of the sample regions,
+percentage of female participants, or resilience measurements were
+found to significantly modulate the correlation (p>0.05).
+3.6 Publication bias and sensitivity analysis
+The present meta-analysis evaluated publication bias using
+funnel plots and Egger linear regression. The funnel plot provided
+insufficient evidence of the symmetrical distribution of effect sizes
+for both negative and positive indicators (Figures 4, 5). Therefore,
+Egger linear regression was utilized to provide more reliable
+evidence. The p-values of the results indicate that there were no
+significant publication biases for both indicators (negative
+indicators: t = 1.965, p = 0.077; positive indicators: t = 1.545, p =
+0.151). The sensitivity analysis was conducted by removing the
+included samples one by one, and a significant shift in the effect
+sizes would represent a lack of non-robustness. However, our
+results indicated that the effect sizes of resilience and both
+indicators of mental health in AYAs were stable, therefore, the
+results of this meta-analysis were robust (Figures 6, 7).
+4 Discussion
+The current study aimed to systematically summarize the
+evidence on the correlation between resilience and both negative
+and positive indicators of mental health in AYAs. A total of 19
+studies were included in the meta-analysis, and the results revealed
+a moderately negative correlation between resilience and negative
+indicators of mental health (r = - 0.391), and a moderately strong
+TABLE 3 Moderators of the correlation between resilience and mental health.
+Moderators Between-group
+effect (Qbet)
+k N Mean r
+effect size
+95% CI for r Homogeneity test within
+each group (Qw)
+LL UL
+Percentage of female participants
+Negative indicators 0.529
+>50% 5 6959 -0.353*** -0.504 -0.182 199.913***
+<50% 5 2867 -0.423*** -0.519 -0.316 21.282***
+Positive indicators 2.807
+>50% 7 6925 0.457*** 0.270 0.610 387.034***
+<50% 5 6010 0.588*** 0.466 0.689 93.587***
+Sample regions
+Negative indicators 3.10
+Western 8 8437 -0.385*** -0.479 -0.282 156.613***
+Eastern 3 2374 -0.439*** -0.597 -0.248 45.295***
+Positive indicators 11.338***
+Western 7 7885 0.589*** 0.494 0.670 166.165***
+Eastern 6 5287 0.380*** 0.304 0.452 32.331***
+Resilience measurements
+Negative indicators 1.531
+CD-RISC (including short version) 4 4914 -0.365*** -0.480 -0.237 68.265***
+READ 3 4563 -0.403*** -0.602 -0.155 80.843***
+Others 4 2454 -0.430*** -0.568 -0.268 45.297***
+Positive indicators 69.932***
+CD-RISC (including short version) 6 4967 0.467*** 0.366 0.557 82.432***
+RS 3 565 0.579*** 0.335 0.750 26.681***
+Others 3 3913 0.371*** 0.212 0.512 23.918***
+k, number of effect sizes; N, number of samples; ***p <.001.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 08 frontiersin.org
+positive correlation with positive indicators of mental health (r =
+0.499). Specifically, higher resilience was correlated with reduced
+levels of perceived stress, anxiety, burnout, and depression,
+alongside enhanced mental well-being, quality of life, life
+satisfaction, self-esteem, and self-efficacy among AYAs. These
+findings are consistent with previous empirical studies covering
+similar age groups (56, 72–77). Further, in terms of the strength of
+the correlation, resilience was more strongly correlated with
+positive indicators of mental health than negative indicators, also
+supported by the previous evidence (78, 79).
+This systematic review provides preliminary evidence on the
+correlation between resilience and mental health in AYAs.
+Specifically, this age group encompasses adolescence, from 10 to
+19 years old, and emerging adulthood, from 18 to 25 years old,
+covering a critical developmental stage that spans the transition
+from education to early social integration. This period is
+foundational for establishing lifelong health and facilitating
+personal and professional development (3, 4). Uniquely, this stage
+is characterized by intensified academic pressure and increased
+challenges in building and maintaining relationships, which
+distinguish it from childhood. Meanwhile, the urgency to acquire
+advanced skills for societal survival exceeds that observed in middle
+adulthood (80). As a result, this is the period when individuals are
+most threatened by psychosocial stressors and are vulnerable to
+mental health disorders (81), which adversely affect academic and
+occupational achievement, interpersonal relationship formation,
+FIGURE 4
+Funnel plot of the correlation between resilience and negative indicators of mental health.
+FIGURE 5
+Funnel plot of the correlation between resilience and positive indicators of mental health.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 09 frontiersin.org
+self-identity, etc. (36). Over time, untreated mental health disorders
+during this critical stage may produce long-lasting negative
+consequences for individuals, including reduced workforce
+participation, lower incomes, and diminished living standards in
+later adulthood (82). The more individuals affected, the greater the
+likelihood of harm at the economic and cultural levels of society.
+As highlighted by the World Health Organization, fostering
+resilience has been an integral part of the strategy for preventing
+mental health disorders (83), The findings of this study reinforce
+the significant role of resilience in helping AYAs reduce negative
+indicators of psychopathology and enhance positive mental health
+states. These results are supported by relevant empirical studies. In
+terms of the elimination of negative indicators, resilience has been
+shown to alleviate symptoms of depression and anxiety in
+adolescents (84), reduces the after-effects of psychological trauma,
+and curbs suicidal ideation in young adults (85, 86). Conversely,
+lower resilience leads to a heightened risk of various mental health
+disorders (87). In terms of the promotion of positive indicators,
+resilient adolescent individuals perceive increased life satisfaction
+(51), possess better emotional regulation to manage negative
+emotions and prefer positive coping strategies to achieve social
+adaptation (88). Furthermore, resilience positively affects all
+dimensions of quality of life (89), while life satisfaction, perceived
+well-being, and self-efficacy are all negatively affected
+when resilience is low (90). Although the exact mechanisms that
+resilience promotes mental health remain complicated (91),
+resilience theory provides a well-established framework to explain
+its effects. Resilience facilitates mental health by enabling
+individuals to counteract the negative consequences of exposure
+to risk factors. This process involves leveraging environmental,
+FIGURE 6
+Sensitivity analysis of the correlation between resilience and negative indicators of mental health.
+FIGURE 7
+Sensitivity analysis of the correlation between resilience and positive indicators of mental health.
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 10 frontiersin.org
+social, and personal protective factors to interrupt the progression
+from risk exposure to pathological outcomes (33). In specific,
+through the mobilization of these internal and external protective
+factors, individuals are able to face up to adverse life events and
+learn from their struggles to achieve further growth and positive
+cognitive development (92). As a result, individuals might avoid
+psychological dysfunction (31), be less likely to suffer from
+detrimental mental health outcomes (93), and raise the positive
+indicators such as the perceived well-being (32, 94) to contribute to
+the promotion of overall mental health (95–97). Additionally,
+similar positive effects have been explored through theoretical
+mechanisms. For instance, resilience can promote post-traumatic
+growth through the mediating effects of internal factors, such as
+positive emotions, and external factors, such as social support (98).
+Given the alarming mental health challenges faced by AYAs and the
+rising demand for effective mental health interventions (99), the
+results of this study provide a strong referential basis for developing
+targeted interventions that leverage resilience as a protective and
+promotive factor for mental health.
+This study explored the moderators influencing the correlation
+between resilience and mental health in AYAs, including percentage of
+female participants, sample regions, and resilience measurements. First,
+we found that sample regions moderated the correlation between
+resilience and positive indicators of mental health, whereas no such
+moderating effect was observed for negative indicators. Similar results
+have been found in previous studies, though the specifics vary (100).
+Our findings revealed that the correlations reported in studies
+conducted in Western countries were stronger than those from
+Eastern countries. The perspective of sociocultural differences
+between Western and Eastern societies may offer a potential
+explanation for this finding. Current researches and measurements
+of resilience are predominantly based on cognitive or individual-level
+characteristics (81), which align more closely with the individualistic
+cultural context of Western countries (101). In contrast, within the
+collectivist cultural context of Eastern societies, connections to broader
+social systems surrounding the individual should also be considered as
+a key dimension of resilience (102). However, only a limited number of
+scales in the existing literature have incorporated this aspect. Moreover,
+this finding may also be attributed to varying levels of awareness of the
+resilience concept. Greater awareness of resilience tends to foster
+positive attitudes and adaptive behaviors, which, in turn, strengthen
+the association between resilience and mental health outcomes (103).
+Given that the concept of resilience originated in Western contexts and
+has been studied across disciplines as early as the beginning of the 21st
+century (20), it is likely more established in Western cultures compared
+to Eastern ones (101), leading to the present findings of this study.
+However, in recent years, efforts to localize and adapt the concept of
+resilience within Eastern cultural frameworks have gained momentum,
+presenting promising opportunities for advancing cross-cultural
+resilience research (92, 104, 105).
+Second, resilience measurements also moderated the
+correlations between resilience and positive indicators of mental
+health in AYAs. Specifically, although the CD-RISC scale was
+considered the more commonly used instruments for assessing
+resilience (106), the RS scale yielded higher correlation coefficients
+in the studies included. One potential explanation is that in terms of
+applicability to the participant populations, the RS scales (including
+short versions) are considered to be more appropriate for the
+adolescent population, as well as possessing cross-age applicability
+(107). By contrast, the CD-RISC has shown better measurement
+properties when including general population and clinical samples,
+making it more applicable in the clinical practice through resilience
+interventions (16). In addition, the stability of the scales’ factor
+structure may also serve as a potential explanation for the findings.
+For instance, the original version of the CD-RISC-25 demonstrated
+instability in its proposed five-factor structure (16). Many
+researchers have reported that it is better represented by a threefactor structure (108) or one general factor (109). In contrast, the RS
+scale has consistently maintained its solid one-factor measure of
+resilience (81). Concerning the negative indicators of mental health,
+we did not find a moderating effect of the resilience measurements.
+Finally, while prior studies reported that a higher percentage of
+female participants strengthened the correlation between resilience
+and mental health (41, 84), this effect was not observed in our
+analysis when the percentage of female participants was higher
+(>50%) in either the positive or the negative indicators. This
+discrepancy may be explained by the limited number of included
+studies, necessitating cautious interpretation and future research to
+validate the findings.
+5 Limitations and future directions
+Although conducted in strict accordance with the relevant
+standards and procedures, the current meta-analysis has several
+limitations as follows. First, we used only Pearson’s correlation
+coefficient to measure effect sizes, which limited the number of
+studies we included in the meta-analysis and thus might affect the
+validity and generalization of the results. Future studies should consider
+incorporating other metrics such as phi-coefficient, point-biserial
+correlation, and Spearman rank-order correlation coefficient as well.
+Second, potential moderators were not comprehensive enough as we
+only considered percentage of female participants, sample regions, and
+resilience measurements. Future studies should take sufficient account
+of other variables, such as educational attainment, ethnicity, and
+adversity factors, all of which may influence the relationship between
+resilience and mental health in AYAs, particularly adversity factors.
+Finally, our meta-analysis, based mainly on cross-sectional studies, was
+not able to provide an explanation for the causal relationship between
+resilience and mental health among AYAs. Therefore, future research
+should prioritize the use of longitudinal study designs. For instance,
+tracking resilience and mental health indicators across multiple time
+points while addressing confounding factors can provide valuable
+insights into their potential causal relationships.
+6 Conclusions
+The current meta-analysis included 19 studies on the correlation
+between resilience and mental health in AYAs. Our results indicated
+that resilience showed a moderately negative correlation with negative
+indicators of mental health and a moderately strong positive
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 11 frontiersin.org
+correlation with positive indicators of mental health. Additionally, the
+strength of the correlation between resilience and positive indicators of
+mental health was moderated by sample regions and resilience
+measurements. By extending the application of the two-factor model
+of mental health, this study demonstrated that previous findings on the
+correlation between resilience and mental health in other age groups
+are also applicable to AYAs aged 10-25. This provides a more direct
+and robust basis for future studies of resilience in this population.
+Therefore, we advocate for the further exploration of targeted
+resilience-building interventions and strategies in school and
+workplace settings, which could effectively help to mitigate the
+increasing mental health challenges faced by AYAs.
+Author contributions
+SLL: Conceptualization, Data curation, Formal analysis, Funding
+acquisition, Investigation, Methodology, Project administration,
+Resources, Software, Supervision, Validation, Visualization,
+Writing – original draft, Writing – review & editing. JH: Data
+curation, Supervision, Validation, Writing – review & editing. JZ:
+Data curation, Supervision, Validation, Writing – review & editing.
+ZM: Data curation, Supervision, Validation, Writing – review &
+editing. ZT: Data curation, Supervision, Writing – review & editing.
+SL: Conceptualization, Data curation, Funding acquisition,
+Investigation, Methodology, Project administration, Supervision,
+Validation, Writing – review & editing.
+Funding
+The author(s) declare financial support was received for the
+research, authorship, and/or publication of this article. This
+research was supported by the National Social Science Fund of
+China (24BTY098).
+Conflict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the
+creation of this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their affiliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found online
+at: https://www.frontiersin.org/articles/10.3389/fpsyt.2025.
+1536553/full#supplementary-material
+References
+1. World Health Organization. Adolescent mental health (2020). Available online
+at: https://www.who.int/newsroom/fact-sheets/detail/adolescent-mental-health
+(Accessed September 23, 2024).
+2. American Psychiatric Association. Diagnostic and statistical manual of mental
+disorders: DSM-5 Vol. 5. Washington, DC: American psychiatric association (2013).
+3. Arnett JJ. Emerging adulthood: A theory of development from the late teens
+through the twenties. Am Psychol. (2000) 55:469. doi: 10.1037//0003-066x.55.5.469
+4. World Health Organization. Adolescent Health (2020). Available online at:
+https://www.who.int/zh/health-topics/adolescent-healthtab=tab_1 (Accessed
+September 23, 2024).
+5. Lieberman JA. Shrinks: The untold story of psychiatry. London, United Kingdom:
+Hachette UK (2015).
+6. Daly M. Prevalence of depression among adolescents in the US from 2009 to 2019:
+analysis of trends by sex, race/ethnicity, and income. J Adolesc Health. (2022) 70:496–9.
+doi: 10.1016/j.jadohealth.2021.08.026
+7. Substance Abuse and Mental Health Services Administration. Key substance use
+and mental health indicators in the United States: results from the 2019 National
+Survey on Drug Use and Health (2020). Available online at: https://www.samhsa.gov/
+data/sites/default/files/reports/rpt29393/2019NSDUHFFRPDFWHTML/
+2019NSDUHFFR1PDFW090120.pdf (Accessed September 25, 2024).
+8. Ma R, Mann F, Wang J, Lloyd-Evans B, Terhune J, Al-Shihabi A, et al. The
+effectiveness of interventions for reducing subjective and objective social isolation
+among people with mental health problems: a systematic review. Soc Psychiatry
+Psychiatr Epidemiol. (2020) 55:839–76. doi: 10.1007/s00127-019-01800-z
+9. Brouwers EP. Social stigma is an underestimated contributing factor to
+unemployment in people with mental illness or mental health issues: position paper
+and future directions. BMC Psychol. (2020) 8:1–7. doi: 10.1186/s40359-020-00399-0
+10. Esmaeelzadeh S, Moraros J, Thorpe L, Bird Y. Examining the association and
+directionality between mental health disorders and substance use among adolescents
+and young adults in the US and Canada—a systematic review and meta-analysis. J Clin
+Med. (2018) 7:543. doi: 10.3390/jcm7120543
+11. Ong MS, Lakoma M, Gees Bhosrekar S, Hickok J, McLean L, Murphy M, et al. Risk
+factors for suicide attempt in children, adolescents, and young adults hospitalized for mental
+health disorders. Child Adolesc Ment Health. (2021) 26:134–42. doi: 10.1111/camh.12400
+12. United Educators. Mental Health Issues on Campus: White Papers (2019).
+Available online at: https://www.ue.org/risk-management/online-courses/singlecourses/fostering-student-mental-health/?gclid=EAIaIQobChMImKHe79Dy6wIVBvl
+RCh2cKg43EAAYAiAAEgIg6fD_BwE (Accessed September 25, 2024).
+13. Uhlhaas PJ, Davey CG, Mehta UM, Shah J, Torous J, Allen NB, et al. Towards a
+youth mental health paradigm: a perspective and roadmap. Mol Psychiatry. (2023)
+28:3171–81. doi: 10.1038/s41380-023-02202-z
+14. Riepenhausen A, Wackerhagen C, Reppmann ZC, Deter H-C, Kalisch R, Veer
+IM, et al. Positive cognitive reappraisal in stress resilience, mental health, and wellbeing: A comprehensive systematic review. Emotion Rev. (2022) 14:310–31.
+doi: 10.1177/17540739221114642
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 12 frontiersin.org
+15. Garmezy N. The study of competence in children at risk for severe
+psychopathology. In: Anthony EJ, Koupernik C, editors. The child in his family:
+Children at psychiatric risk. New York, United States: John Wiley & Sons (1974).
+16. Connor KM, Davidson JR. Development of a new resilience scale: The ConnorDavidson resilience scale (CD-RISC). Depression Anxiety. (2003) 18:76–82.
+doi: 10.1002/da.10113
+17. Ong AD, Bergeman CS, Bisconti TL, Wallace KA. Psychological resilience,
+positive emotions, and successful adaptation to stress in later life. J Pers Soc Psychol.
+(2006) 91:730. doi: 10.1037/0022-3514.91.4.730
+18. Masten AS. Ordinary magic: Resilience processes in development. Am Psychol.
+(2001) 56:227. doi: 10.1037//0003-066X.56.3.227
+19. Harvey J, Delfabbro PH. Psychological resilience in disadvantaged youth: A
+critical overview. Aust Psychol. (2004) 39:3–13. doi: 10.1080/00050060410001660281
+20. Herrman H, Stewart DE, Diaz-Granados N, Berger EL, Jackson B, Yuen T. What
+is resilience? Can J Psychiatry. (2011) 56:258–65. doi: 10.1177/070674371105600504
+21. Russo SJ, Murrough JW, Han M-H, Charney DS, Nestler EJ. Neurobiology of
+resilience. Nat Neurosci. (2012) 15:1475–84. doi: 10.1038/nn.3234
+22. Southwick SM, Charney DS. The science of resilience: implications for the
+prevention and treatment of depression. Science. (2012) 338:79–82. doi: 10.1126/
+science.1222942
+23. Walsh F. Crisis, trauma, and challenge: A relational resilience approach for
+healing, transformation, and growth. Smith Coll Stud Soc Work. (2003) 74:49–71.
+doi: 10.1080/00377310309517704
+24. Steinhardt M, Dolbier C. Evaluation of a resilience intervention to enhance
+coping strategies and protective factors and decrease symptomatology. J Am Coll
+Health. (2008) 56:445–53. doi: 10.3200/JACH.56.44.445-454
+25. Rutter M. Annual research review: Resilience–clinical implications. J Child
+Psychol Psychiatry. (2013) 54:474–87. doi: 10.1111/j.1469-7610.2012.02615.x
+26. Zhang C, Ye M, Fu Y, Yang M, Luo F, Yuan J, et al. The psychological impact of
+the COVID-19 pandemic on teenagers in China. J Adolesc Health. (2020) 67:747–55.
+doi: 10.1016/j.jadohealth.2020.08.026
+27. Lenzo V, Sardella A, Musetti A, Quattropani MC, Franceschini C. Longitudinal
+associations between resilience and mental health during the COVID-19 pandemic.
+Clin Neuropsy. (2024) 21:189. doi: 10.36131/cnfioritieditore20240304
+28. Xu J, Yang X. The influence of resilience on stress reaction of college students
+during COVID-19: the mediating role of coping style and positive adaptive response.
+Curr Psychol. (2024) 43:12120–31. doi: 10.1007/s12144-022-04214-4
+29. Yang C, Zhou Y, Xia M. How resilience promotes mental health of patients with
+DSM-5 substance use disorder? The mediation roles of positive affect, self-esteem, and
+perceived social support. Front Psychiatry. (2020) 11:588968. doi: 10.3389/
+fpsyt.2020.588968
+30. Muniandy M, Richdale AL, Arnold SR, Trollor JN, Lawson LP. Interrelationships between trait resilience, coping strategies, and mental health outcomes
+in autistic adults. Autism Res. (2021) 14:2156–68. doi: 10.1002/aur.2564
+31. Richardson GE. The metatheory of resilience and resiliency. J Clin Psychol.
+(2002) 58:307–21. doi: 10.1002/jclp.10020
+32. Davydov DM, Stewart R, Ritchie K, Chaudieu I. Resilience and mental health.
+Clin Psychol Rev. (2010) 30:479–95. doi: 10.1016/j.cpr.2010.03.003
+33. Zimmerman MA, Stoddard SA, Eisman AB, Caldwell CH, Aiyer SM, Miller A.
+Adolescent resilience: resources and assets for informing prevention. Child Dev
+Perspect. (2013) 7:215–20. doi: 10.1111/cdep.12042
+34. Stroud LR, Foster E, Papandonatos GD, Handwerger K, Granger DA, Kivlighan
+KT, et al. Stress response and the adolescent transition: Performance versus peer
+rejection stressors. Dev Psychopathol. (2009) 21:47–68. doi: 10.1017/
+S0954579409000042
+35. Kogler L, Müller VI, Chang A, Eickhoff SB, Fox PT, Gur RC, et al. Psychosocial
+versus physiological stress—Meta-analyses on deactivations and activations of the
+neural correlates of stress reactions. Neuroimage. (2015) 119:235–51. doi: 10.1016/
+j.neuroimage.2015.06.059
+36. McGorry PD, Mei C, Chanen A, Hodges C, Alvarez-Jimenez M, Killackey E.
+Designing and scaling up integrated youth mental health care. World Psychiatry. (2022)
+21:61–76. doi: 10.1002/wps.20938
+37. Jagger C. Mental health indicators in Europe. Rep no ESA/STAT/AC. (2001)
+81:7–5. Available at: https://mdgs.un.org/unsd/disability/pdfs/ac.81-7-5.pdf (Accessed
+September 26, 2024).
+38. Fusar-Poli P, de Pablo GS, De Micheli A, Nieman DH, Correll CU, Kessing LV,
+et al. What is good mental health? A scoping review. Eur Neuropsychopharmacol.
+(2020) 31:33–46. doi: 10.1016/j.euroneuro.2019.12.105
+39. Greenspoon PJ, Saklofske DH. Toward an integration of subjective well-being
+and psychopathology. Soc Indic Res. (2001) 54:81–108. doi: 10.1023/A:1007219227883
+40. Suldo SM, Shaffer EJ. Looking beyond psychopathology: The dual-factor model
+of mental health in youth. School Psychol Rev. (2008) 37:52–68. doi: 10.1080/
+02796015.2008.12087908
+41. Chuang SP, Wu JYW, Wang CS. Resilience and quality of life in people with
+mental illness: A systematic review and meta-analysis. Neuropsychiatr Dis Treat. (2023)
+19:507–14. doi: 10.2147/NDT.S392332
+42. Ungar M. Resilience, trauma, context, and culture. Trauma Viol Abuse. (2013)
+14:255–66. doi: 10.1177/1524838013487805
+43. Zheng P, Gray MJ, Duan WJ, Ho SM, Xia M, Clapp JD. Cultural variations in
+resilience capacity and posttraumatic stress: A tri-cultural comparison. Cross-Cultural
+Res. (2020) 54:273–95. doi: 10.1177/1069397119887669
+44. Windle G, Bennett KM, Noyes J. A methodological review of resilience measurement
+scales. Health Qual Life Outcomes. (2011) 9:1–18. doi: 10.1186/1477-7525-9-8
+45. Martin J. Critical Appraisal Checklist for Analytical Cross-Sectional Studies Vol.
+7. Brisbane, Australia: Joanna Briggs Institute (2017) p. 2019–05. Available at: https://
+jbi.global/sites/default/files/2020-08/Checklist_for_Analytical_Cross_Sectional_
+Studies.pdf (Accessed September 27, 2024).
+46. Hall NY, Le L, Majmudar I, Mihalopoulos C. Barriers to accessing opioid substitution
+treatment for opioid use disorder: A systematic review from the client perspective. Drug
+Alcohol Depend. (2021) 221:108651. doi: 10.1016/j.drugalcdep.2021.108651
+47. Gignac GE, Szodorai ET. Effect size guidelines for individual differences
+researchers. Person Individual Differ. (2016) 102(2016):74–8. doi: 10.1016/
+j.paid.2016.06.069
+48. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in
+meta-analyses. BMJ. (2003) 327:557–60. doi: 10.1136/bmj.327.7414.557
+49. Borenstein M. Effect sizes based on means. In: Introduction to meta-analysis.
+Chichester, West Sussex: John Wiley & Sons Press (2009). p. 21-32. doi: 10.1002/
+9780470743386.ch4
+50. Egger M, Smith GD, Schneider M, Minder C. Bias in meta-analysis detected by a
+simple, graphical test. BMJ. (1997) 315:629–34. doi: 10.1136/bmj.315.7109.629
+51. Achour M, Nor MRM. The effects of social support and resilience on life
+satisfaction of secondary school students. J Acad Appl Stud. (2014) 4:12–20.
+52. Anyan F, Bizumic B, Hjemdal O. Specificity in mediated pathways by anxiety
+symptoms linking adolescent stress profiles to depressive symptoms: Results of a
+moderated mediation approach. J Affect Disord. (2018) 228:109–17. doi: 10.1016/
+j.jad.2017.12.011
+53. Doyle N, MacLachlan M, Fraser A, Stilz R, Lismont K, Cox H, et al. Resilience
+and well-being amongst seafarers: cross-sectional study of crew across 51 ships. Int
+Arch Occup Environ Health. (2016) 89:199–209. doi: 10.1007/s00420-015-1063-9
+54. Chow KM, Tang WKF, Chan WHC, Sit WHJ, Choi KC, Chan S. Resilience and
+well-being of university nursing students in Hong Kong: a cross-sectional study. BMC
+Med Educ. (2018) 13:1–8. doi: 10.1186/s12909-018-1119-0
+55. De la Fuente J, Santos FH, Garzón-Umerenkova A, Fadda S, Solinas G, Pignata S.
+Cross-sectional study of resilience, positivity and coping strategies as predictors of
+engagement-burnout in undergraduate students: implications for prevention and
+treatment in mental well-being. Front Psychiatry. (2021) 12:596453. doi: 10.3389/
+fpsyt.2021.596453
+56. Hjemdal O, Vogel PA, Solem S, Hagen K, Stiles TC. The relationship
+between resilience and levels of anxiety, depression, and obsessive–compulsive
+symptoms in adolescents. Clin Psychol Psychother. (2011) 18:314–21. doi: 10.1002/
+cpp.719
+57. Ibigbami OI, Folayan MO, Oginni OA, Lusher J. Mediating effects of
+psychological resilience and self-esteem on the association between early childhood
+adversity and depressive symptoms among adolescents in Nigeria. Adversity Resilience
+Sci. (2024) 5:257–66. doi: 10.1007/s42844-024-00133-4
+58. Las-Hayas C, Mateo-Abad M, Vergara I, Izco-Basurko I, González-Pinto A,
+Gabrielli S, et al. Relevance of well-being, resilience, and health-related quality of life to
+mental health profiles of European adolescents: results from a cross-sectional analysis
+of the school-based multinational UPRIGHT project. Soc Psychiatry Psychiatr
+Epidemiol. (2022) 57(2):279–91. doi: 10.1007/s00127-021-02156-z
+59. Lau WKW. The role of resilience in depression and anxiety symptoms: A threewave cross-lagged study. Stress Health. (2022) 38(4):804–12. doi: 10.1002/smi.3136
+60. Marulanda S, Addington J. Resilience in individuals at clinical high risk for
+psychosis. Early Intervent Psychiatry. (2016) 10:212–9. doi: 10.1111/eip.2016.10.issue-3
+61. Masuyama A, Kubo T, Shinkawa H, Sugawara D. The roles of trait and process
+resilience in relation of BIS/BAS and depressive symptoms among adolescents. PeerJ.
+(2022) 10:e13687. doi: 10.7717/peerj.13687
+62. Rayani AM, Alodhailah AM, Alreshidi SM. A cross-sectional study of resilience
+and well-being among nursing students in Saudi Arabia. SAGE Open Med. (2024)
+12:20503121241245224. doi: 10.1177/20503121241245224
+63. Rew L, Kelley M, Preston A. Psychological capital variables as protective factors
+in indigenous youth experiencing homelessness. Arch Psychiatr Nurs. (2024) 51:235–
+40. doi: 10.1016/j.apnu.2024.06.009
+64. Scheiner C, Seis C, Kleindienst N, Buerger A. Psychopathology, protective
+factors, and COVID-19 among adolescents: a structural equation model. Int J
+Environ Res Public Health. (2023) 20:2493. doi: 10.3390/ijerph20032493
+65. Shek DT, Liang LY. Psychosocial factors influencing individual well-being in
+Chinese adolescents in Hong Kong: A six-year longitudinal study. Appl Res Qual Life.
+(2018) 13:561–84. doi: 10.1007/s11482-017-9545-4
+66. Shi M, Liu L, Sun X, Wang L. Associations between symptoms of attentiondeficit/hyperactivity disorder and life satisfaction in medical students: the mediating
+effect of resilience. BMC Med Educ. (2018) 18:164. doi: 10.1186/s12909-018-1261-8
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 13 frontiersin.org
+67. Sia SK, Aneesh A. Single-parent adolescents’ Resilience and psychological wellbeing: the role of social competence and emotion regulation. J Indian Assoc Child
+Adolesc Ment Health. (2024) 20:205–11. doi: 10.1177/09731342241239441
+68. Visier-Alfonso ME, Sarabia-Cobo C, Cobo-Cuenca AI, Nieto-López M, LópezHonrubia R, Bartolomé
+-Gutié
+rrez R, et al. Stress, mental health, and protective factors
+in nursing students: An observational study. Nurse Educ Today. (2024) 139:106258.
+doi: 10.1016/j.nedt.2024.106258
+69. Zhu H, Song J, Zhang R, Wang B, Shen X. Developmental changes in and the
+relationship between psychological resilience and mental health problems in adolescents
+relocated for poverty alleviation in the context of COVID-19 epidemic prevention and
+control. Front Public Health. (2023) 11:1118535. doi: 10.3389/fpubh.2023.1118535
+70. Konaszewski K, Niesiobędzka M, Surzykiewicz J. Resilience and mental health
+among juveniles: role of strategies for coping with stress. Health Qual Life Outcomes.
+(2021) 19:58. doi: 10.1186/s12955-021-01701-3
+71. Ma L-L, Wang Y-Y, Yang Z-H, Huang D, Weng H, Zeng X-T. Methodological quality
+(risk of bias) assessment tools for primary and secondary medical studies: what are they and
+which is better? Military Med Res. (2020) 7:1–11. doi: 10.1186/s40779-020-00238-8
+72. Dunn LB, Iglewicz A, Moutier C. A conceptual model of medical student wellbeing: promoting resilience and preventing burnout. Acad Psychiatry. (2008) 32:44–53.
+doi: 10.1176/appi.ap.32.1.44
+73. Ramos-Dıaz E, Rodr ́ ıguez-Ferna ́ ́ndez A, Axpe I, Ferrara M. Perceived emotional
+intelligence and life satisfaction among adolescent students: The mediating role of
+resilience. J Happiness Stud. (2019) 20:2489–506. doi: 10.1007/s10902-018-0058-0
+74. Lara-Cabrera ML, Betancort M, Muñoz-Rubilar CA, Rodrıguez Novo N, De las ́
+Cuevas C. The mediating role of resilience in the relationship between perceived stress and
+mental health. Int J Environ Res Public Health. (2021) 18:9762. doi: 10.3390/ijerph18189762
+75. Mesman E, Vreeker A, Hillegers M. Resilience and mental health in children and
+adolescents: an update of the recent literature and future directions. Curr Opin
+Psychiatry. (2021) 34:586–92. doi: 10.1097/YCO.0000000000000741
+76. Tang Y, Ma Y, Zhang J, Wang H. The relationship between negative life events
+and quality of life in adolescents: mediated by resilience and social support. Front Public
+Health. (2022) 10:980104. doi: 10.3389/fpubh.2022.980104
+77. Ioannidou L, Michael K. Mental health and well-being in children: the protective
+role of resilience, self-esteem, self-efficacy, and parent-child relationship. psychol
+Thought. (2024) 17:483–507. doi: 10.37708/psyct.v17i2.946
+78. Hu T, Zhang D, Wang J. A meta-analysis of the trait resilience and mental
+health. Pers Individ Dif. (2015) 76:18–27. doi: 10.1016/j.paid.2014.11.039
+79. Klainin-Yobas P, Vongsirimas N, Ramirez DQ, Sarmiento J, Fernandez Z.
+Evaluating the relationships among stress, resilience and psychological well-being
+among young adults: a structural equation modelling approach. BMC Nurs. (2021)
+20:119. doi: 10.1186/s12912-021-00645-9
+80. Masten AS, ObradovićJ, Burt KB. Resilience in Emerging Adulthood: Developmental
+Perspectives on Continuity and Transformation. In: Arnett JJ, Tanner JL, editors. Emerging
+adults in America: Coming of age in the 21st century. Washington, DC, United States:
+American Psychological Association (2006). p. 173–90. doi: 10.1037/11381-007
+81. Madewell AN, Ponce-Garcia E. Assessing resilience in emerging adulthood: The
+resilience scale (RS), Connor–Davidson resilience scale (CD-RISC), and scale of protective
+factors (SPF). Pers Individ Dif. (2016) 97:249–55. doi: 10.1016/j.paid.2016.03.036
+82. Gibb SJ, Fergusson DM, Horwood LJ. Burden of psychiatric disorder in young
+adulthood and life outcomes at age 30. Br J Psychiatry. (2010) 197:122–7. doi: 10.1192/
+bjp.bp.109.076570
+83. World Health Organization. Mental health (2022). Available online at: https://
+www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-ourresponse (Accessed October 5, 2024).
+84. Wen L, Yang K, Chen J, He L, Xiu M, Qu M. Associations between resilience and
+symptoms of depression and anxiety among adolescents: Examining the moderating effects
+of family environment. J Affect Disord. (2023) 340:703–10. doi: 10.1016/j.jad.2023.08.063
+85. Gallagher ML, Miller AB. Suicidal thoughts and behavior in children and
+adolescents: an ecological model of resilience. Adolesc Res Rev. (2018) 3:123–54.
+doi: 10.1007/s40894-017-0066-z
+86. Srivastava AV, Brown R, Newport DJ, Rousseau JF, Wagner KD, Guzick A, et al.
+The role of resilience in the development of depression, anxiety, and post-traumatic
+stress disorder after trauma in children and adolescents. Psychiatry Res. (2024)
+334:115772. doi: 10.1016/j.psychres.2024.115772
+87. Ağırkaya K, Erdem R. Psikolojik sağlamlık: Sağlık çalışanları açısından bir
+değerlendirme. Pamukkale Üniversitesi İ
+sletme Aras ̧ ţırmaları Dergisi. (2023) 10:656–
+78. doi: 10.47097/piar.1254928
+88. Wu Y, Yu W, Wu X, Wan H, Wang Y, Lu G. Psychological resilience and
+positive coping styles among Chinese undergraduate students: a cross-sectional study.
+BMC Psychol. (2020) 8:79. doi: 10.1186/s40359-020-00444-y
+89. Simón-Saiz MJ, Fuentes-Chacón RM, Garrido-Abejar M, Serrano-Parra MD,
+Larrañaga-Rubio E, Yubero-Jiménez S. Influence of resilience on health-related quality
+of life in adolescents. Enfermerıa Cl ́ ınica (English Edition) ́ . (2018) 28:283–91.
+doi: 10.1016/j.enfcli.2018.06.003
+90. Altuntaş S, Genç H. Mutluluğun yordayıcısı olarak psikolojik sağlamlık:
+Öğ
+retmen örnekleminin incelenmesi. Hacettepe Üniversitesi Eğ
+itim Fakültesi Dergisi.
+(2020) 35:936–48. doi: 10.16986/HUJE.2018046021
+91. Yu X, Zhang J. Resilience: The psychological mechanism for recovery and
+growth during stress. Adv psychol Sci. (2005) 13:658. Available at: https://journal.psych.
+ac.cn/adps/EN/Y2005/V13/I05/658 (Accessed October 6, 2024).
+92. Yu X, Zhang J. Factor analysis and psychometric evaluation of the ConnorDavidson Resilience Scale (CD-RISC) with Chinese people. Soc Behav Personal: an Int
+J. (2007) 35:19–30. doi: 10.2224/sbp.2007.35.1.19
+93. Mak WW, Ng IS, Wong CC. Resilience: enhancing well-being through the
+positive cognitive triad. J Couns Psychol. (2011) 58:610. doi: 10.1037/a0025195
+94. Burt KB, Paysnick AA. Resilience in the transition to adulthood. Dev
+Psychopathol. (2012) 24:493–505. doi: 10.1017/S0954579412000119
+95. World Health Organization. Promoting mental health: concepts, emerging
+evidence, practice: a report of the World Health Organization. Geneva: Department of
+Mental Health and Substance Abuse in collaboration with the Victorian Health
+Promotion Foundation and the University of Melbourne (2005). p. 9791157467679.
+Available at: https://apps.who.int/iris/bitstream/handle/10665/42940/9241591595.pdf
+(Accessed October 7, 2024).
+96. Yoo C, Kahng SK. Two-dimensional mental health and related predictors among
+adolescents in Korea. Asian Soc Work Policy Rev. (2019) 13:66–77. doi: 10.1111/
+aswp.12157
+97. Grych J, Taylor E, Banyard V, Hamby S. Applying the dual factor model of
+mental health to understanding protective factors in adolescence. Am J Orthopsy.
+(2020) 90:458. doi: 10.1037/ort0000449
+98. Kong L, Fang M, Ma T, Li G, Yang F, Meng Q, et al. Positive affect mediates the
+relationships between resilience, social support and posttraumatic growth of women
+with infertility. Psycho Health Med. (2018) 23:707–16. doi: 10.1080/
+13548506.2018.1447679
+99. Hsu CJ, Ayres A, Payne L. Evaluating outcomes following adolescent and youth
+mental health inpatient admissions: A systematic review. Early Interv Psychiatry. (2024)
+18(7):481–501. doi: 10.1111/eip.13499
+100. Färber F, Rosendahl J. Trait resilience and mental health in older adults: A meta
+- analytic review. Pers Ment Health. (2020) 14:361–75. doi: 10.1002/pmh.1490
+101. Blessin M, Lehmann S, Kunzler AM, van Dick R, Lieb K. Resilience
+interventions conducted in western and eastern countries—a systematic review. Int J
+Environ Res Public Health. (2022) 19:6913. doi: 10.3390/ijerph19116913
+102. Chai XY, Li XY, Cao J, Lin DH. A short form of the Chinese positive youth
+development scale: development and validation in a large sample. Stud Psychol Behav.
+(2020) 18:631–7. Available at: https://psybeh.tjnu.edu.cn/CN/Y2020/V18/I5/631
+(Accessed October 6, 2024).
+103. Cleary A, Dowling M. Knowledge and attitudes of mental health
+professionals in Ireland to the concept of recovery in mental health: a
+questionnaire survey. J Psychiatr Ment Health Nurs. (2009) 16:539–45.
+doi: 10.1111/j.1365-2850.2009.01411.x
+104. Li S, Hao C, Ren J. Cross-cultural adaptation and validation of the Chinese
+version of the Trauma Resiliency Scale (tRS-18). BMC Psychiatry. (2024) 24:743.
+doi: 10.1186/s12888-024-06166-4
+105. Wang Y, Derakhshan A, Rahimpour H. Developing resilience among Chinese
+and Iranian EFL teachers: A multi-dimensional cross-cultural study. J Multilingual
+Multicult Dev. (2024) 45:2111–28. doi: 10.1080/01434632.2022.2042540
+106. Gucciardi DF, Jackson B, Coulter TJ, Mallett CJ. The Connor-Davidson
+Resilience Scale (CD-RISC): Dimensionality and age-related measurement invariance
+with Australian cricketers. Psychol Sport Exercise. (2011) 12:423–33. doi: 10.1016/
+j.psychsport.2011.02.005
+107. Ahern NR, Kiehl EM, Lou Sole M, Byers J. A review of instruments measuring
+resilience. Issues Compr Pediatr Nurs. (2006) 29:103–25. doi: 10.1080/
+01460860600677643
+108. Karaırmak Ö. Establishing the psychometric qualities of the Connor–Davidson
+Resilience Scale (CD-RISC) using exploratory and confirmatory factor analysis in a
+trauma survivor sample. Psychiatry Res. (2010) 179:350–6. doi: 10.1016/
+j.psychres.2009.09.012
+109. Burns RA, Anstey KJ. The Connor–Davidson Resilience Scale (CD-RISC):
+Testing the invariance of a uni-dimensional resilience measure that is independent of
+positive and negative effect. Pers Individ Dif. (2010) 48:527–31. doi: 10.1016/
+j.paid.2009.11.026
+Luo et al. 10.3389/fpsyt.2025.1536553
+Frontiers in Psychiatry 14 frontiersin.org

@@ -1,0 +1,29 @@
+Despite initial hopes, a common asthma drug doesn’t help patients with mild to moderate COVID-19. Researchers consider the trial a success because it provides clear answers that will guide future research.
+
+Montelukast was the last of six widely available drugs studied in the large clinical trial ACTIV-6, a collaboration between Duke Clinical Research Institute and Vanderbilt University. The National Institutes of Health (NIH) invested $155 million in this effort to repurpose existing drugs that are already proven safe for humans and showing preliminary evidence of effectiveness against COVID-19. Although none of the treatments showed efficacy in patients, understanding which drugs do not work is crucial.
+
+“I was not disappointed that we didn’t show a benefit,” said Christopher Lindsell, a biostatistician at Duke University who was part of the study’s research team. “I was happy that we answered the question.”
+
+Given that montelukast can have debilitating, and potentially lethal, side effects, such as suicidal thoughts, determining whether its benefits for COVID-19 would outweigh the risks was important. The trial results, published in October in JAMA Network Open, suggest that its failure to treat or improve COVID-19 symptoms means that researchers must find other candidates or develop new drugs, possibly with anti-inflammatory properties.
+
+Infections like COVID-19 trigger an immune response that may include inflammation, fever, or aches. When this healthy reaction becomes too strong, it can lead to a cytokine storm, which might turn deadly.
+
+In 2020, Geoffrey K. Tranmer, a medicinal chemist at the University of Manitoba who wasn’t involved in the ACTIV-6 trial, suggested that montelukast’s anti-inflammatory properties might help reduce this excessive immune response, protecting some individuals from severe symptoms.
+
+“It might not allow the immune system to go haywire and then create this cytokine storm,” Tranmer explained.
+
+Before ACTIV-6, a few smaller studies had suggested that montelukast might benefit hospitalized COVID-19 patients, but the drug hadn’t been studied in people with milder symptoms, which comprises the majority of COVID-19 cases in countries where vaccines are widely available.
+
+In a double-blind clinical trial, 1,250 participants aged 30 and above with mild to moderate COVID-19 symptoms received 10 mg of either montelukast or a placebo daily. Researchers measured the time it took for patients to be symptom-free for at least three consecutive days, gathered data on limitations in their everyday activities, and checked whether they required hospitalizations (no deaths occurred in either group). They found no significant differences between the treatment and placebo groups, but that doesn’t mean that montelukast has no potential uses in COVID-19 treatment.
+
+Machelle Wilchesky, an epidemiologist at McGill University who wasn’t involved in ACTIV-6, commented that the study “probably happened at the wrong time, given where we are in terms of symptom severity.” She hopes for a large clinical trial among hospitalized patients to see how montelukast performs when symptoms are more severe.
+
+Another possible explanation for ACTIV’s outcome is the delay in drug delivery. Tranmer pointed out that the pills were delivered to participants a few days after the onset of symptoms. “To try to reduce the severity, you need to take montelukast early enough,” he said.
+
+This delay was partly due to the design of ACTIV-6 — a decentralized clinical trial (DCT) — which was influenced by travel restrictions and social distancing requirements during the pandemic. Some or all of a DCT happens outside a traditional trial site, for example, in patients’ homes. Lindsell considers this design a good fit for studying repurposed treatments, where the drug is already known to be safe for self-administration in less controlled settings.
+
+“If a patient was going to take montelukast in the real world, they wouldn’t have a doctor looking over their shoulder,” Lindsell said.
+
+Tranmer believes that such a study wouldn’t have been possible without public funding. “No pharmaceutical company would take those generic drugs and try them in COVID or any other kind of disease,” he said.
+
+This is because if a widely available drug were repurposed, physicians would prescribe its cheap, generic version, bringing no additional income to the pharmaceutical company. According to Tranmer, that’s why “the ACTIV-6 clinical trial was and is exceptionally important.”

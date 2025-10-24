@@ -1,0 +1,845 @@
+Vol.:(0123456789)
+Current Diabetes Reports (2025) 25:19
+https://doi.org/10.1007/s11892-024-01574-y
+REVIEW
+Contextualization of Diabetes: A Review of Reviews from Organisation
+for Economic Co‑operation and Development (OECD) Countries
+Sieara Plebon‑Huff1  · Hubi Haji‑Mohamed1  · Helene Gardiner1  · Samantha Ghanem1  · Jessica Koh1  ·
+Allana G. LeBlanc1
+Accepted: 17 December 2024
+© Crown 2025
+Abstract
+Purpose of Review The prevalence of diabetes is rising around the world and represents an important public health concern.
+Unlike individual-level risk and protective factors related to the etiology of diabetes, contextual risk factors have been much
+less studied. Identification of contextual factors related to the risk of type 1 and type 2 diabetes in Organisation for Economic
+Co-operation and Development (OECD) countries may help health professionals, researchers, and policymakers to improve
+surveillance, develop policies and programs, and allocate funding.
+Recent Findings Among 4,470 potential articles, 48 were included in this review. All reviews were published in English
+between 2005 and 2023 and were conducted in over 20 different countries. This review identified ten upstream contextual
+risk factors related to type 1 and type 2 diabetes risk, including income, employment, education, immigration, race/ethnicity,
+geography, rural/urban status, built environment, environmental pollution, and food security/environment.
+Summary The ten upstream contextual risk factors identified this review may be integrated into diabetes research, surveillance and prevention activities to help promote better outcomes for people at risk or living with diabetes in OECD countries.
+Additional research is needed to better quantify the measures of associations between emerging key contextual factors and
+diabetes outcomes.
+Keywords Systematic review · Contextual factors · Diabetes · Surveillance
+Introduction
+Prevalence of diabetes has risen around the world and represents an important public health concern. While there
+is no cure, advances in pharmacotherapy and behavioural
+interventions have improved management such that people
+are living longer healthier lives with diabetes. Globally,
+approximately 10.5% of adults were living with diabetes in
+2021, and this is expected to rise to 12.2% by 2045 [1].
+The Organisation for Economic Co-operation and Development (OECD) is an international organisation collaborating with its 38 member countries who share similar economic structures and health system frameworks to establish
+international standards on a variety of key global issues,
+including improving public health. On average, across
+OECD countries, 6.9% of adults were living with diabetes
+in 2021, with age-standardized prevalence rates exceeding
+higher than 10% in some countries [2].
+Approximately 90% of all diabetes diagnoses are type 2
+diabetes (T2D), 9% are type 1 diabetes (T1D), and 1% are
+other types of diabetes [3]. T2D results from a wide range
+of modifiable and non-modifiable individual, social, and
+ecological factors. It can often be prevented or delayed and
+commonly affects adults [4, 5]. Conversely, T1D is an autoimmune disease, which cannot be prevented. Other types of
+diabetes include gestational diabetes, and types secondary
+to gene mutations, medications, or other medical conditions
+[5].
+The risk and management of diabetes are affected by a
+combination of individual characteristics and behaviours,
+and upstream contextual factors stemming from the social,
+economic, and physical environments [6]. Individuallevel risk factors have been extensively studied and often
+* Helene Gardiner
+helene.gardiner@phac.aspc.gc.ca
+1 Centre for Surveillance and Applied Research, Health
+Promotion and Chronic Disease Prevention Branch, Public
+Health Agency of Canada, 785 Carling Ave, Ottawa,
+Ontario K1A 0K9, Canada
+ 19 Page 2 of 13 Current Diabetes Reports (2025) 25:19
+concentrate on downstream aspects of health care, while
+upstream contextual factors are not well understood. Examples of upstream contextual factors include built environment, socioeconomic status, and culture [7]. A recent study
+examining geographic areas with high diabetes related
+mortality described these clusters as being less economically favourable, with high rates of unemployment and poor
+access to social services [8]. Moreover, Cunningham et al.
+[9] reported that 42% of the variation in diabetes incidence
+across the U.S. could be explained by socioeconomic and
+health inequalities such as higher unemployment rates,
+higher poverty rates, and longer commute times. A better
+understanding of upstream contextual factors related to diabetes risk is important to inform effective surveillance systems, public health policies, and programs to help reduce
+the risk of diabetes and improve the lives of those with the
+condition [10]. Thus, the purpose of this systematic review
+of reviews was to summarize the impact of upstream contextual factors related to the risk of T1D and T2D among
+OECD countries and to enhance diabetes surveillance activities through the application of health equity principles. We
+focused our review on OECD countries as they share a common goal of improving population health through a large
+range of determinants of health including upstream contextual factors [2], leading to a potentially greater amount of
+research on the topic.
+Methods
+Design
+Registration of this systematic review was performed through
+the International Prospective Register of Systematic Review
+(PROSPERO registration number: CRD42020148159)
+in adherence to the Population, Exposure, Comparisons,
+Outcomes, and Study design framework (PECO) [11] (see
+Table 1), and the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines [12].
+Search Strategy
+The search strategy was developed in partnership with
+the Health Library of Health Canada [13]. Embase and
+Medline were systematically searched using key words
+related to diabetes risk (e.g., diabetes incidence, diabetes
+prevalence) in OECD countries. Any type of review (e.g.,
+systematic, meta-analysis, narrative) that reported on rates
+of diabetes as they relate to contextual factors were eligible for inclusion. The term ‘contextual factor’ was defined
+as physical, societal, and environmental factors that are
+associated with health outcomes. Reviews presenting data
+exclusively on individual factors (e.g., genetic, individual wealth) related to diabetes risk, diabetes treatment or
+diagnosis practices, reviews from non-OECD countries,
+unpublished reviews, conference abstracts, and reviews
+published in languages other than English or French
+were excluded. To ensure factors were relevant to current
+policy considerations, only reviews published since 1999
+were eligible for inclusion. Within a given review, there
+were no date restrictions, and no exclusions with respect
+to characteristics of study participants, besides the fact
+that over 70% needed to be from OECD countries. Only
+reviews presenting data exclusively on T1D and/or T2D
+were included. All records were imported to RefWorks
+software where duplicates were removed. The search was
+completed on June 12, 2023.
+Study Selection
+Four reviewers (AL, SPH, HH, HG) screened titles and
+abstracts using Covidence software (Veritas Health Innovation Ltd, Australia) and Microsoft Excel 2010. Reviews
+identified as potentially relevant by at least one reviewer
+were retrieved for full-text evaluation. Discrepancies were
+resolved by consensus.
+Table 1  PECO criteria
+Population Review must include no more than 30% of publications from non-OECD countries.
+No exclusions with respect to age, gender, or ethnicity.
+Exposure Any contextual variables associated with diabetes (physical, sociocultural, political and economic environments).
+Comparator None required
+Outcomes Measures of association:
+• Risk ratio (RR): The risk of diabetes in the exposed group compared to the unexposed group.
+• Odds ratio (OR): The odds of diabetes in the exposed group compared to the unexposed group.
+Descriptive Measures:
+• Prevalence of diabetes (total proportion of cases in a population)
+• Incidence of diabetes (number of new cases, as a proportion or rate, in a given time period)
+Current Diabetes Reports (2025) 25:19 Page 3 of 13 19
+Data Extraction
+Data were extracted in Microsoft Excel 2010 by three
+reviewers (SPH, HH, HG), using a standardized and pilottested data collection tool. Information extracted included
+study author(s), publication date, study design, study country, number of primary articles included in review, study
+population, diabetes type(s), and contextual factor(s).
+Reviewers were not blinded to study details.
+Data Synthesis
+A narrative synthesis of each review was conducted. Where
+possible, study statistics were reported as prevalence (%),
+summary statistic (i.e. RR, OR), including 95% confidence
+intervals (CI). Each study could include multiple contextual
+factors.
+Quality Assessment
+Systematic reviews were scored with the AMSTAR 2 tool
+[14] as high quality (no, or one non-critical weakness), moderate quality (more than one non-critical weakness), low
+quality (one critical weakness, or several non-critical weaknesses), or critically low quality (more than one critical flaw
+with or without non-critical weaknesses). Narrative reviews
+or papers without clear methods selection were evaluated
+with the SANRA tool [15] as high quality (score≥10), moderate quality (7≤score<10), low quality (4≤score<9) or
+critically low quality (score<4).
+Results
+Review Selection
+After de-duplication, the search yielded 3,624 articles.
+A total of 309 were retained for full-text review and 48
+were included in this overview (Fig. 1). Characteristics of
+included reviews are available in Table 2.
+Quality Assessment
+Systematic reviews and meta-analyses (n=26) were evaluated with the AMSTAR 2 tool. Almost all (n=18) were
+assessed as critically low quality, five as low quality and
+three as moderate quality. Narrative reviews or reviews with
+no clear methods (n=22) were evaluated using the SANRA
+tool. Five ranked as high quality, ten as moderate and seven
+as low quality. Quality assessment of included reviews are
+available in Table 2.
+Summary of Findings
+Key contextual factors identified in the literature included
+income, employment, education, immigration, race/ethnicity, geography, rural/urban status, built environment, environmental pollution, as well as food security/environment.
+A summary of findings by contextual factor of interest is
+included in Table 3.
+Fig. 1  PRISMA flow diagram
+of articles included in review
+ 19 Page 4 of 13 Current Diabetes Reports (2025) 25:19 Table 2 Overview of included reviews Source Type of review (# primary studies included in the review) Diabetes type Study population(s) Contextual factor(s) Quality assessment (AMSTAR 2 or SANRA rating) Adeghate et al. (2006) [37] Narrative review T1D, T2D No specific focus Race/ethnicity, Rural vs. urban status environmental pollution, food security/environment Low Adhikari et al. (2012) [28] Systematic review (n=15) T1D, T2D Canadian immigrants Immigration, race/ethnicity Critically low Agardh et al. (2011) [16] Systematic review and meta-analy- sis (n=23) T2D No specific focus Income, employment, education Low Aguayo-Mazzucato et al. (2019) [21] Narrative review T2D Latino and Hispanic people Income, education, immigration High Agyemang et al. (2009) [40] Narrative review T2D People of Sub-Saharan African descent living in Europe Race/ethnicity Moderate Agyemang et al. (2021) [52] Narrative review T2D Migrants living in: Denmark, England and Wales, France, the Netherlands, Scotland, and Spain. Race/ethnicity, built environment, food security/environment Moderate Bhupathiraju et al. (2016) [41] Narrative review T2D US populations Race/ethnicity Low Borchers et al. (2010) [17] Narrative review T1D Children to adults under 40 years of age Income, race/ethnicity, rural vs. urban status Low Castro et al. (2009) [19] Narrative review T2D US Latino and other racial/ethnic populations Income, immigration, built environ- ment, food security/environment High Catherine et al. (2021) [24] Narrative review T1D, T2D Children aged 0–19 from UK, US Income Moderate Cheran et al. (2023) [44] Systematic review (n=13) T2D Indigenous populations in Canada Race/ethnicity Low Dabelea et al. (2021) [39] Review T1D, T2D Diabetes among 0–19 year olds from the US Race/ethnicity Moderate Danaei et al. (2011) [46] Meta-analysis (n=128) T1D, T2D Adults 25+ Income, geography Critically low Den Braver et al. (2018) [51] Systematic review (n=109) T2D No specific focus Rural vs. urban status, food secu- rity/environment Moderate Di Ciaula et al. (2021) [57] Systematic review(n=19) T1D Population aged 0–15 years in Europe Environmental pollution Critically low Durazo et al. (2016) [45] Narrative review T2D Latino population in the US Race/ethnicity, built environment, food security/environment High Fayfman et al. (2017) [33] Narrative review T2D Racial and ethnic minorities in the US Immigration, race/ethnicity, food security/environment Moderate Ferrie et al. (2016) [25] Meta-analysis (n=19) T2D Employed individuals living in Australia, Denmark, Finland, Sweden, UK and US Employment Critically low Goff et al. (2019) [32] Narrative review T2D UK migrants Immigration, race/ethnicity, urban vs. rural status High
+Gomber et al. (2022) [49] Systematic review (n=237) T1D Worldwide Geography Moderate
+Gucciardi et al. (2014) [59] Systematic review (n=39) T2D North America Food security/environment Critically low
+Current Diabetes Reports (2025) 25:19 Page 5 of 13 19 Table 2 (continued) Source Type of review (# primary studies included in the review) Diabetes type Study population(s) Contextual factor(s) Quality assessment (AMSTAR 2 or SANRA rating) Ismail et al. (2022) [35] Systematic review (n=10) T2D UK migrants Race/Ethnicity Critically low Kuo et al. (2013) [54] Systematic review (n=29) T2D No specific focus Environmental pollution Critically low Meo et al. (2022) [53] Systematic review and meta-analy- sis (n=16) T2D China, Canada, US, Australia, UK, Hong Kong, Korea, Belgium, Bangladesh Built environment Critically low Maier et al. (2013) [20] Meta-analysis (pooled analysis) (n=5) T2D German national population survey data Income, education Critically low Martinez-Cardoso et al. (2020) [23] Narrative review Not specified Immigrants living in US Income, employment, education, immigration, built environment Moderate Meeks et al. (2016) [38] Systematic review and meta-analy- sis (n=20) T2D Ethnic minority populations in Europe Race/ethnicity Critically low Minges et al. (2011) [43] Systematic review (n=24) T1D, T2D Indigenous populations in Australia Race/ethnicity, rural vs. urban status Critically low Montesi et al. (2016) [31] Narrative review T2D Migrants and ethnic minorities Immigration, rural vs. urban status Moderate Neuenschwander et al. (2020) [60] Systematic review and meta-analy- sis (n=23) T2D US, Europe, Asia, Australia, Food security/environment Low Oldroyd et al. (2005) [26] Narrative review T1D, T2D Ethnic minority groups Employment, race/ethnicity Low Park et al. (2014) [63] Systematic review (n=21) T2D No specific focus Environmental pollution Critically low Pearce et al. (2021) [64] Meta-analysis (n=27) T2D USA, France, UK, Netherlands, Sweden Switzerland, Italy, Spain, Australia, Korea, Finland, Ger- many, Iran, China, Puerto Rico Food security/environment Critically Low Perez-Escamilla et al. (2007) [34] Systematic review (n=27) T2D Latinos in the US Immigration Critically low Rathmann et al. (2013) [18] Narrative review T2D German adults Income, environmental pollution Moderate Ricci-Cabello et al. (2010) [61] Systematic review (n=25) T1D, T2D OECD countries with universal healthcare Income Low Sharp et al. (2009) [55] Narrative review T2D Aboriginal peoples in Canada Environmental pollution Low Testa et al. (2016) [30] Narrative review T2D European migrants Immigration, food security/environ- ment Low Thibault et al. (2016) [27] Systematic review (n=77) T2D Canadian population Income, education, rural vs. urban status, environmental pollution Critically low Vanderniet et al. (2022) [48] Narrative review T1D Worldwide Geography Moderate Wandell et al. (2010) [29] Systematic review (n=17) T2D Denmark, Finland, Iceland, Nor- way, Sweden Immigration Critically low Wang et al. (2020) [56] Meta-analysis (n=8) Not specified Denmark, Switzerland, South Korea, Canada, Sweden, Euro- pean Union Environmental pollution Low
+ 19 Page 6 of 13 Current Diabetes Reports (2025) 25:19
+Socioeconomic Status
+Socioeconomic status, measured via income, employment,
+or education, was consistently associated with increased risk
+of T2D. Agardh et al. [16] reported an overall increased risk
+of T2D in low socioeconomic groups whether measured by
+income (40%), education level (41%), or occupation (31%).
+Although there is considerable overlap between income,
+employment, and education, results are presented separately
+as much as possible.
+Income (
+n
+=13)
+Borchers et al. [17] reported that rates of T1D vary consid
+-
+erably but incidence is lowest in areas of highest material
+deprivation. High population density and household crowd
+-
+ing provided a better predictive model than global measures
+of socioeconomic deprivation. Incidence of T1D correlates
+most strongly with indicators of national prosperity such as
+gross domestic product and low infant mortality, although
+these results may be at least partially influenced by differ
+-
+ences between urban and rural areas which may only serve
+as proxies for environmental and lifestyle factors.
+Results from reviews focused on T2D suggest an
+increased risk of diabetes in the lower income groups. At the
+regional level, Rathmann and colleagues [18] reported that
+the unemployment rate and the regional economic climate
+of the governing body was associated with T2D prevalence.
+Using an Index of Multiple Deprivation, the DIAB-CORE
+consortium confirmed that diabetes is more prevalent in
+economically weaker regions and increases with unemploy
+-
+ment and poorly built environment [18]. Castro et al. [19]
+suggests that environmental factors such as impoverished
+neighborhoods are an important modifiable risk factor for
+T2D. Maier et al. [20] found that the risk of T2D was greater
+in lowest income groups compared to highest (OR 2.08, 95%
+CI 1.63–2.65), and in most deprived groups, compared to
+the least deprived (OR 2.43, 95% CI 1.47–4.04). In subgroup analysis by income level of high-income countries,
+low education level and low-income occupation level were
+associated with a 45% and a 31% increased risk of T2D,
+respectively [16]. Poverty or low socioeconomic status was
+found to increase the risk of incident T2D and related com
+-
+plications [21]. Data from a Canadian study illustrated a 14%
+higher incidence of T2D in Ontario in the lowest income
+quintile relative to the highest (8.26 per 1,000 vs. 7.25 per
+1,000), with consistent findings across all ages and sexes [22]. Some populations are overrepresented in lower paying
+job sectors (e.g., immigrants, ethnic minorities) and are at
+greater risk of deprivation, food insecurity, diabetes inci
+-
+dence, sub-optimal diabetes management, and poor glycemic
+Table
+control [23, 24].
+2 (continued)
+Source Type of review
+(# primary studies included in the
+review)
+Diabetes type Study population(s) Contextual factor(s) Quality assessment
+(AMSTAR 2 or SANRA
+rating)
+Wedekind et al. (2021) Narrative review T2D Indigenous populations in the US Race/ethnicity High
+Weisman et al. (2018) [22] Narrative review T2D Canada Income, education, race/ethnicity, rural vs. urban status, food
+security/environment
+High
+Wu et al. (2022) [ 47] Systematic review (n=25) T2D Youth Geography Moderate
+Yang et al. (2020) [58] Meta-analysis (n=16) T2D USA, Canada, Italy, Switzerland,
+Denmark, Germany, Hong Kong
+Environmental pollution Critically low
+Yang et al. (2021) [62] Narrative review T2D South Korean youth Race/ethnicity, environmental
+pollution
+Moderate
+Zabetian et al. (2014) [50] Systematic review, meta-analysis
+(n=109)
+T2D Rural regions of high and low/middle income countries Income, rural vs. urban status Critically low
+Current Diabetes Reports (2025) 25:19 Page 7 of 13 19
+Employment (n=4)
+Ferrie et al. [25] reported that high job insecurity at
+baseline was associated with an increased risk of T2D
+in the age- and sex-adjusted analysis compared with low
+job insecurity (OR 1.19, 95% CI 1.09–1.30). This also
+remained significant after adjusting for socioeconomic status, obesity, physical activity, smoking, and alcohol use
+(OR 1.12, 95% CI 1.01–1.24). Oldroyd et al. [26] reported
+higher age- and sex-standardized mortality rates for T1D
+and T2D in manual workers than in non-manual workers, independently of socioeconomic position. Based on
+income level of occupation, the lowest earning employment groups showed highest risk of T2D compared to
+the highest earning employment groups (RR 1.31, 95%
+CI 1.09–1.57) [16]. Martinez-Carsodo et al. [23] also
+reported that immigrants account for 30% of the uninsured
+population and tend to work in sectors without healthcare
+access. Thus, they are less likely to use healthcare, and are
+at increased risk of having undiagnosed (OR 3.74, 95%
+CI 2.29–6.08) or uncontrolled diabetes (OR 1.94, 95 CI
+1.31–2.88), compared to non-immigrant populations.
+Education (n=6)
+All included reviews reported a significant inverse relationship between education and risk of diabetes [16,
+20–23, 27]. For example, among Hispanics living in the
+US, prevalence of diabetes was 15% for those with less
+than a high school diploma, compared to only 7% among
+those with a bachelor’s degree or higher [21]. Agardh
+et al. [26] showed that T2D risk was significantly higher
+in the lowest, compared to the highest education group
+(RR 1.41, 95% CI 1.28–1.51). Similarly, Maier et al. [20]
+reported an increased risk of diabetes for those with low
+compared to medium/high education levels (OR 1.99, 95%
+CI 1.71–2.32).
+Table 3  Summary of findings from included reviews
+Contextual factor # of reviews
+(# of systematic
+reviews or metaanalysis)
+Summary of findings
+Income n=13(6) Inverse association between income and incidence and prevalence rates of diabetes, such
+that diabetes disproportionately affects those in lower income groups [16, 17, 18, 19,
+21, 22, 61, 23, 20, 27, 24, 50, 46].
+Employment n=4(2) Incidence of diabetes was higher among those who reported high job insecurity and
+among low occupation groups [16,23,25,26].
+Education n=6(3) Significant inverse relationship between education and prevalence of diabetes, although
+this may be at least partially mediated by income [16,21,22,23,20,27].
+Immigration n=10(3) Recent immigration, and increased level of acculturation are associated with increased
+prevalence of diabetes. This may be mediated by income of native country [19,21,23,2
+8,34,29,31,32,33,30].
+Race and ethnicity n=17(4) Incidence and prevalence of both T1D, and T2D are higher among some race and ethnic
+groups [17,22,26,32,33,43,38,37,39,40,41,45,52,28,62,42,44].
+Geography n=4(2) Most adults living with T2D were from China, India, USA, Russia, Indonesia, Japan, and
+Mexico [46]. Highest rates of T2D in youth were in the Western Pacific Region and
+in the World Bank upper-middle-income countries [47]. T1D incidence is highest in
+countries furthest from the Ecuador [48,49]
+Rural and urban status n=9(4) For T1D, decreased population density is associated with increased rate of disease,
+although this may be dependent of geographical location. For T2D, rates of diabetes
+are higher in more rural areas and in high density urban areas among at risk ethnic
+populations, although this may be mediated by socioeconomic status, genetics, or both
+[17,50,31,43,37,27,51,22,32].
+Built environment n=5(1) Evidence suggesting that an environment that promotes walkability, access to greenspaces, and safe and connected streets is associated with lower levels of obesity and
+higher levels of physical activity, which in
+turn may impact rates of diabetes [19,23,45,52,53].
+Environmental pollution n=10(6) Evidence suggesting that some environmental pollutants (air, food, and noise) are related
+to increased incidence and prevalence of diabetes, but this evidence is not definitive
+[18,37,27,54,63,57,55,56,58].
+Food security and environment n=11(4) Inverse relationship between diet quality and prevalence rates of diabetes. Food insecurity also plays and important role in the risk of diabetes [22,30,33,37,45,51,64,60,59,1
+9,52].
+ 19 Page 8 of 13 Current Diabetes Reports (2025) 25:19
+Immigration, Race and Ethnicity
+In many cases, it was difficult to disentangle discussion
+about immigration, race and ethnicity due to the inherent
+complexity of these terms and confounding variables. Often,
+all three concepts were used to calculate acculturation index,
+which are delineated in the next sections. These concepts
+were defined by the authors of each review to reflect the
+unique racial and ethnic composition of their study population, shaped by the region’s historical context, current sociopolitical landscape, and geographical characteristics.
+Immigration (n=10)
+In most reviews, immigration was defined as time since
+arrival, country of origin, parents’ country of origin, or ethnic background. Overall, it appeared that time since arrival
+was correlated with prevalence of diabetes. Adhikari et al.
+[28] reported a higher prevalence of diabetes among immigrants living in Canada for 15 years or more (male OR 1.52;
+female OR 1.40) compared to residents of 5 to 9 years. In
+Denmark, Finland, Iceland, and Norway, prevalence of T2D
+was highest among immigrants of non-OECD countries, followed by immigrants of OECD countries; non-immigrants
+had the lowest rates of diabetes [29]. Results were similar
+from other reviews with higher reports of diabetes prevalence and incidence rates among non-European migrants
+compared to European born people [30–32]. Length of residence in the US was positively correlated with prevalence of
+T2D, suggesting that immigrants’ health worsens with time
+spent in the US [23, 33].
+Acculturation, or the level to which immigrants adopt
+attitudes, values, customs, beliefs, and behaviours of a new
+culture, may also help to explain disease risk [34]. Acculturation is often calculated as an index based on proxy
+indicators such as birthplace, language use, and number of
+years spent in a new country. Low levels of acculturation
+were associated with better health, including lower rates of
+T2D among Latinos in the US [34]. Based on results from
+the National Health and Nutrition Examination Study in the
+US, Aguayo-Mazzucato et al. [21] reported increased risk of
+T2D corresponding to the level of acculturation with scores
+ranging from 0 (lowest) to 3 (highest). After adjusting for
+socio-demographic factors, the study found an increased
+risk of T2D for acculturation scores of 1 (OR 1.71, 95% CI
+1.31–2.23), of 2 (OR 1.63, 95% CI 1.11–2.39) and of 3 (OR
+2.05, 95% CI 1.27–3.29) compared to those with a score of
+0. Also, Castro et al. [19] reported that T2D prevalence was
+significantly associated with acculturation in non-Mexican
+Latinos, but not in Mexican-origin Latinos nor in people of
+Chinese origin. Finally, English proficiency among Indian
+and Bangladeshi UK migrants was associated with a lower
+prevalence of diagnosed and undiagnosed diabetes [35].
+Race and Ethnicity (n=17)
+Although sometimes used interchangeably, race categorizes
+people solely based on their physical characteristics, while
+ethnicity is a multi-dimensional concept that categorizes
+people based on their culture, religion, language, nationality, geographic origin, etc [36]. Highest rates of T1D were
+found in Nordic countries and lowest rates were found in
+Asian, Caribbean, and southern European countries [37].
+Outside of Nordic countries, prevalence of T1D seems to
+be highest among non-Hispanic whites compared to other
+ethnic groups. This may be due to European ancestry of this
+group in the US, Canada, Australia, and New Zealand [17].
+On the other hand, T2D prevalence was two to three times
+higher among minority ethnic groups in the UK, compared
+to the white British population [32]. Moreover, several
+reviews have shown rates of T2D to be lowest in non-Hispanic whites and highest among South Asians [22, 26, 28,
+33, 38–41]. For example, in a pooled analysis, Meeks et al.
+[38] reported that compared to people of European descent,
+South Asians had the highest risk of T2D (OR 3.7, 95% CI
+2.7–5.1), followed by people of Middle Eastern and North
+African, Sub-Saharan African, Western Pacific, and South
+and Central American descent. According to Agyemang
+et al. [40], migrants living in Europe have an increased risk
+of T2D compared to the general population: South Asia (OR
+3.7, CI 95% 2.7–5.1); Middle East (OR 2.7, CI 95%1.8–3.9);
+North Africa, Sub-Saharan Africa (OR 2.6, CI 95% 2.0–3.5)
+and South and Central America (OR 1.3, CI 95% 1.1–1.6).
+The prevalence of type 2 diabetes was also higher among
+Indigenous people in Canada [22, 28], in the United-States
+[42] and in Australia [43] compared to other ethnic groups.
+Multiple and complex contextual factors have been contributing to the increased risk of diabetes in the indigenous
+population in Canada, including the impact of centuries of
+colonization and marginalization, and other environmental,
+sociocultural, socioeconomic, and biological/genetic factors
+[44]. Durazo et al. [45] examined the neighbourhood concentration of race and ethnic minority groups and although
+results were mixed, some studies indicated that residents
+of ethnic enclaves exhibit better health than those living
+outside.
+Environment
+Geography (n=4)
+The burden of T2D was found to increase generally in countries with a growth and ageing population. Most adults living
+with T2D were from China and India (40%), USA and Russia
+(10%), and Indonesia, Japan, and Mexico (12%) [46]. Most
+youth living with T2D were from the Western Pacific Region
+(30%) and from the World Bank upper-middle-income 
+Current Diabetes Reports (2025) 25:19 Page 9 of 13 19
+countries (40%). Countries with highest incidence of T2D
+in youth were China, India, and United States [47]. T1D
+rates were found to be highest in countries furthest from the
+equator such as Northern Europe Australia, New Zealand,
+Northern America and Northern Africa [48, 49].
+Rural and Urban Status (n=9)
+Borchers et al. [17] found that T1D prevalence was highest
+in areas with lower population density, such as rural areas.
+For T2D, evidence shows that rural areas tend to have higher
+rates compared to urban areas, although this may be related
+partially to socioeconomic status and the presence of risk
+factors for diabetes, like obesity [31, 37, 50]. A few authors
+[22, 31] suggest that economic development and rapid
+urbanization in low to middle-income countries have contributed to increasing rates of diabetes. Within Canada, they
+reported geographic variation, with the lowest rates in Western Canada (British Columbia, 5.5%) and the highest rates
+in Newfoundland (9.0%). Minges et al. [43] reported, based
+on all three studies they included, diabetes prevalence in
+indigenous Australian populations living in remote area was
+approximately twice that in the urban populations. Finally,
+after stratifying by country-level income, a meta-analysis of
+19 studies [51] showed that the risk of T2D in urban versus
+rural areas was not significantly different (OR 1.15, 95%
+CI 0.70–1.89), however, highly walkable neighbourhoods
+were associated with a decreased in risk (OR 0.79, 95% CI
+0.71–0.87).
+Built Environment (n=5)
+Limited evidence from four narrative reviews suggested that
+an environment promoting walkability, access to greenspaces and safe and connected streets is associated with lower
+levels of obesity and higher levels of physical activity, which
+in turn impact rates of T2D [19, 23, 45, 52]. Neighbourhood
+characteristics like density of healthy food outlets or fastfood outlets, crime, perceived safety, walkability and access
+to parks/green space was found to impact insulin resistance
+and diabetes through their influence on physical activity and
+diet [45]. A meta-analysis of 13 studies concluded that green
+residential environment was associated with a decrease in
+T2D prevalence (OR 0.88, 95% CI 0.86–0.89) and mortality
+(HR 0.92, 95% CI 0.90–0.93) [53].
+Environmental Pollution (n=10)
+Limited evidence shows that environmental pollutants in
+food sources may be associated with an increased risk of diabetes. High intake of nitrites and n-nitroso compounds were
+associated with T1D in children [37]. Kuo et al. [54] also
+noted a causal association between T2D and the presence
+of arsenic, mercury, cadmium, persistent organic pollutants (POP), phthalates, and bisphenol A (BPA) in foods.
+Consuming contaminated water and foods can result in the
+bioaccumulation of environmental toxins in the food chain
+like arsenic, mercury, diocin-like compounds, phalates, and
+BPA [55]. These contaminants can interfere with pancreas
+function and disrupt the endocrine system leading to obesity,
+a known risk factor for diabetes. Indigenous people in Canada experience 3–5 times higher rates of diabetes compared
+to the general population; this disparity may be partially
+explained by the bioaccumulation of toxins in traditional
+diet (wild game and fish) [55].
+In general, there were limited details on measurement of
+environmental pollutants, but many studies included satellite images of pollution level in combination with health
+administrative data sources. Air-borne pollutants result from
+many [56] mitigatable contextual sources, including but not
+limited to forest fires, road traffic, manufacturing industries,
+and in home settings. For example, Thibault et al.’s [27]
+systematic review focusing on Canadian population found
+that nitrogen dioxide (NO2), particulate matter (PM), POP,
+and non-persistent pesticides could partially explain recent
+increase in T2D prevalence. Also, prolonged exposure to
+NO2, PM2.5, and PM10 has been associated with increased
+risk of T2D [27, 57, 58]. Stratified analysis indicated that
+PM2.5 exposure was associated with an increase in T2D
+incidence in American countries, but not in European countries [58]. Di Ciaula and colleagues [57] found that T1D
+incidence among youth aged 0–15 years was greater in European countries with greater emissions of PM10, NO, and
+volatile organic compounds (VOCs).Wang et al. [56] found
+that noise pollution may also increase the odds of developing
+diabetes (OR 1.08; 95% CI 1.03–1.12).
+Food Security/Environment (n=11)
+Upstream contextual factors contributing to poor diet
+includes food insecurity, and poor food environment characterised by limited access to healthy foods or access to an
+abundance of unhealthy foods. In general, an inverse relationship between diet quality and rates of T2D was observed.
+Poor diet was generally defined as energy dense and nutrient
+poor.
+After controlling for income, employment status, and
+some physical/lifestyle factors, Gucciardi et al. [59] found
+that the prevalence of T2D was 2–3 times higher among
+adults who experience food insecurity in North America
+compared to those that are food secure. The prevalence of
+food insecurity was also higher among those with diabetes and the risk of food insecurity increased with length
+of diabetes diagnosis. More specifically, four reviews suggested that income plays an important role such that those
+experiencing food insecurity or living in food deserts are 
+ 19 Page 10 of 13 Current Diabetes Reports (2025) 25:19
+at increased risk of T2D [19, 33, 37, 60]. On the contrary,
+den Braver et al. [51], concluded that there is no statistically
+significant relationship between availability of supermarkets/
+grocery stores, or availability of fast-food outlets/convenience stores, and risk of T2D.
+Adeghate et al. [37] reported that diets higher in fat, and
+lower in fibre are associated with obesity and T2D. Weisman et al. [22] indicated that consumption of high glycemic
+index foods and sugar-sweetened beverages are associated
+with increased risk of T2D, and that high fiber foods has a
+protective effect.
+Discussion
+This overview aimed to identify physical, socio-cultural,
+environmental, political, and/or economic contextual factors related to the incidence or prevalence of T1D and T2D.
+This review identified 48 reviews, including 26 systematic
+reviews (with or without meta-analysis), and 22 narrative
+reviews.
+Ten contextual factors related to diabetes were identified:
+income, employment, education, immigration, race/ethnicity, geography, built environment, environmental pollution,
+rural/urban status, and food security/environment.
+Due to heterogeneous nature of reviews regarding population characteristics, study location, measures used, and
+outcomes reported, summary statistics could not be calculated. However, our results suggest that race/ethnicity and
+income may be the most important factors related to diabetes
+prevalence and that many of the identified contextual factors
+interact with each other and may be confounded by overlapping variables. For example, rural or urban status may
+be an important factor related to diabetes prevalence, but
+this may also be because those living in rural regions may
+belong to lower socioeconomic groups, and may be exposed
+to poor built environment, therefore putting them at higher
+risk for obesity and diabetes. These findings should be interpreted with caution since some primary studies may have not
+been in the included reviews or were over-represented due
+to overlap across reviews. Additionally, reviews identified
+both individual-level and ecological studies. More evidence
+amongst individuals with diabetes would be beneficial to
+strengthen current measures of association related to diabetes and upstream contextual factors.
+Our initial protocol only included the AMSTAR 2 quality assessment tool, specifically designed for systematic
+reviews. Since almost half of the reviews were narrative,
+we had to incorporate a second quality assessment tool
+(SANRA). Most systematic reviews were of low or critically low quality, while most narrative reviews were ranked
+as moderate to low quality. Given that the World Health
+Organization identified diabetes as “one of the major public
+health challenges in the 21st century” [65] and considering
+the OECD’s highlights the influence of demographic, economic, and social contexts on health status and outcomes
+[2], it is surprising that there is lack of high-quality evidence
+from OECD countries. This further emphasizes the need for
+more studies of good quality providing qualitative evidence
+on contextual factors related to diabetes risk.
+Despite the low quality and lack of qualitative evidence in
+the current literature, this work provides insights into some
+broader factors that may influence rates of diabetes that warrant further investigation and that could be incorporated into
+future diabetes surveillance reporting among OECD countries. Several reports [66–68], have called upon improvements of public health surveillance through the monitoring
+of social determinants of health to support health promotion, intervention programs, and chronic disease prevention.
+Therefore, health surveillance systems should go beyond
+traditional disease indicators, and incorporate contextdependent metrics to apply health equity principles. This
+broadens the system’s capacity to monitor intervention and
+policy effectiveness, offering potential insights into observed
+trends or patterns [69].
+Conclusion
+In addition to shaping the values and relationships attributed to health, socioeconomic, cultural, political, and physical contexts also contribute to the availability, distribution
+and quality of public infrastructure and resources. These
+in turn impact key social determinants of health such as
+housing, education, social services, and healthcare that
+contribute to the burden of diabetes and other chronic diseases in OECD countries [10].This review identified ten
+provisional upstream contextual variables that should be
+further explored, including income, employment, education,
+immigration, race/ethnicity, geography, built environment,
+environmental pollution, rural/urban status, and food security. Thus, qualitative evidence on these factors at the individual level, including comparators without diabetes, can
+inform urban planning for a healthier living environment.
+Future research should delve into non-traditional diabetes
+risk factors like built environment, environmental pollution,
+and food security/environment to enhance surveillance and
+inform public health policies.
+Key references
+1. Agyemang et al. (2021) [52] (very important): This
+review examines the high burden of type 2 diabetes
+among migrant populations in Europe, identifying complex causal pathways involving social, environmental, 
+Current Diabetes Reports (2025) 25:19 Page 11 of 13 19
+and healthcare-related factors. It highlights differences
+in type 2 diabetes rates across racial and ethnic groups,
+the influence of the built environment, and the role of
+food security in diabetes risk. These findings suggest
+that investigating structural inequalities is key to improving diabetes outcomes among migrant populations, and
+supports our argument for focusing on upstream factors
+in diabetes prevention.
+2. Dabelea et al. (2021) [39] (very important): This review,
+drawing on twenty years of surveillance data, concluded
+that significant disparities exist in pediatric type 1 and
+type 2 diabetes rates across racial and ethnic groups.
+It highlights the importance of identifying key social
+determinants of health and emphasizes the need to consider these factors when shaping health policies, particularly during the transition from pediatric to adult care.
+3. Gomber et al. (2022) [49] (important): This scoping
+review examines the global variation in T1D incidence,
+particularly among children and adolescents, with an
+emphasis on the variability in incidence rates of T1D
+by geographic region, income group, and age. The paper
+supports the exploration of geographical factors influencing diabetes outcomes.
+Author Contributions AGL and SG contributed to the conceptualization of the work; AGL and SPH designed the search strategy; AGL,
+SPH, HH, and HG performed the study selection; SPH, HH, and HG
+conducted the data extraction and interpretation of data; AGL and SPH
+drafted the original manuscript; HG, HH, JK, AGL, and SPH revised
+the manuscript critically for important intellectual content. JK reviewed
+and edited the manuscript. All authors approved the final manuscript.
+Funding Open access funding provided by Public Health Agency of
+Canada library. The authors have no competing interests to declare
+that are relevant to the content of this article. There are no relevant
+financial or non-financial interests to disclose. No funds, grants, or
+other support was received.
+Data Availability No datasets were generated or analysed during the
+current study.
+Declarations
+Human/Animal Studies informed consent statement This article does
+not contain any studies with human or animal subjects performed by
+any of the authors.
+Competing Interests The authors declare no competing interests.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in
+the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will
+need to obtain permission directly from the copyright holder. To view a
+copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+1. IDF Atlas 10th Edition Committee 2021. IDF Diabetes Atlas.
+2021 [cited 2024 Dec 3]. Available from: https://diabetesatlas.
+org/atlas/tenth-edition/
+2. OECD. (2023), Health at a Glance 2023: OECD Indicators. Paris:
+OECD Publishing; 2023 [cited 2024 Dec 09]. Available from:
+https://www.oecd-ilibrary.org/social-issues-migration-health/
+health-at-a-glance-2023_7a7afb35-en
+3. LeBlanc AG, Gao YJ, McRae L et al. At-a-glance - twenty years
+of diabetes surveillance using the Canadian chronic Disease Surveillance System. Health Promotion and Chronic Disease Prevention in Canada. Health Promot Chronic Dis Prev Can. 2019
+November; 39(11): 306–9. https://doi.org/10.24095/hpcdp.39.11.
+03
+4. Ong KL, Stafford LK, McLaughlin SA, et al. Global, regional, and
+national burden of diabetes from 1990 to 2021, with projections
+of prevalence to 2050: a systematic analysis for the global burden
+of Disease Study 2021. Lancet. 2023;402(10397):203–34. https://
+doi.org/10.1016/S0140-6736(23)01301-6.
+5. Diabetes Canada. Clinical Practice Guidelines. 2018 [cited 2019
+Dec 19]. Available from: https://guidelines.diabetes.ca/cpg
+6. Public Health Agency of Canada. Framework for Diabetes in
+Canada. Ottawa (ON): Public Health Agency of Canada. 2022.
+[cited 2024 May 8]. Available from: https://www.canada.ca/en/
+public-health/services/publications/diseases-conditions/frame
+work-diabetes-canada.html
+7. World Health Organization. Determinants of Health. 2017. [cited
+2024 May 8]. Available from: https://www.who.int/news-room/
+questions-and-answers/item/determinants-of-health
+8. Turi KN, Grigsby-Toussaint DS. Spatial spillover and the socioecological determinants of diabetes-related mortality across US
+counties. Appl Geogr. 2017;85:62–72. https://doi.org/10.1016/j.
+apgeog.2017.05.005.
+9. Cunningham SA, Patel SA, Beckles GL, et al. County-level contextual factors associated with diabetes incidence in the United
+States. Ann Epidemiol. 2018;28(1):20–5. https://doi.org/10.
+1016/j.annepidem.2017.11.002.
+10. Dover DC, Belon AP. The health equity measurement framework:
+a comprehensive model to measure social inequities in health.
+Int J Equity Health. 2019;18(1):36. https://doi.org/10.1186/
+s12939-019-0935-0.
+11. Morgan RL, Whaley P, Thayer KA, et al. Identifying the PECO: a
+framework for formulating good questions to explore the association of environmental and other exposures with health outcomes.
+Environ Int. 2018;121(1):1027–31. https://doi.org/10.1016/j.
+envint.2018.07.015.
+12. Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items
+for systematic reviews and meta-analyses: the PRISMA statement.
+PLoS Med. 2009;6(7):e1000097. https://doi.org/10.1371/journal.
+pmed.1000097.
+13. Government of Canada. Health Library. 2022. Available from:
+https://science-libraries.canada.ca/eng/health/
+14. Shea BJ, Reeves BC, Wells G, et  al. AMSTAR 2: a critical
+appraisal tool for systematic reviews that include randomised or
+non-randomised studies of healthcare interventions, or both. BMJ.
+2017;358:j4008. https://doi.org/10.1136/bmj.j4008.
+ 19 Page 12 of 13 Current Diabetes Reports (2025) 25:19
+15. Baethge C, Goldbeck-Wood S, Mertens S. SANRA-a scale for the
+quality assessment of narrative review articles. Res Integr Peer
+Rev. 2019;4:5. https://doi.org/10.1186/s41073-019-0064-8.
+16. Agardh E, Allebeck P, Hallqvist J, et al. Type 2 diabetes incidence
+and socio-economic position: a systematic review and meta-analysis. Int J Epidemiol. 2011;40(3):804–18. https://doi.org/10.1093/
+ije/dyr029.
+17. Borchers AT, Uibo R, Gershwin ME. The geoepidemiology of
+type 1 diabetes. Autoimmun Rev. 2010;9(5):355–65. https://doi.
+org/10.1016/j.autrev.2009.12.003.
+18. Rathmann W, Scheidt-Nave C, Roden M, et al. Type 2 diabetes:
+prevalence and relevance of genetic and acquired factors for its
+prediction. Dtsch Arztebl Int. 2013;110(19):331-7. https://doi.org/
+10.3238/arztebl.2013.0331.
+19. Castro FG, Shaibi GQ, Boehm-Smith E. Ecodevelopmental contexts for preventing type 2 diabetes in latino and other racial/
+ethnic minority populations. J Behav Med. 2009;32(1):89–105.
+https://doi.org/10.1007/s10865-008-9194-z.
+20. Maier W, Holle R, Hunger M, et al. The impact of regional deprivation and individual socio-economic status on the prevalence of
+type 2 diabetes in Germany. A pooled analysis of five populationbased studies. Diabet Med. 2013;30(3):78–86. https://doi.org/10.
+1111/dme.12062.
+21. Aguayo-Mazzucato C, Diaque P, Hernandez S, et al. Understanding the growing epidemic of type 2 diabetes in the hispanic
+population living in the United States. Diabetes Metab Res Rev.
+2019;35(2):e3097. https://doi.org/10.1002/dmrr.3097.
+22. Weisman A, Fazli GS, Johns A, et al. Evolving trends in the epidemiology, risk factors, and prevention of type 2 diabetes: a review.
+Can J Cardiol. 2018;34(5):552–64. https://doi.org/10.1016/j.cjca.
+2018.03.002.
+23. Martinez-Cardoso A, Jang W, Baig AA. Moving diabetes
+Upstream: the Social determinants of Diabetes Management
+and Control among immigrants in the US. Curr Diab Rep.
+2020;20(10):48. https://doi.org/10.1007/s11892-020-01332-w.
+24. Catherine JP, Russell MV, Peter CH. The impact of race and
+socioeconomic factors on paediatric diabetes. EClinicalMedicine. 2021;6(42):101186. https://doi.org/10.1016/j.eclinm.2021.
+101186.
+25. Ferrie JE, Virtanen M, Jokela M, et al. Job insecurity and risk of
+diabetes: a meta-analysis of individual participant data. CMAJ.
+2016;188(17–18):E447–55. https://doi.org/10.1503/cmaj.150942.
+26. Oldroyd J, Banerjee M, Heald A, et al. Diabetes and ethnic minorities. Postgrad Med J. 2005;81(958):486–90. https://doi.org/10.
+1136/pgmj.2004.029124.
+27. Thibault V, Bélanger M, LeBlanc E, et al. Factors that could
+explain the increasing prevalence of type 2 diabetes among
+adults in a Canadian province: a critical review and analysis.
+Diabetol Metab Syndr. 2016;8(71). https://doi.org/10.1186/
+s13098-016-0186-9.
+28. Adhikari R, Sanou D. Risk factors of diabetes in Canadian
+immigrants: a synthesis of recent literature. Can J Diabetes.
+2012;36(3):142–50. https://doi.org/10.1016/j.jcjd.2012.06.001.
+29. Wändell PE, Carlsson A, Steiner KH. Prevalence of diabetes
+among immigrants in the nordic countries. Curr Diabetes Rev.
+2010;6(2):126–33. https://doi.org/10.2174/157339910790909404.
+30. Testa R, Bonfigli AR, Genovese S, et al. Focus on migrants
+with type 2 diabetes mellitus in European Countries. Intern
+Emerg Med. 2016;11(3):319–26. https://doi.org/10.1007/
+s11739-015-1350-1.
+31. Montesi L, Caletti MT, Marchesini G. Diabetes in migrants
+and ethnic minorities in a changing World. World J Diabetes.
+2016;7(3):34–44. https://doi.org/10.4239/wjd.v7.i3.34.
+32. Goff LM. Ethnicity and type 2 diabetes in the UK. Diabet Med.
+2019;36(8):927–38. https://doi.org/10.1111/dme.13895.
+33. Fayfman M, Haw S. Diabetes in racial and ethnic minorities in
+the United States: individualizing approaches to diagnosis and
+management. Curr Diabetes Rev. 2017;1(3):239–50. https://doi.
+org/10.2174/1573399812666160926142036.
+34. Pérez-escamilla R, Putnik P. The role of acculturation in nutrition,
+lifestyle, and incidence of type 2 diabetes among latinos. J nutr.
+2007;137(4):860–70. https://doi.org/10.1093/jn/137.4.860.
+35. Ismail SU, Asamane EA, Osei Kwasi HA, Boateng D. Socioeconomic determinants of cardiovascular diseases, obesity, and
+diabetes among migrants in the United Kingdom: a systematic
+review. Int J Environ Res Public Health. 2022;19(5):3070. https://
+doi.org/10.3390/ijerph19053070.
+36. Canadian Institute for Health Information. Guidance on the Use
+of Standards for Race-Based and Indigenous Identify Data Collection and Health Reporting in Canada. Ottawa (ON): Canadian Institute for Health Information; 2022 [cited 2024 May 8].
+Available from: https://www.cihi.ca/sites/default/files/docum
+ent/guidance-and-standards-for-race-based-and-indigenousidentity-data-en.pdf
+37. Adeghate E, Schattner P, Dunn E. An update on the etiology
+and epidemiology of diabetes mellitus. Ann N Y Acad Sci.
+2006;1084:1–29. https://doi.org/10.1196/annals.1372.029.
+38. Meeks KA, Freitas-Da-Silva D, Adeyemo A, et al. Disparities
+in type 2 diabetes prevalence among ethnic minority groups
+resident in Europe: a systematic review and meta-analysis.
+Intern Emerg Med. 2016;11(3):327–40. https://doi.org/10.1007/
+s11739-015-1302-9.
+39. Dabelea D, Sauder KA, Jensen ET, et al. Twenty years of pediatric diabetes surveillance: what do we know and why it matters.
+Ann N Y Acad Sci. 2021;1495(1):99–120. https://doi.org/10.
+1111/nyas.14573.
+40. Agyemang C, Addo J, Bhopal R, et al. Cardiovascular disease,
+diabetes and established risk factors among populations of subsaharan African descent in Europe: a literature review. Global
+Health. 2009;5:7. https://doi.org/10.1186/1744-8603-5-7.
+41. Bhupathiraju SN, Hu FB. Epidemiology of obesity and diabetes and their Cardiovascular complications. Circ Res.
+2016;118(11):1723–35. https://doi.org/10.1161/CIRCRESAHA.
+115.306825.
+42. Wedekind LE, Mitchell CM, Andersen CC, et al. Epidemiology
+of type 2 diabetes in Indigenous communities in the United
+States. Curr Diab Rep. 2021;21(11):47. https://doi.org/10.1007/
+s11892-021-01406-3.
+43. Minges KE, Zimmet P, Magliano DJ, et al. Diabetes prevalence
+and determinants in indigenous Australian populations: a systematic review. Diabetes Res Clin Pract. 2011;93(2):139–49.
+https://doi.org/10.1016/j.diabres.2011.06.012.
+44. Cheran K, Murthy C, Bornemann EA, et al. The growing epidemic of diabetes among the Indigenous Population of Canada:
+a systematic review. Cureus. 2023;15(3):e36173. https://doi.org/
+10.7759/cureus.36173.
+45. Durazo EM, Mbassa RS, Albert MA. Ethnic enclaves and type
+II diabetes: a focus on Latino/Hispanic americans. Curr Cardiovasc Risk Rep. 2016;10(11):36. https://doi.org/10.1007/
+s12170-016-0518-1.
+46. Danaei G, Finucane MM, Lu Y, et al. National, regional, and
+global trends in fasting plasma glucose and diabetes prevalence
+since 1980: systematic analysis of health examination surveys
+and epidemiological studies with 370 country-years and 2·7
+million participants. Lancet. 2011;378(9785):31–40. https://
+doi.org/10.1016/S0140-6736(11)60679-X.
+47. Wu H, Patterson CC, Zhang X, et al. Worldwide estimates of
+incidence of type 2 diabetes in children and adolescents in 2021.
+Diabetes Res Clin Pract. 2022;185:109785. https://doi.org/10.
+1016/j.diabres.2022.109785.
+Current Diabetes Reports (2025) 25:19 Page 13 of 13 19
+48. Vanderniet JA, Jenkins AJ, Donaghue KC. Epidemiology of
+type 1 diabetes. Curr Cardiol Rep. 2022;24(10):1455–65.
+https://doi.org/10.1007/s11886-022-01762-w.
+49. Gomber A, Ward ZJ, Ross C, et al. Variation in the incidence
+of type 1 diabetes mellitus in children and adolescents by world
+region and country income group: a scoping review. PLOS Glob
+Public Health. 2022;2(11):e0001099. https://doi.org/10.1371/
+journal.pgph.0001099.
+50. Zabetian A, Sanchez IM, Narayan KM, et al. Global rural diabetes prevalence: a systematic review and meta-analysis covering 1990–2012. Diabetes Res Clin Pract. 2014;104(2):206–13.
+https://doi.org/10.1016/j.diabres.2014.01.005.
+51. den Braver NR, Lakerveld J, Rutters F et al. Built environmental characteristics and diabetes: a systematic review and
+meta-analysis [published correction appears in BMC Med.
+2021;19(1):63]. BMC Med. 2018; 16(1): 12. https://doi.org/
+10.1186/s12916-017-0997-z
+52. Agyemang C, van der Linden, Eva L, Bennet L. Type 2 diabetes
+burden among migrants in europe: unravelling the causal pathways. Diabetologia. 2021;64(12):2665–75. https://doi.org/10.
+1007/s00125-021-05586-1.
+53. Meo SA, AlKhlaiwi T, Aqil M. Impact of the residential green
+space environment on the prevalence and mortality of type 2 diabetes mellitus. Eur Rev Med Pharmacol Sci. 2022;26(10):3599–
+606. https://doi.org/10.26355/eurrev_202205_28856.
+54. Kuo CC, Moon K, Thayer KA, et al. Environmental chemicals
+and type 2 diabetes: an updated systematic review of the epidemiologic evidence. Curr Diab Rep. 2013;13(6):831–49. https://
+doi.org/10.1007/s11892-013-0432-6.
+55. Sharp D. Environmental toxins, a potential risk factor for diabetes among Canadian aboriginals. Int J Circumpolar Health.
+2009;68(4):316–26. https://doi.org/10.3402/ijch.v68i4.17372.
+56. Wang H, Sun D, Wang B, Gao D, Zhou Y, Wang N, Zhu B. Association between noise exposure and diabetes: meta-analysis. Environ Sci Pollut Res Int. 2020;27(29):36085–90. https://doi.org/10.
+1007/s11356-020-09826-6.
+57. Di Ciaula A, Portincasa P. Relationships between emissions of
+toxic airborne molecules and type 1 diabetes incidence in children: an ecologic study. World J Diabetes. 2021;12(5):673–84.
+https://doi.org/10.4239/wjd.v12.i5.673.
+58. Yang M, Cheng H, Shen C, et al. Effects of long-term exposure to air pollution on the incidence of type 2 diabetes mellitus: a meta-analysis of cohort studies. Environ Sci Pollut Res Int. 2020;27(1):798–811. https://doi.org/10.1007/
+s11356-019-06824-1.
+59. Gucciardi E, Vahabi M, Norris N, et  al. The intersection
+between Food Insecurity and Diabetes: a review. Curr Nutr Rep.
+2014;3(4):324–32. https://doi.org/10.1007/s13668-014-0104-4.
+60. Neuenschwander M, Barbaresko J, Pischke CR, et al. Intake of
+dietary fats and fatty acids and the incidence of type 2 diabetes: a
+systematic review and dose-response meta-analysis of prospective
+observational studies. PLoS Med. 2020;17(12):e1003347. https://
+doi.org/10.1371/journal.pmed.1003347.
+61. Ricci-Cabello I, Ruiz-Pérez I, Olry de Labry-Lima A, et al. Do
+social inequalities exist in terms of the prevention, diagnosis,
+treatment, control and monitoring of diabetes? A systematic
+review. Health Soc Care Community. 2010;18(6):572–87. https://
+doi.org/10.1111/j.1365-2524.2010.00960.x.
+62. Yang YS, Han K, Sohn TS, et al. Young-onset type 2 diabetes
+in South Korea: a review of the current status and unmet need.
+Korean J Intern Med. 2021;36(5):1049–58. https://doi.org/10.
+3904/kjim.2021.379.
+63. Park SK, Wang W. Ambient air Pollution and Type 2 diabetes:
+a systematic review of Epidemiologic Research. Curr Environ Health Rep. 2014;1(3):275–86. https://doi.org/10.1007/
+s40572-014-0017-9.
+64. Pearce M, Fanidi A, Bishop TRP, et al. Associations of total legume, pulse, and soy consumption with Incident Type 2 diabetes: Federated Meta-Analysis of 27 studies from Diverse World
+regions. J Nutr. 2021;151(5):1231–40. https://doi.org/10.1093/jn/
+nxaa447.
+65. World Health Organization. Report of expert and stakeholder consultations on the WHO global diabetes compact. Geneva: World
+Health Organization. 2021 [cited 2024 Dec 10]. Available from:
+https://www.who.int/publications/b/56795
+66. World Health Organization. Operational framework for monitoring social determinants of health equity. Geneva: World Health
+Organization. 2024 [cited 2024 Jun 3]. Available from: https://
+www.who.int/publications/i/item/9789240088320
+67. Carney TJ, Wiltz JL, Davis K, et  al. Prev Chronic Dis.
+2023;20:E110. https://doi.org/10.5888/pcd20.230120. Advancing
+Chronic Disease Practice Through the CDC Data Modernization
+Initiative.
+68. Choi BKC. The past, present, and future of public health surveillance. Scientifica (Cairo). 2012;2012:875253. https://doi.org/10.
+6064/2012/875253.
+69. Tudiver S, Kantiebo M, Kammermayer J, et  al. Women’s
+Health Surveillance: implications for policy. BMC Womens Health. 2004;4(Suppl 1):S31. https://doi.org/10.1186/
+1472-6874-4-S1-S31.
+Publisher’s Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations. 

@@ -1,0 +1,102 @@
+A striking pattern has emerged in the scientific literature examining COVID-19 vaccine effectiveness and excess mortality: studies based on mathematical modeling consistently show dramatic benefits from vaccination campaigns, while empirical analyses of real-world data often find minimal, negligible, or even negative effects.
+
+This methodological divide is not merely an academic curiosity — it represents a serious epistemological crisis in how we evaluate public health interventions that affected billions of lives.
+
+1. The Evidence Chain: How Testing and Symptoms Confounded the Picture
+Before examining the modeling versus empirical divide, it’s crucial to understand a logical chain of evidence that may explain the paradoxical findings:
+
+First, early post-vaccination studies found dramatically higher COVID-19 rates in vaccinated populations. Kustin et al. (2021) in Nature Medicine examined breakthrough infections in Israel’s highly vaccinated population, finding “evidence for increased breakthrough rates of SARS-CoV-2 variants of concern in BNT162b2-mRNA-vaccinated individuals,” particularly during specific time windows after vaccination. The study noted that vaccinated individuals showed increased susceptibility to the B.1.1.7 variant in the first weeks after the first dose and to B.1.351 between weeks 1–2 after the second dose.
+
+Complementing these findings, Gazit et al. (2022) published in Clinical Infectious Diseases found that in comparing natural immunity to vaccine-induced immunity, vaccinated individuals had a 27-fold higher risk of developing symptomatic COVID-19 and an 8-fold higher risk of hospitalization compared to those with natural immunity. This Israeli data from the world’s most rapidly vaccinated population revealed a “paradox”: rather than protecting against infection, vaccination appeared to dramatically increase susceptibility during certain critical periods.
+
+Canas et al. (2021) then made a critical discovery using machine learning to compare symptom profiles: “Post-vaccination symptoms per se cannot be differentiated from COVID-19 with clinical robustness, either using symptom profiles or machine-derived models.” This finding suggested that what was being labeled as COVID-19 breakthrough infections might actually be vaccine reactions manifesting identically to the disease, and causing positive test results due to similar spike proteins from vaccination and natural infection.
+
+Second, contrary to initial claims that vaccine-induced spike protein would remain localized at the injection site, multiple studies documented systemic circulation and extraordinary persistence. Castruita et al. (2023) found that “SARS-CoV-2 spike mRNA vaccine sequences circulate in blood up to 28 days after COVID-19 vaccination.”
+
+More alarmingly, Iwasaki et al. (2025) at Yale University published groundbreaking findings on post-vaccination syndrome (PVS), documenting that “Typically spike protein can be detected for a few days after vaccination, but some participants with PVS had detectable levels more than 700 days after their last vaccination.” The study found that “some PVS participants had detectable SARS-CoV-2 spike protein in their bloodstream, with persistence up to 709 days post-vaccination” in individuals who had never been infected with COVID-19.
+
+Patterson et al. (2024) found persistence of S1 spike protein in CD16+ monocytes up to 245 days in SARS-CoV-2 negative individuals experiencing PASC-like symptoms post-vaccination. Boros et al. (2024) documented that “recombinant spike protein products can remain in circulation for up to a little over half a year (187 days)” and noted “a highly significant increase in heart muscle 18-flourodeoxyglucose uptake was detected in vaccinated patients up to half a year (180 days)” indicating ongoing cardiac metabolic dysfunction.
+
+Krauson et al. (2023) documented mRNA vaccine persistence and cardiac involvement in recently vaccinated patients, while Yonker et al. (2023) found that in adolescents and young adults who developed myocarditis after mRNA vaccination, “both free and antibody-bound spike, which was detectable only in patients who developed vaccine-induced myocarditis, remained detectable up to 3 weeks after vaccination” with evidence of ongoing cardiac damage.
+
+Third, as rapid antigen tests (which detect spike protein) became prevalent due to being cheaper and faster than PCR tests, they may have been detecting vaccine-induced spike rather than viral infection. This mechanism could explain why “COVID deaths” paradoxically increased proportionately to vaccination uptake in multiple countries — the tests were potentially identifying vaccine spike protein as COVID infection.
+
+Fourth, examination of excess mortality data reveals these deaths are largely not attributed to COVID-19 in official statistics, yet they correlate strongly with vaccination uptake across countries and time periods. When Bradford Hill criteria for causation are applied — including strength of association, consistency across populations, temporality, biological gradient (dose-response), and biological plausibility — the evidence suggests these correlations warrant serious consideration as potentially causal relationships.
+
+2. Three Pairs of Studies: The Methodological Divide
+2.1 Pair 1: Global Vaccine Impact — Watson et al. (2022) vs. Okoro et al. (2025)
+The Modeling: Watson et al. (2022)
+Published in The Lancet Infectious Diseases, Watson et al.’s “Global impact of the first year of COVID-19 vaccination: a mathematical modelling study” estimated that vaccines prevented 14.4 million deaths based on reported COVID-19 deaths and 19.8 million deaths using excess mortality estimates during the first year of vaccination.
+
+Their methodology created a counterfactual scenario — asking “what would have happened without vaccines?” They built a mathematical model fitted to observed mortality data, then removed vaccine protection while keeping all parameters constant. The critical flaw: the model assumed nothing else would change without vaccines and used constant vaccine effectiveness despite evidence of rapid waning.
+
+The Empirical Approach: Okoro et al. (2025)
+Published in the International Journal of Risk & Safety in Medicine, “Paradoxical increase in global COVID-19 deaths with vaccination coverage: World Health Organization estimates (2020–2023)” took a straightforward empirical approach. Using WHO data through June 2023, they compared actual COVID-19 deaths before and after vaccine rollouts.
+
+Their findings contradicted the models: COVID-19 deaths increased with vaccination coverage, showing 43.3% higher excess deaths in Africa compared to unvaccinated populations, and up to 1275% higher in the Western Pacific, which includes . The Americas (39.8%) and Europe (34.1%) accounted for over 70% of global COVID-19 deaths despite — or because of — high vaccination rates.
+
+The study’s most striking finding was the dose-dependent relationship between vaccination and mortality. Countries with higher vaccination rates consistently showed higher COVID-19 death rates, the exact opposite of what models predicted. The authors conducted multiple statistical analyses controlling for various confounding factors including age demographics, healthcare infrastructure, and reporting quality. Even after these adjustments, the paradoxical relationship persisted. They noted that “the subjective nature and inherent biases in mathematical models used for such forecasts could undermine their accuracy when excess mortality was the metric of choice.” The temporal analysis was particularly revealing: COVID-19 deaths didn’t just fail to decline with vaccination — they actively increased in proportion to vaccination coverage across all WHO regions examined.
+
+2.2 Pair 2: European Excess Mortality — Predictions vs. Reality
+The Modeling
+Throughout 2021–2022, numerous modeling studies projected substantial mortality reductions from COVID-19 vaccination in Europe. Klement & Walach (2023) analyzed these SEIR (Susceptible-Exposed-Infected-Recovered) models, finding they consistently assumed vaccine effectiveness rates from clinical trials would persist in real-world conditions.
+
+The Empirical Reality
+Multiple studies documented sustained excess mortality contradicting model predictions:
+
+· Mostert et al. (2024) in BMJ Public Health analyzed excess mortality across Western countries from January 2020 to December 2022, finding persistent excess deaths well beyond COVID waves.
+
+· Pallari et al. (2025) in the International Journal of Epidemiology examined 21 countries, finding “sustained excess all-cause mortality post COVID-19” with deaths in 2022 being “mainly non-COVID-19-related.”
+
+· Lataster (2024) found positive correlations between COVID-19 vaccination rates and excess mortality for every month examined from March 2023 to January 2024, with stronger correlations for total doses administered.
+
+2.3 Pair 3: Intervention Effectiveness — Modeled Benefits vs. Observed Outcomes
+The Modeling
+Imperial College models, led by Ferguson et al. (2020), predicted catastrophic death tolls without interventions. Walker et al. (2020) extended these predictions globally, suggesting millions would die without lockdowns and mass vaccination. These models became the basis for worldwide policy decisions.
+
+Flaxman et al. (2020) claimed their models showed lockdowns prevented 3.1 million deaths across 11 European countries by May 2020 alone. Yet Soltesz et al. (2020) challenged these findings, noting the models’ circular reasoning and failure to consider voluntary behavioral changes.
+
+The Empirical Assessment
+The Herby-Jonung-Hanke meta-analysis (2022) and updated analysis (2023) examined actual outcomes versus model predictions. They found lockdowns reduced COVID-19 mortality by only 3.2% — approximately 6,000 deaths avoided in Europe and 4,000 in the United States, far below model predictions of millions saved.
+
+Ioannidis et al. (2022) in the International Journal of Forecasting concluded simply: “Forecasting for COVID-19 has failed.” The authors documented systematic failures in COVID-19 predictions, with models consistently overestimating deaths by orders of magnitude.
+
+Sweden’s experience provided a natural experiment. Despite rejecting lockdowns, Sweden’s outcomes contradicted model predictions. Yanovskiy & Socol (2022) analyzed this paradox, finding that less restrictive policies did not result in the catastrophic outcomes models predicted.
+
+3. Supporting Evidence: Post-COVID Mortality and Vaccine Association
+Recent longitudinal studies provide additional context for understanding the mortality patterns:
+
+Rodrigues & Andrade (2024) in Frontiers in Medicine conducted a survival analysis of post-COVID mortality in Brazil. Analyzing severe acute respiratory syndrome cases from 2020–2023, they found that in the long term (beyond one year), “those who received one or two doses of the COVID-19 vaccine had a higher risk of death.”
+
+Mead et al. (2024) in Cureus noted that post-vaccination syndrome shares features with post-acute COVID-19 syndrome (PACS), with vaccine-associated spike protein found in PACS patients. They observed that “contrary to popular beliefs and media messaging, vaccinated individuals may experience more severe long-term outcomes of COVID-19 compared to the unvaccinated.”
+
+Autopsy evidence has provided crucial mechanistic insights. Hulscher et al. (2024) conducted a systematic review of autopsy findings in deaths following COVID-19 vaccination, examining 325 autopsy cases. They found that 73.9% of deaths were directly due to or significantly contributed to by COVID-19 vaccination, with the cardiovascular system being the most affected (49%), followed by hematological (17%), respiratory (11%), and multiple organ systems (7%).
+
+Parry et al. (2023) in Biomedicines examined the pathogenic nature of spike protein from both virus and vaccine mRNA, documenting mechanisms of “spikeopathy” — the disease process caused by spike protein regardless of source. This provides biological plausibility for why vaccine-induced spike could cause similar or identical pathology to viral infection.
+
+Additional surveillance data supports these findings. Shrestha et al. (2023) at Cleveland Clinic found that COVID-19 infection risk increased with the number of vaccine doses received, with those receiving 3 or more doses having higher infection rates than the unvaccinated. This dose-response relationship further supports the hypothesis that vaccines may be counterproductive.
+
+4. The Reconciliation Problem
+How can studies examining the same phenomenon reach opposite conclusions? The answer lies in what each methodology captures:
+
+4.1 Models
+Models assume the only difference between vaccinated and unvaccinated scenarios is direct vaccine effects on individual immunity. They cannot account for:
+
+Vaccine-induced spike protein being detected as “COVID”
+Behavioral and policy changes following vaccination
+Viral evolution potentially accelerated by mass vaccination
+Systemic effects not captured in simplified mathematical frameworks
+4.2 Empirical Analyses
+Empirical analyses capture the full complexity of what actually occurred, including all confounding factors and unintended consequences that models failed to anticipate.
+
+5. Implications for Science and Policy
+The COVID-19 pandemic revealed fundamental flaws in relying on mathematical models for public health policy. When empirical evidence consistently contradicts model predictions, we must question the models, not reality.
+
+The evidence chain — from indistinguishable symptoms between vaccination and COVID, to spike protein circulation, to testing confusion, to excess mortality correlations — suggests the conventional understanding may have gotten the relationship between vaccination and mortality backwards. Rather than preventing deaths, the intervention may have contributed to them through mechanisms the models never considered.
+
+As Engler (2022) noted in analyzing the Lombardy mortality spike, synchronous increases in deaths across regions suggested policy responses rather than viral spread as the primary driver.
+
+6. Conclusion
+The divide between modeling and empirical studies on COVID-19 vaccine impact reveals more than methodological differences — it exposes how simplified assumptions can lead to catastrophically wrong conclusions when applied to complex biological and social systems. The mounting empirical evidence of sustained excess mortality correlating with vaccination campaigns, combined with mechanistic evidence of spike protein persistence and symptom overlap, demands a fundamental reassessment of the COVID-19 vaccine narrative.
+
+Models can inform our thinking about possibilities, but when real-world outcomes consistently contradict their predictions, empirical evidence must take precedence. The cost of ignoring this principle may be measured in millions of lives.

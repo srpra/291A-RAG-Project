@@ -1,0 +1,651 @@
+Citation: Savi, M.K. An Overview of
+Malaria Transmission Mechanisms,
+Control, and Modeling. Med. Sci.
+2023, 11, 3. https://doi.org/10.3390/
+medsci11010003
+Academic Editor:
+Ignacio Martin-Loeches
+Received: 1 December 2022
+Revised: 11 December 2022
+Accepted: 19 December 2022
+Published: 23 December 2022
+Copyright: © 2022 by the author.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+medical
+sciences
+Review
+An Overview of Malaria Transmission Mechanisms, Control,
+and Modeling
+Merveille Koissi Savi 1,2
+1 Center for Development Research ZEF, University of Bonn, Genscherallee 3, 53113 Bonn, Germany;
+merveillekoissi.savi@gmail.com or mksavi@hsph.harvard.edu
+2 T.H. Chan Harvard School of Public Health, Boston, MA 02115, USA
+Abstract: In sub-Saharan Africa, malaria is a leading cause of mortality and morbidity. As a result
+of the interplay between many factors, the control of this disease can be challenging. However, few
+studies have demonstrated malaria’s complexity, control, and modeling although this perspective
+could lead to effective policy recommendations. This paper aims to be a didactic material providing
+the reader with an overview of malaria. More importantly, using a system approach lens, we
+intend to highlight the debated topics and the multifaceted thematic aspects of malaria transmission
+mechanisms, while showing the control approaches used as well as the model supporting the
+dynamics of malaria. As there is a large amount of information on each subject, we have attempted
+to provide a basic understanding of malaria that needs to be further developed. Nevertheless, this
+study illustrates the importance of using a multidisciplinary approach to designing next-generation
+malaria control policies.
+Keywords: complexity; policy-recommendation; mathematical models; malaria; mosquito
+1. Introduction
+Approximately 2000 children die daily from malaria, with 90% of the victims located
+in sub-Saharan Africa (SSA) [1,2]. Transmission and control of malaria are mediated by
+complex interactions and feedback loops among humans, mosquitoes, parasites, their
+environments, healthcare systems, and policy implementation at a given period of time [3].
+Therefore, malaria transmission can be described as complex, nonlinear, and dynamic. The
+endemism of malaria in West Africa, for example, has huge economic impacts [2,4]. In
+Ghana, the cost of treating a single episode of malaria can reach 34% of a household’s yearly
+income [5]. As a result of infected people being unable to produce wealth, and as wealth
+is low, the risk of exposure to malaria increases. There is a negative relationship between
+national economic growth and malaria control expenditures [2,6]. As a result, malaria can
+be considered both as a cause of poverty and as a consequence of it [7].
+Furthermore, past interventions have been ineffective as they were unable to account
+for the nonlinear nature of malaria infection. Particularly, the unexpected consequences of
+interventions such as mosquito resistance to chemical compounds and parasite resistance
+to drugs led to their abandonment. This was the case with the eradication control program
+that was abandoned in 1969 and the Global Malaria Control Strategy in 1992 [8]. Scientists
+have widely acknowledged the complexity of malaria, but a depiction of this complexity is
+weakly documented, and further limits the scope of malaria control.
+This short review embracing several topics or thematic areas provides the reader
+with a piece of basic knowledge of malaria transmission, control, and modeling while
+illustrating its complexity. Therefore, the manuscript intends to be a didactical material,
+providing a brief overview of the disease, reducing information asymmetry, while arousing
+the curiosity of readers who can refer to more specific literature.
+Med. Sci. 2023, 11, 3. https://doi.org/10.3390/medsci11010003 https://www.mdpi.com/journal/medsci
+Med. Sci. 2023, 11, 3 2 of 12
+2. Materials and Methods
+We conducted an unsystematic narrative review of online literature to gain a deeper
+insight into malaria transmission mechanism, control strategy, and modeling approaches.
+Thus, we adopted the following approach (Figure 1).
+Med. Sci. 2023, 11, x FOR PEER REVIEW 2 of 12
+2. Materials and Methods
+We conducted an unsystematic narrative review of online literature to gain a deeper
+insight into malaria transmission control strategy, and modeling approaches.
+Thus, we adopted the following approach Figure 1. Synthesis of the method. In gray, the final objective of the review is shown, in green, the
+investigated databases are indicated, in yellow, the exclusion process is indicated, and in red, the
+clustering of the selected papers is shown.
+2.1. Inclusion and Exclusion Criteria for Paper Eligibility
+Our search for peer-reviewed papers on malaria in the online scientific database was
+restricted to the period from 1950 to 2020. The rationale for this time window lies in the
+fact that the first malaria model was developed in the 1950s and since then, most of the
+recommendations for malaria control are supported by quantitative analysis. Besides, we
+excluded all duplicated letters, narrative reviews, case reports, and commentary. Given
+the tremendous research done on malaria, we limited the scope of the study to only peerreviewed
+published papers in either French or English. This was to avoid evidence that
+may be challenging to replicate and biased translation. Within the topic of interest, we
+exclude all case reports which happen in non-endemic areas.
+2.2. Search Strategy
+We searched three databases PUBMED, Google Scholar, and MEDLINE for relevant
+literature on malaria from 1950 to 2020.
+2.3. Screening of Studies and Evidence Extraction
+Our screening process focuses on the title of the study published in peer-reviewed
+journals. Our next step was to review the papers’ abstracts and remove the studies that
+did not fit under the umbrella of the keywords.
+2.4. Analysis and Gaps in the Analysis
+To get a comprehensive understanding of malaria, we categorized the list of 77 eligible
+peer-reviewed papers into topics of interest, such as mechanisms, prevention and
+treatment, mathematical modeling, and perspectives on modeling. The topical organization
+of the collected papers allowed us to get a broad perspective of the state of the art.
+Figure 1. Synthesis of the method. In gray, the final objective of the review is shown, in green, the
+investigated databases are indicated, in yellow, the exclusion process is indicated, and in red, the
+clustering of the selected papers is shown.
+2.1. Inclusion and Exclusion Criteria for Paper Eligibility
+Our search for peer-reviewed papers on malaria in the online scientific database was
+restricted to the period from 1950 to 2020. The rationale for this time window lies in the
+fact that the first malaria model was developed in the 1950s and since then, most of the
+recommendations for malaria control are supported by quantitative analysis. Besides, we
+excluded all duplicated letters, narrative reviews, case reports, and commentary. Given
+the tremendous research done on malaria, we limited the scope of the study to only peerreviewed
+published papers in either French or English. This was to avoid evidence that
+may be challenging to replicate and biased translation. Within the topic of interest, we
+exclude all case reports which happen in non-endemic areas.
+2.2. Search Strategy
+We searched three databases PUBMED, Google Scholar, and MEDLINE for relevant
+literature on malaria from 1950 to 2020.
+2.3. Screening of Studies and Evidence Extraction
+Our screening process focuses on the title of the study published in peer-reviewed
+journals. Our next step was to review the papers’ abstracts and remove the studies that did
+not fit under the umbrella of the keywords.
+Med. Sci. 2023, 11, 3 3 of 12
+2.4. Analysis and Gaps in the Analysis
+To get a comprehensive understanding of malaria, we categorized the list of 77 eligible
+peer-reviewed papers into topics of interest, such as mechanisms, prevention and treatment,
+mathematical modeling, and perspectives on modeling. The topical organization of the
+collected papers allowed us to get a broad perspective of the state of the art.
+3. Results
+We found 2,150,000 studies after the search. A total of 150,000 studies were obtained
+after removing duplicates. We included only 300 studies after screening both titles and
+abstracts. Furthermore, we removed 50 case reports, 146 studies in malaria non-endemic
+areas, and 16 reports including 10 thesis and 6 NGO reports.
+Using the remaining 77 eligible studies, we provided an overview of each topic and
+complemented our narrative with WHO, CDC reports, and 10 complimentary readings.
+There were 23 studies supporting malaria transmission, 19 on prevention and treatment,
+23 on mathematical modeling, and 12 on future research on malaria modeling (Figure 2).
+FOR PEER REVIEW 3 of 12
+3. Results
+We found 2,150,000 studies after the search. A total of 150,000 studies were obtained
+after removing duplicates. We included only 300 studies after screening both titles and
+abstracts. Furthermore, we removed 50 case reports, 146 studies in malaria non-endemic
+areas, and 16 reports including 10 thesis and 6 NGO reports.
+Using the remaining 77 eligible studies, we provided an overview of each topic and
+complemented our narrative with WHO, CDC reports, and 10 complimentary readings.
+There were 23 studies supporting malaria transmission, 19 on prevention and treatment,
+23 on mathematical modeling, and 12 on future research on malaria modeling (Figure 2).
+Malaria transmission
+(n = 23)
+Malaria modeling
+(n = 23)
+Future research on
+malaria modeling (n=12)
+Malaria prevention and
+treatment (n =19)
+Eligible
+studies
+(n=77)
+Figure 2. Overview of the thematic distribution of the selected papers.
+3.1. Malaria Transmission Mechanism
+Malaria infection is caused by interactions between humans, mosquitoes, and the
+pathogen (Figure 3). Female mosquitoes change during the egg-laying period when they
+experience a deficiency in protein and plant sucrose necessary for egg maturation. Consequently,
+they blood-feed on humans and can infect them after effective biting where infectious
+protozoans (of the genus Plasmodium) are injected into the human bloodstream [9,10].
+Med. Sci. 2023, 11, 3 4 of 12
+Consequently, they blood-feed on humans and can infect them after effective biting where
+infectious protozoans (of the genus Plasmodium) are injected into the human bloodstream
+[9,10].
+Figure 3. Complex interactions between humans, mosquitos, and parasites explaining the persistence
+of malaria. Plasmodium parasites, mosquitoes, and humans constitute three subsystems that
+interact with one another. The green cycle represents the human sub-system (SS). In addition to the
+micro-environment, which includes housing conditions, network connectivity, socioeconomic conditions,
+and the environment within the host (i.e., the individual’s genetic makeup), this SS is characterized
+by the social environment (social interaction, culture, and behavior regarding malaria risktaking).
+The red indicates the SS of mosquitoes defined by the growth conditions favored by humans
+using or not either ITNs or IRS, and their adaptation to their living environment, including the harsh
+environmental conditions of cities, such as dirty water and weather conditions. In purple, Plasmodium
+parasite SS is characterized by interactions with the environment inside the host that may
+drive resistance to malaria drugs.
+Female mosquitoes most found in West Africa belong to the Anopheles Giles genus
+[11]. Anopheles gambiae (sensu stricto) prefers to use human blood (anthropophilic) to complete
+its gonotrophic cycle, bites primarily indoors (endophagic), and rests indoors (endophilic).
+As far as its feeding habits are concerned, An. gambiae is the major malaria vector
+in West Africa [12]. In addition, there are other vectors, such as An. arabiensis, An. funestus
+and An. melas able to carry P. falciparum. Similar to An. gambiae, An. funestus is anthropophilic,
+endophagic, and endophilic [4,13]. On the other hand, An. arabiensis is zoophilic
+(prefers blood-feeding animals), exophilic (bites outdoors), and exophagic (rests outdoors)
+[11]. An. melas is also anthropophagic, exophagic, and exophilic [12]. Therefore, P.
+falciparum adapts well to Anopheles species, increasing malarial vulnerability in the host.
+The wide range of vector conditions, feeding habits, and geographical heterogeneity in
+malaria transmission make malaria modeling even more challenging [14].
+A mosquito’s ability to adapt to environmental conditions such as humidity and temperature,
+is influenced by its sensitivity to those conditions. This adaptation can take the
+form of a change in the life cycle length, or the biting efficiency [15–19]. As a long-term
+study carried out in Kenya (1999–2010) has shown, vectors’ feeding habits and effectiveness
+can change over time [20].
+The transmission intensity may differ significantly across host populations because
+vectors’ attraction to the host varies [21]. This variation is elicited by the difference in human
+Figure 3. Complex interactions between humans, mosquitos, and parasites explaining the persistence
+of malaria. Plasmodium parasites, mosquitoes, and humans constitute three subsystems that
+interact with one another. The green cycle represents the human sub-system (SS). In addition to
+the micro-environment, which includes housing conditions, network connectivity, socioeconomic
+conditions, and the environment within the host (i.e., the individual’s genetic makeup), this SS is
+characterized by the social environment (social interaction, culture, and behavior regarding malaria
+risk-taking). The red indicates the SS of mosquitoes defined by the growth conditions favored by
+humans using or not either ITNs or IRS, and their adaptation to their living environment, including
+the harsh environmental conditions of cities, such as dirty water and weather conditions. In purple,
+Plasmodium parasite SS is characterized by interactions with the environment inside the host that
+may drive resistance to malaria drugs.
+Female mosquitoes most found inWest Africa belong to the Anopheles Giles genus [11].
+Anopheles gambiae (sensu stricto) prefers to use human blood (anthropophilic) to complete its
+gonotrophic cycle, bites primarily indoors (endophagic), and rests indoors (endophilic).
+As far as its feeding habits are concerned, An. gambiae is the major malaria vector inWest
+Africa [12]. In addition, there are other vectors, such as An. arabiensis, An. funestus and
+An. melas able to carry P. falciparum. Similar to An. gambiae, An. funestus is anthropophilic,
+endophagic, and endophilic [4,13]. On the other hand, An. arabiensis is zoophilic (prefers
+blood-feeding animals), exophilic (bites outdoors), and exophagic (rests outdoors) [11].
+An. melas is also anthropophagic, exophagic, and exophilic [12]. Therefore, P. falciparum
+adapts well to Anopheles species, increasing malarial vulnerability in the host. The wide
+range of vector conditions, feeding habits, and geographical heterogeneity in malaria
+transmission make malaria modeling even more challenging [14].
+A mosquito’s ability to adapt to environmental conditions such as humidity and
+temperature, is influenced by its sensitivity to those conditions. This adaptation can take
+the form of a change in the life cycle length, or the biting efficiency [15–19]. As a long-term
+study carried out in Kenya (1999–2010) has shown, vectors’ feeding habits and effectiveness
+can change over time [20].
+The transmission intensity may differ significantly across host populations because
+vectors’ attraction to the host varies [21]. This variation is elicited by the difference in human
+bodies’ microflora and their reaction to mosquito bites [22]. For instance, an infected host is
+Med. Sci. 2023, 11, 3 5 of 12
+more attractive to other mosquitoes than a non-infected one [23]. Likewise, mosquitoes
+prefer the scent of children to that of the adults [21,24].
+In SSA, infectious protozoans are, Plasmodium vivax, P. ovale, P. malariae, P. knowlesi, and
+P. falciparum where P. falciparum accounts for 95% of malaria cases [25,26]. P. falciparum’s
+complete life cycle consists of an incubation period of 10 days in the vector and a period of
+7 to 20 days in the human host [27]. When P. falciparum protozoans are injected into a host’s
+bloodstream via the vector saliva, the protozoan completes its life cycle. After entering the
+host bloodstream, the sporozoites (asexual protozoans) move into the liver, where they
+penetrate the hepatocytes (liver cells). In the host hepatocytes, the parasite divides asexually
+several times, a process known as schizogony [28]. Eventually, the hepatocytes break,
+releasing merozoites which infest red blood cells in the host bloodstream. The parasites can
+diverge into gametocytes after repeated divisions of the red blood cells [29]. Malaria can
+cause symptoms such as fever, chills, and sweat before and during the differentiation of P.
+falciparum into sexual stages. Even so, some hosts may not exhibit clinical symptoms and are
+considered asymptomatic [30]. Whenever mosquitoes bite infected people (symptomatic
+and asymptomatic), they primarily suck out the gametocytes [29]. Detecting asymptomatic
+individuals in endemic areas can be challenging, and mass testing may not always be
+cost-effective in detecting such individuals [31].
+3.2. Malaria Prevention and Treatment
+Due to recursive interactions between humans, mosquitoes, and parasites that cause
+malaria transmission, existing control methods might not be effective in the sense that they
+target either mosquitoes or parasites. Mosquitoes have been controlled mainly using the
+obliteration of larvae and adult stages while reducing the entomological inoculation rate.
+These controls include physical, biological, or chemical changes to the vector’s environment.
+As part of the physical modification, breeding sites are removed, and the sources of larvae
+are managed using drainage and weeding [32]. However, this method requires a constant
+working force needed for weeding and drain cleaning which led SSA governments to
+abandon it although it is among the most effective [33]. Chemical modification of larval
+environments includes the application of larvicides and insecticides. The downside of this
+method is that it is also costly, and mosquitoes often become resistant to insecticides [34].
+Natural enemies of mosquito larvae, such as larvivorous fish and bacteria (e.g., Bacillus
+thuringiensis), are used in the biological method. Nevertheless, this process is hindered by
+the temporary persistence of natural enemies [32].
+The Global Malaria Action Plan (GMAP) and the World Health Organization (WHO)
+recommended the use of indoor residual spray (IRS) and insecticide-treated bed nets
+(ITNs) for controlling mosquito adult populations in the 2010s across Africa [35]. The main
+chemical component of ITNs and IRS is synthetic pyrethroid, a lethal compound, that repels
+mosquitoes, remains in the environment, and is harmless to mammals. From 2005 to 2010,
+malaria cases in Ghana declined by 41% due to the successful use of ITNs and IRS [36]. The
+residual effects of synthetic pyrethroids in the environment resulting from IRS, ITNs, and
+agricultural pest management force mosquitoes to develop coping mechanisms [37]. These
+include indoor and outdoor spray avoidance mechanisms, earlier biting, and insecticide
+resistance [38].
+The control of malaria parasites is achieved through three lines of defense: antimalarial
+drugs, seasonal prevention, and vaccination. The first line of the curative measures adopted
+by GMAP is the Artemisinin-based Combination Therapies (ACT). ACTs are highly potent
+against P. falciparum with a higher clearance rate and symptoms resorption than other
+curative therapies [39]. Nevertheless, P. falciparum has progressively developed ACT resistance
+[40]. Malaria parasite resistance in SSA is exacerbated by using counterfeit malaria
+drugs [41,42]. Another preventive measure is intermittent prevention, which involves
+administering single-dose malaria therapy to pregnant women [43]. The treatment includes
+the combination of primaquine, sulfadoxine-pyrimethamine, amodiaquine, methylene blue,
+and dihydroartemisinin-piperaquine which have been proven to be able to prevent the
+Med. Sci. 2023, 11, 3 6 of 12
+transmission of P. falciparum [44]. A seasonal vaccine “RTS, S/AS01” is proven effective
+for children under 5 years old for a short period with an efficacy rate of 82% [45,46]. The
+authors demonstrated that RTS, S/AS01 induces an immune response to the proteins of
+infected sporozoites. Vaccine components protect against clinical malaria. The effectiveness
+of its protective action can wane over time and with advancing age. Particularly, children
+between the ages of 6 to 12 weeks benefit from the vaccine more than children between the
+ages of 5 to 17 months.
+A less explored line of malaria treatment consists of phytotherapy. For example, a
+study on phytochemicals identified more than 20 local plants and herbs in central Africa
+that can heal and prevent malaria transmission with almost zero risks of P. falciparum
+developing resistance against these natural compounds [47–49]. According to the authors,
+the synergistic interplay between a wide range of chemical substances in the plants enables
+treating malaria holistically while preventing the development of resistance [48,50].
+3.3. Mathematical Modeling of Malaria
+Mathematical models developed to gain insight into disease transmission have influenced
+past and present interventions to prevent or treat diseases. Mathematical modeling of
+malaria transmission began in 1911 with the Susceptible-Infectious-Removed model (SIR),
+which compartmentalized the population of hosts and vectors into three groups [51,52].
+The compartments were denoted susceptible (S), referring to the population likely to become
+infected, infectious (I), composed of the fraction of the infected population, and
+removed/ recovered (R), accounting for the fraction of the population that either died or
+healed from the disease. Several assumptions were assumed in the SIR model, including
+a closed and finite population, a homogeneous mosquito bite rate, and a well-mixed
+population. Although the Ross model (SIR) was unable to adjust to the new incidence
+data due to its limited predictability, SIR provides insights into the intricate relationship
+between infected hosts and mosquito densities. Because Ross’s model was theoretical and
+simulation-based, it failed to document proof for campaigns for mosquito eradication.
+Subsequently, George Macdonald complemented the SIR model [51] by feeding the
+model with real data and embedding an additional compartment for the latency period
+between the mosquito bite and the onset of symptoms denoted Exposed (E). Additionally,
+Macdonald’s study argued for eradicating mosquitoes through a massive campaign based
+on the theory of superinfection [53]. Consequently, between 1955 and 1969, WHO implemented
+widespread and rigorous mosquito eradication campaigns as part of the Global
+Malaria Eradication Program (GMEP). In these campaigns, the pesticide Dichlorodiphenyltrichloroethane
+(DDT) was successfully used to control malaria in major European and
+American countries [54]. The GMEP, however, failed to eradicate malaria worldwide due to
+mosquito resistance [55]. Apart from mosquito insecticide resistance, the absence of basic
+healthcare services, high malaria transmission intensity, and other socio-ecological factors
+hindered the success of eradication campaigns in the SSA [56].
+The mathematical epidemiology of malaria has evolved steadily in recent decades
+from “toy models” (which were not realistic but captured the key features of the disease)
+to “high-level models” (which are precise and sacrifice generality) [57]. As such, complex
+models display common features such as the interaction between many components [58].
+For example, an earlier partial differential model split the infected population into agedependent
+infections in the SIR framework [59].
+An important metric that summarizes the transmission of a disease is the reproductive
+number (R0). R0 represents the expected number of infected human hosts after effective
+mosquito bites in a fully susceptible population [60–62]. Thus, R0 provides a measurement
+for the intensity of transmission and contributes to the definition of disease-endemic areas
+when it is greater than one (R0 > 1) [63]. Heterogeneity was therefore incorporated in
+populations for the computation of R0. These include, for example, the age structure of the
+host [64], migration of the vectors and hosts [65], host beliefs and practices [66], and host
+income classes [67,68]. R0 also varies with the degree of complexity introduced into the
+Med. Sci. 2023, 11, 3 7 of 12
+compartmentalization of the population [66]. The more the modeling framework embodies
+the heterogeneity in the host population, the closer to real-life transmission dynamics
+the value obtained for R0 becomes [63,68–70]. The pioneering models that provided
+insight into malaria dynamics and its controls were unrealistic for various reasons, and
+maximum control has hardly been achieved in [56]. Most specifically, a large R0 indicates
+a higher density of mosquitoes that reduces the effectiveness of ITN in a large and likely
+heterogeneous host population [63].
+Many mathematical models were developed combining the compartments S, E, I,
+and R (e.g., SIR, SIS, SI, SIRS, SEIR, SEIRS, SEI) and included the heterogeneity of the
+population (meta-population modeling approaches) [69]. Most of these models do not
+capture the dynamics of subpopulations because they tend to assume large and homogeneous
+populations that do not take into account the existence and specific characteristics of
+subpopulations [71,72]. Another issue is that they fail to account for host behavior, which
+influences the disease’s dynamics and control [73,74]. Besides, compartmental models are
+either knowledge or data-driven (e.g., Ross model, Macdonald models). The models cannot
+address the complex interactions between determinants that guide the disease dynamics
+in both cases. For example, socioeconomic determinants interfere with the parameters
+generally considered in the calculation of R0 such as mortality, mobility, and birth rate [66].
+Thus, models that capture, realistically, the transmission process of malaria are still missing.
+3.4. Malaria Modeling: Present and Future
+The ability to track epidemics became more accurate with the advancement in computing
+power and the availability of data. The deterministic framework uses in this context
+provides insight into disease dynamics, but usually fails to take uncertainties into account.
+Stochastic models, on the other hand, incorporate randomness that may occur during the
+epidemic and, most importantly, accounts for a large range of uncertainty that occurs during
+epidemics. For example, a stochastic model was used to predict the complex transmission
+pattern concerning environmental changes [75]. Like deterministic models, the stochastic
+models help to disclose interesting features of the transmission such as the impact of the network
+structure, and the properties of an outbreak most specifically get insights into the rate
+of the surge of vector-borne diseases in a new region in a context of climate change [76,77].
+Furthermore, both stochastic and deterministic models are population-based and often
+fail to consider the feature of individuals which alternatively the individual-based models
+(IBMs) do [78]. IBMs can account for heterogeneity across individual agents and spatial
+gradients [79,80]. However, parametrizing them remains a daunting task, especially due to
+the lack and accuracy of data [81]. Beyond meta-population modeling (Ross-based models),
+within-host modeling opened new possibilities to address malaria infectiousness while
+examining the interplay between hosts’ immune systems and the dynamics of the parasite.
+However, modeling the superinfection of malaria while tracking each parasite strain and
+incorporating the diverse genetic makeup of the parasites remains extremely challenging,
+especially in terms of the model parameterization [82,83]. Most recently, the introduction
+of a new type of data such as human mobility collected from data providers (Facebook,
+Twitter, Google, etc.) refined the field of epidemiological surveillance. These data have been
+used to pinpoint malaria hotspots and predict their spread [84–86]. The use of fine-grained
+mobility data opens a new prospect of modeling and documenting evidence for policy
+recommendations; however, privacy concerns need to be addressed [87].
+4. Discussion
+Malaria remains a major health challenge in Sub-Saharan Africa, despite extensive
+research. Several factors contribute to malaria transmission, including socio-ecological
+factors and changes in the human host and vector behavior, which may be channeled by
+parasite genetic changes. Considering malaria’s complex nature, modeling it presents
+numerous challenges. As an example, it can be difficult to accurately parameterize a model
+with a compartment of asymptomatic individuals as there is a lack of reliable historical
+Med. Sci. 2023, 11, 3 8 of 12
+data. However, evidence suggests that malaria symptoms could progress rapidly from
+none to life-threatening while leading to a lifetime burden of cognitive impairments for
+some patients. It is thus necessary to develop a strategy that allows for the production at a
+low cost of reliable primary data on asymptomatic people with the capability of identifying
+infectious Plasmodium [88]. Additionally, the review highlighted that for each of the
+thematic areas discussed, there is a web of determinants that can be studied, using different
+perspectives including the use of a multidisciplinary lens to examine clinically relevant
+malaria issues.
+A historical approach was used to illustrate the evolution of the malaria model from
+simplistic to more elaborate models. Moreover, this review outlines the challenges of
+modeling, where, for instance, introducing mobile data to a mathematical framework may
+pose a problem of re-identification. The number and scale of parameters involved in a
+complex modeling approach make model parameterization challenging.
+Finally, this review demonstrates that malaria can efficiently be controlled by combining
+several strategies. Among them are constant awareness and education campaigns
+in communities at risk and among individuals whose resistance to non-pharmaceutical
+interventions (such as ITNs) can hinder malaria control efforts.
+Given the wide range of thematic areas discussed, we acknowledge that we have
+only scratched the surface of the various cross-cutting topics. Consequently, we did
+not elaborate on the host immune response to malaria nor on technological advances
+in diagnosing and treating malaria since they are widely covered elsewhere [89–94].
+Additionally, this paper faces two challenges, namely (1) a self-selection bias that might
+lead to a more prominent emphasis on some cross-cutting topics, and (2) not considering
+recently published papers [95]. Nonetheless, this review provides readers with an overview
+of malaria from a global perspective.
+Funding: This research received no external funding.
+Institutional Review Board Statement: This study was approved by the Center for Development
+Research (ZEF) ethics committees, University of Bonn.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: All data are generated from the content of publications mentioned in
+this manuscript and they are equally available from the corresponding authors on reasonable request.
+Acknowledgments: The author wants to thank Christian Borgemeister, Daniel Callo-Concha, Lauren
+Childs, Deguenon Jean Marcel, Henri Tonnang, and Joshua Ntajal for their edits, comments, and
+suggestions. In addition, we would like to extend our gratitude to the Center for Development
+Research (ZEF), Germany, for providing us with the logistics required for this review.
+Conflicts of Interest: The authors declare no conflict of interest.
+Abbreviations
+ACT Artemisinin-based Combination Therapies
+DDT Dichlorodiphenyltrichloroethane
+GMAP Global Malaria Action Plan
+GMEP Global Malaria Eradication Program
+IBM Individual-based models
+IRS Indoor residual spraying
+ITN Insecticide-treated bed nets
+R0 reproductive number
+SSA Sub-Saharan Africa
+SIR Susceptible Infectious Removed model
+WHO World Health Organization
+Med. Sci. 2023, 11, 3 9 of 12
+References
+1. Ndugwa, R.P.; Ramroth, H.; Müller, O.; Jasseh, M.; Sié, A.; Kouyaté, B.; Greenwood, B.; Becher, H. Comparison of All-Cause and
+Malaria-Specific Mortality from TwoWest African Countries with Different Malaria Transmission Patterns. Malar. J. 2008, 7, 15.
+[CrossRef] [PubMed]
+2. Sachs, J.; Malaney, P. The Economic and Social Burden of Malaria. Nature 2002, 415, 680–685. [CrossRef] [PubMed]
+3. Savi, M.K.; Callo-Concha, D.; Tonnang, H.E.Z.; Borgemeister, C. Emerging Properties of Malaria Transmission and Persistence in
+Urban Accra, Ghana: Evidence from a Participatory System Approach. Malar. J. 2021, 20, 321. [CrossRef] [PubMed]
+4. Asare, E.O.; Amekudzi, L.K. Assessing Climate Driven Malaria Variability in Ghana Using a Regional Scale Dynamical Model.
+Climate 2017, 5, 20. [CrossRef]
+5. Akazili, J.; Aikins, M.; Binka, F.N. Malaria Treatment in Northern Ghana: What Is the Treatment Cost per Case to Households?
+Afr. J. Health Sci. 2007, 14, 70–79. [CrossRef]
+6. Jowett, M.; Miller, N.J. The Financial Burden of Malaria in Tanzania: Implications for Future Government Policy. Int. J. Health
+Plann. Manag. 2005, 20, 67–84. [CrossRef]
+7. Wells, T.N.C.; Alonso, P.L.; Gutteridge,W.E. New Medicines to Improve Control and Contribute to the Eradication of Malaria.
+Nat. Rev. Drug. Discov. 2009, 8, 879–891. [CrossRef]
+8. Breman, J. Rolling Back Malaria: Action or Rhetoric? Available online: https://www.semanticscholar.org/author/J.-Breman/14
+4538342 (accessed on 15 November 2022).
+9. Arifin, S.N.; Zhou, Y.; Davis, G.J.; Gentile, J.E.; Madey, G.R.; Collins, F.H. An Agent-Based Model of the Population Dynamics of
+Anopheles Gambiae. Malar. J. 2014, 13, 424. [CrossRef]
+10. Harrington, L.C.; Edman, J.D.; Scott, T.W. Why Do Female Aedes Aegypti (Diptera: Culicidae) Feed Preferentially and Frequently
+on Human Blood? J. Med. Entomol. 2001, 38, 411–422. [CrossRef]
+11. Li, Z.-X.; Pickett, J.A.; Field, L.M.; Zhou, J.-J. Identification and Expression of Odorant-Binding Proteins of the Malaria-Carrying
+Mosquitoes Anopheles Gambiae and Anopheles Arabiensis. Arch. Insect. Biochem. Physiol. 2005, 58, 175–189. [CrossRef]
+12. Tuno, N.; Kjaerandsen, J.; Badu, K.; Kruppa, T. Blood-Feeding Behavior of Anopheles Gambiae and Anopheles Melas in Ghana,
+Western Africa. J. Med. Entomol. 2010, 47, 28–31. [CrossRef] [PubMed]
+13. Sinka, M.E.; Bangs, M.J.; Manguin, S.; Coetzee, M.; Mbogo, C.M.; Hemingway, J.; Patil, A.P.; Temperley, W.H.; Gething, P.W.;
+Kabaria, C.W.; et al. The Dominant Anopheles Vectors of Human Malaria in Africa, Europe and the Middle East: Occurrence
+Data, Distribution Maps and Bionomic Précis. Parasites Vectors 2010, 3, 117. [CrossRef] [PubMed]
+14. Childs, L.M.; Abuelezam, N.N.; Dye, C.; Gupta, S.; Murray, M.B.; Williams, B.G.; Buckee, C.O. Modelling Challenges in Context:
+Lessons from Malaria, HIV, and Tuberculosis. Epidemics 2015, 10, 102–107. [CrossRef] [PubMed]
+15. Eikenberry, S.E.; Gumel, A.B. Mathematical Modeling of Climate Change and Malaria Transmission Dynamics: A Historical
+Review. J. Math. Biol. 2018, 77, 857–933. [CrossRef]
+16. Adu-Prah, S.; Kofi Tetteh, E. Spatiotemporal Analysis of Climate Variability Impacts on Malaria Prevalence in Ghana. Appl. Geogr.
+2015, 60, 266–273. [CrossRef]
+17. White, N.J.; Pukrittayakamee, S.; Hien, T.T.; Faiz, M.A.; Mokuolu, O.A.; Dondorp, A.M. Malaria. Lancet 2014, 383, 723–735.
+[CrossRef]
+18. Chaturvedi, H.K.; Mahanta, J.; Bajpai, R.C.; Pandey, A. Risk of Malaria among Febrile Patients: Retrospective Analysis of a
+Hospital-Based Study in an Endemic Area of Northeast India. Int. Health 2014, 6, 144–151. [CrossRef]
+19. Mordecai, E.A.; Paaijmans, K.P.; Johnson, L.R.; Balzer, C.; Ben-Horin, T.; de Moor, E.; McNally, A.; Pawar, S.; Ryan, S.J.;
+Smith, T.C.; et al. Optimal Temperature for Malaria Transmission Is Dramatically Lower than Previously Predicted. Ecol. Lett.
+2013, 16, 22–30. [CrossRef]
+20. Mwangangi, J.M.; Mbogo, C.M.; Orindi, B.O.; Muturi, E.J.; Midega, J.T.; Nzovu, J.; Gatakaa, H.; Githure, J.; Borgemeister, C.;
+Keating, J.; et al. Shifts in Malaria Vector Species Composition and Transmission Dynamics along the Kenyan Coast over the Past
+20 Years. Malar. J. 2013, 12, 13. [CrossRef]
+21. Busula, A.O.; Takken,W.; de Boer, J.G.; Mukabana,W.R.; Verhulst, N.O. Variation in Host Preferences of Malaria Mosquitoes Is
+Mediated by Skin Bacterial Volatiles. Med. Vet. Entomol. 2017, 31, 320–326. [CrossRef]
+22. Verhulst, N.O.; Qiu, Y.T.; Beijleveld, H.; Maliepaard, C.; Knights, D.; Schulz, S.; Berg-Lyons, D.; Lauber, C.L.; Verduijn, W.;
+Haasnoot, G.W.; et al. Composition of Human Skin Microbiota Affects Attractiveness to Malaria Mosquitoes. PLoS ONE 2011,
+6, e28991. [CrossRef] [PubMed]
+23. Lacroix, R.; Mukabana,W.R.; Gouagna, L.C.; Koella, J.C. Malaria Infection Increases Attractiveness of Humans to Mosquitoes.
+PLoS Biol. 2005, 3, e298. [CrossRef] [PubMed]
+24. Schneider, P.; Schoone, G.; Schallig, H.; Verhage, D.; Telgt, D.; Eling, W.; Sauerwein, R. Quantification of Plasmodium Falciparum
+Gametocytes in Differential Stages of Development by Quantitative Nucleic Acid Sequence-Based Amplification. Mol. Biochem.
+Parasitol. 2004, 137, 35–41. [CrossRef] [PubMed]
+25. Karnad, D.R.; Nor, M.B.M.; Richards, G.A.; Baker, T.; Amin, P. Council of the World Federation of Societies of Intensive and
+Critical Care Medicine Intensive Care in Severe Malaria: Report from the Task Force on Tropical Diseases by theWorld Federation
+of Societies of Intensive and Critical Care Medicine. J. Crit. Care 2018, 43, 356–360. [CrossRef]
+Med. Sci. 2023, 11, 3 10 of 12
+26. Kafy, H.T.; Ismail, B.A.; Mnzava, A.P.; Lines, J.; Abdin, M.S.E.; Eltaher, J.S.; Banaga, A.O.;West, P.; Bradley, J.; Cook, J.; et al. Impact
+of Insecticide Resistance in Anopheles Arabiensis on Malaria Incidence and Prevalence in Sudan and the Costs of Mitigation.
+Proc. Natl. Acad. Sci. USA 2017, 114, E11267–E11275. [CrossRef]
+27. Institute of Medicine (US) Committee for the Study on Malaria Prevention and Control. Malaria: Obstacles and Opportunities;
+Oaks, S.C., Mitchell, V.S., Pearson, G.W., Carpenter, C.C.J., Eds.; National Academies Press (US): Washington, DC, USA,
+1991; ISBN 978-0-309-04527-8.
+28. Yam, X.Y.; Preiser, P.R. Host Immune Evasion Strategies of Malaria Blood Stage Parasite. Mol. BioSyst. 2017, 13, 2498–2508.
+[CrossRef]
+29. Talman, A.M.; Blagborough, A.M.; Sinden, R.E. A Plasmodium Falciparum Strain Expressing GFP throughout the Parasite’s
+Life-Cycle. PLoS ONE 2010, 5, e9156. [CrossRef]
+30. Bousema, T.; Drakeley, C. Determinants of Malaria Transmission at the Population Level. Cold. Spring. Harb. Perspect. Med. 2017,
+7, a025510. [CrossRef]
+31. Sturrock, H.J.W.; Hsiang, M.S.; Cohen, J.M.; Smith, D.L.; Greenhouse, B.; Bousema, T.; Gosling, R.D. Targeting Asymptomatic
+Malaria Infections: Active Surveillance in Control and Elimination. PLoS Med. 2013, 10, e1001467. [CrossRef]
+32. Tusting, L.S.; Thwing, J.; Sinclair, D.; Fillinger, U.; Gimnig, J.; Bonner, K.E.; Bottomley, C.; Lindsay, S.W. Mosquito Larval Source
+Management for Controlling Malaria. Cochrane. Database. Syst. Rev. 2013, 8, CD008923. [CrossRef]
+33. Fillinger, U.; Lindsay, S.W. Larval Source Management for Malaria Control in Africa: Myths and Reality. Malar. J. 2011, 10, 353.
+[CrossRef] [PubMed]
+34. Liu, N. Insecticide Resistance in Mosquitoes: Impact, Mechanisms, and Research Directions. Annu. Rev. Entomol. 2015, 60,
+537–559. [CrossRef] [PubMed]
+35. Roll BackMalaria Partnership. The GlobalMalaria Action Plan. In For a FreeMalariaWorld;WHO: Geneva, Switzerland, 2008; p. 274.
+36. Aregawi, M.; Malm, K.L.; Wahjib, M.; Kofi, O.; Allotey, N.-K.; Yaw, P.N.; Abba-Baffoe, W.; Segbaya, S.; Owusu-Antwi, F.;
+Kharchi, A.T.; et al. Effect of Anti-Malarial Interventions on Trends of Malaria Cases, Hospital Admissions and Deaths, 2005–2015,
+Ghana. Malar. J. 2017, 16, 177. [CrossRef] [PubMed]
+37. Kudom, A.A.; Anane, L.N.; Afoakwah, R.; Adokoh, C.K. Relating High Insecticide Residues in Larval Breeding Habitats in Urban
+Residential Areas to the Selection of Pyrethroid Resistance in Anopheles Gambiae s.l. (Diptera: Culicidae) in Akim Oda, Ghana.
+J. Med. Entomol. 2018, 55, 490–495. [CrossRef]
+38. Moshi, I.R.; Ngowo, H.; Dillip, A.; Msellemu, D.; Madumla, E.P.; Okumu, F.O.; Coetzee, M.; Mnyone, L.L.; Manderson, L.
+Community Perceptions on Outdoor Malaria Transmission in Kilombero Valley, Southern Tanzania. Malar. J. 2017, 16, 274.
+[CrossRef]
+39. Eastman, R.T.; Fidock, D.A. Artemisinin-Based Combination Therapies: A Vital Tool in Efforts to Eliminate Malaria. Nat. Rev.
+Microbiol. 2009, 7, 864–874. [CrossRef]
+40. Dondorp, A.M.; Nosten, F.; Yi, P.; Das, D.; Phyo, A.P.; Tarning, J.; Lwin, K.M.; Ariey, F.; Hanpithakpong, W.; Lee, S.J.; et al.
+Artemisinin Resistance in Plasmodium Falciparum Malaria. N. Engl. J. Med. 2009, 361, 455–467. [CrossRef]
+41. Yasuoka, J.; Jimba, M.; Levins, R. Application of Loop Analysis for Evaluation of Malaria Control Interventions. Malar. J.
+2014, 13, 140. [CrossRef]
+42. Kaur, H.; Allan, E.L.; Mamadu, I.; Hall, Z.; Green, M.D.; Swamidos, I.; Dwivedi, P.; Culzoni, M.J.; Fernandez, F.M.; Garcia, G.; et al.
+Prevalence of Substandard and Falsified Artemisinin-Based Combination Antimalarial Medicines on Bioko Island, Equatorial
+Guinea. BMJ Glob. Health 2017, 2, e000409. [CrossRef]
+43. Briand, V.; Cottrell, G.; Massougbodji, A.; Cot, M. Intermittent Preventive Treatment for the Prevention of Malaria during
+Pregnancy in High Transmission Areas. Malar. J. 2007, 6, 160. [CrossRef]
+44. Dicko, A.; Roh, M.E.; Diawara, H.; Mahamar, A.; Soumare, H.M.; Lanke, K.; Bradley, J.; Sanogo, K.; Kone, D.T.; Diarra, K.; et al.
+Efficacy and Safety of Primaquine and Methylene Blue for Prevention of Plasmodium Falciparum Transmission in Mali: A Phase
+2, Single-Blind, Randomised Controlled Trial. Lancet. Infect. Dis. 2018, 18, 627–639. [CrossRef] [PubMed]
+45. Otieno, L.; Oneko, M.; Otieno,W.; Abuodha, J.; Owino, E.; Odero, C.; Mendoza, Y.; Andagalu, B.; Awino, N.; Ivinson, K.; et al.
+Safety and Immunogenicity of RTS,S/AS01 Malaria Vaccine in Infants and Children with WHO Stage 1 or 2 HIV Disease: A
+Randomised, Double-Blind, Controlled Trial. Lancet. Infect. Dis. 2016, 16, 1134–1144. [CrossRef] [PubMed]
+46. Greenwood, B.; Dicko, A.; Sagara, I.; Zongo, I.; Tinto, H.; Cairns, M.; Kuepfer, I.; Milligan, P.; Ouedraogo, J.-B.; Doumbo, O.; et al.
+Seasonal Vaccination against Malaria: A Potential Use for an Imperfect Malaria Vaccine. Malar. J. 2017, 16, 182. [CrossRef]
+[PubMed]
+47. Cheuka, P.M.; Mayoka, G.; Mutai, P.; Chibale, K. The Role of Natural Products in Drug Discovery and Development against
+Neglected Tropical Diseases. Molecules 2016, 22, 58. [CrossRef] [PubMed]
+48. Tarkang, P.A.; Appiah-Opong, R.; Ofori, M.F.; Ayong, L.S.; Nyarko, A.K. Application of Multi-Target Phytotherapeutic Concept in
+Malaria Drug Discovery: A Systems Biology Approach in Biomarker Identification. Biomark. Res. 2016, 4, 25. [CrossRef]
+49. Vlietinck, A.J.; Pieters, L.; Apers, S.; Cimanga, K.; Mesia, K.; Tona, L. The Value of Central-African Traditional Medicine for Lead
+Finding: Some Case Studies. J. Ethnopharmacol. 2015, 174, 607–617. [CrossRef]
+50. Ginsburg, H.; Deharo, E. A Call for Using Natural Compounds in the Development of New Antimalarial Treatments—An
+Introduction. Malar. J. 2011, 10, S1. [CrossRef]
+51. Ross, R. The Prevention of Malaria; E.P. Dutton & Company: New York, NY, USA, 1910.
+Med. Sci. 2023, 11, 3 11 of 12
+52. Ross, R. Some Quantitative Studies in Epidemiology. Nature 1911, 87, 466–467. [CrossRef]
+53. Macdonald, G. The Analysis of Equilibrium in Malaria. Trop. Dis. Bull. 1952, 49, 813–829.
+54. Nájera, J.A.; González-Silva, M.; Alonso, P.L. Some Lessons for the Future from the Global Malaria Eradication Programme
+(1955-1969). PLoS Med. 2011, 8, e1000412. [CrossRef]
+55. World Health Assembly. 22 Re-Examination of the Global Strategy of Malaria Eradication: Report of the Director-General; World Health
+Organization: Geneva, Switzerland, 1969.
+56. Smith, T.A.; Chitnis, N.; Penny, M.; Tanner, M. Malaria Modeling in the Era of Eradication. Cold. Spring. Harb. Perspect. Med. 2017,
+7, a025460. [CrossRef]
+57. May, R.M. Stability and Complexity in Model Ecosystems; Princeton Landmarks in Biology; Princeton University Press: Princeton,
+NJ, USA, 2001; ISBN 978-0-691-08861-7.
+58. Colizza, V.; Barthélemy, M.; Barrat, A.; Vespignani, A. Epidemic Modeling in Complex Realities. CR Biol. 2007, 330, 364–374.
+[CrossRef]
+59. Kermack, W.O.; McKendrick, A.G. Contributions to the Mathematical Theory of Epidemics—I. Bltn. Mathcal. Biol. 1991, 53, 33–55.
+[CrossRef]
+60. Aikins, M.K.; Pickering, H.; Greenwood, B.M. Attitudes to Malaria, Traditional Practices and Bednets (Mosquito Nets) as Vector
+Control Measures: A Comparative Study in FiveWest African Countries. J. Trop. Med. Hyg. 1994, 97, 81–86.
+61. Smith, D.L.; Hay, S.I.; Noor, A.M.; Snow, R.W. Predicting Changing Malaria Risk after Expanded Insecticide-Treated Net Coverage
+in Africa. Trends Parasitol. 2009, 25, 511–516. [CrossRef]
+62. Smith, D.L.; Dushoff, J.; Snow, R.W.; Hay, S.I. The Entomological Inoculation Rate and Plasmodium Falciparum Infection in
+African Children. Nature 2005, 438, 492–495. [CrossRef]
+63. Smith, D.L.; McKenzie, F.E.; Snow, R.W.; Hay, S.I. Revisiting the Basic Reproductive Number for Malaria and Its Implications for
+Malaria Control. PLoS Biol. 2007, 5, e42. [CrossRef]
+64. Heesterbeek, H.; Anderson, R.M.; Andreasen, V.; Bansal, S.; de Angelis, D.; Dye, C.; Eames, K.T.D.; Edmunds, W.J.; Frost, S.D.W.;
+Funk, S.; et al. Modeling Infectious Disease Dynamics in the Complex Landscape of Global Health. Science 2015, 347, aaa4339.
+[CrossRef]
+65. Cohen, J.M.; Le Menach, A.; Pothin, E.; Eisele, T.P.; Gething, P.W.; Eckhoff, P.A.; Moonen, B.; Schapira, A.; Smith, D.L. Mapping
+Multiple Components of Malaria Risk for Improved Targeting of Elimination Interventions. Malar. J. 2017, 16, 459. [CrossRef]
+66. Agusto, F.B.; Teboh-Ewungkem, M.I.; Gumel, A.B. Mathematical Assessment of the Effect of Traditional Beliefs and Customs on
+the Transmission Dynamics of the 2014 Ebola Outbreaks. BMC Med. 2015, 13, 96. [CrossRef]
+67. Mushayabasa, S.; Bhunu, C.P.; Webb, C.; Dhlamini, M. A Mathematical Model for Assessing the Impact of Poverty on Yaws
+Eradication. Appl. Math. Model. 2012, 36, 1653–1667. [CrossRef]
+68. Ross, R. Mosquito Brigades and How to Organise Them/by Ronald Ross; Longmans, Green: London, UK, 1902.
+69. Hethcote, H.W. A Thousand and one epidemic models. In Frontiers in Mathematical Biology; Levin, S.A., Ed.; Springer:
+Berlin/Heidelberg, Germany, 1994; pp. 504–515.
+70. Xia, S.; Zhou, X.-N.; Liu, J. Systems Thinking in Combating Infectious Diseases. Infect. Dis. Poverty 2017, 6, 144. [CrossRef]
+[PubMed]
+71. Mecoli, M.; de Angelis, V.; Brailsford, S.C. Using System Dynamics to Evaluate Control Strategies for Mosquito-Borne Diseases
+Spread by Human Travel. Comput. Oper. Res. 2013, 40, 2219–2228. [CrossRef]
+72. Mandal, S.; Sarkar, R.R.; Sinha, S. Mathematical Models of Malaria—A Review. Malar. J. 2011, 10, 202. [CrossRef] [PubMed]
+73. Agusto, F.B.; del Valle, S.Y.; Blayneh, K.W.; Ngonghala, C.N.; Goncalves, M.J.; Li, N.; Zhao, R.; Gong, H. The Impact of Bed-Net
+Use on Malaria Prevalence. J. Biol. 2013, 320, 58–65. [CrossRef] [PubMed]
+74. Ngonghala, C.N.; Del Valle, S.Y.; Zhao, R.; Mohammed-Awel, J. Quantifying the Impact of Decay in Bed-Net Efficacy on Malaria
+Transmission. J. Biol. 2014, 363, 247–261. [CrossRef]
+75. Le, P.V.V.; Kumar, P.; Ruiz, M.O. Stochastic Lattice-Based Modelling of Malaria Dynamics. Malar. J. 2018, 17, 250. [CrossRef]
+[PubMed]
+76. Dangerfield, C.E.; Ross, J.V.; Keeling, M.J. Integrating Stochasticity and Network Structure into an Epidemic Model. J. R Soc.
+Interface 2009, 6, 761–774. [CrossRef]
+77. Parham, P.E.; Michael, E. Outbreak Properties of Epidemic Models: The Roles of Temporal Forcing and Stochasticity on Pathogen
+Invasion Dynamics. J. Biol. 2011, 271, 1–9. [CrossRef]
+78. Smith, N.R.; Trauer, J.M.; Gambhir, M.; Richards, J.S.; Maude, R.J.; Keith, J.M.; Flegg, J.A. Agent-Based Models of Malaria
+Transmission: A Systematic Review. Malar. J. 2018, 17, 299. [CrossRef]
+79. Maude, R.J.; Pontavornpinyo, W.; Saralamba, S.; Aguas, R.; Yeung, S.; Dondorp, A.M.; Day, N.P.; White, N.J.; White, L.J. The Last
+Man Standing Is the Most Resistant: Eliminating Artemisinin-Resistant Malaria in Cambodia. Malar J. 2009, 8, 31. [CrossRef]
+80. Acevedo, M.A.; Prosper, O.; Lopiano, K.; Ruktanonchai, N.; Caughlin, T.T.; Martcheva, M.; Osenberg, C.W.; Smith, D.L. Spatial
+Heterogeneity, Host Movement and Mosquito-Borne Disease Transmission. PLoS ONE 2015, 10, e0127552. [CrossRef] [PubMed]
+81. Okell, L.C.; Paintain, L.S.; Webster, J.; Hanson, K.; Lines, J. From Intervention to Impact: Modelling the Potential Mortality Impact
+Achievable by Different Long-Lasting, Insecticide-Treated Net Delivery Strategies. Malar. J. 2012, 11, 327. [CrossRef] [PubMed]
+Med. Sci. 2023, 11, 3 12 of 12
+82. Johnston, G.L.; Smith, D.L.; Fidock, D.A. Malaria’s Missing Number: Calculating the Human Component of R0 by a Within-Host
+Mechanistic Model of Plasmodium Falciparum Infection and Transmission. PLoS Comput. Biol. 2013, 9, e1003025. [CrossRef]
+[PubMed]
+83. Frost, S.D.W.; Pybus, O.G.; Gog, J.R.; Viboud, C.; Bonhoeffer, S.; Bedford, T. Eight Challenges in Phylodynamic Inference.
+Epidemics 2015, 10, 88–92. [CrossRef]
+84. Buckee, C.O.;Wesolowski, A.; Eagle, N.; Hansen, E.; Snow, R.W. Mobile Phones and Malaria: Modeling Human and Parasite
+Travel. Travel. Med. Infect. Dis. 2013, 11, 15–22. [CrossRef]
+85. Ruktanonchai, N.W.; De Leenheer, P.; Tatem, A.J.; Alegana, V.A.; Caughlin, T.T.; Zu Erbach-Schoenberg, E.; Lourenço,
+C.; Ruktanonchai, C.W.; Smith, D.L. Identifying Malaria Transmission Foci for Elimination Using Human Mobility Data.
+PLoS Comput. Biol. 2016, 12, e1004846. [CrossRef]
+86. Ruktanonchai, N.W.; Bhavnani, D.; Sorichetta, A.; Bengtsson, L.; Carter, K.H.; Córdoba, R.C.; Le Menach, A.; Lu, X.; Wetter, E.; zu
+Erbach-Schoenberg, E.; et al. Census-Derived Migration Data as a Tool for Informing Malaria Elimination Policy. Malar. J. 2016,
+15, 273. [CrossRef]
+87. Santos-Lozada, A.R.; Howard, J.T.; Verdery, A.M. How Differential Privacy Will Affect Our Understanding of Health Disparities
+in the United States. Proc. Natl. Acad. Sci. USA 2020, 117, 13405–13412. [CrossRef]
+88. Marino, A.; Bivona, D.A.; Bonacci, P. Updates in Central Nervous System Malaria: Literature Review and Considerations. Curr.
+Opin. Infect. Dis. 2022, 35, 255–261. [CrossRef]
+89. Siddiqui, A.J.; Bhardwaj, J.; Goyal, M.; Prakash, K.; Adnan, M.; Alreshidi, M.M.; Patel, M.; Soni, A.; Redman, W. Immune
+Responses in Liver and Spleen against Plasmodium Yoelii Pre-Erythrocytic Stages in Swiss Mice Model. J. Adv. Res. 2020, 24,
+29–41. [CrossRef] [PubMed]
+90. Peng, W.K.; Kong, T.F.; Ng, C.S.; Chen, L.; Huang, Y.; Bhagat, A.A.S.; Nguyen, N.-T.; Preiser, P.R.; Han, J. Micromagnetic
+Resonance Relaxometry for Rapid Label-Free Malaria Diagnosis. Nat. Med. 2014, 20, 1069–1073. [CrossRef] [PubMed]
+91. Peng, W.K.; Ng, T.-T.; Loh, T.P. Machine Learning Assistive Rapid, Label-Free Molecular Phenotyping of Blood with Two-
+Dimensional NMR Correlational Spectroscopy. Commun. Biol. 2020, 3, 1–10. [CrossRef] [PubMed]
+92. Di Gregorio, E.; Ferrauto, G.; Schwarzer, E.; Gianolio, E.; Valente, E.; Ulliers, D.; Aime, S.; Skorokhod, O. Relaxometric Studies of
+Erythrocyte Suspensions Infected by Plasmodium Falciparum: A Tool for Staging Infection and Testing Anti-Malarial Drugs.
+Magn. Reson. Med. 2020, 84, 3366–3378. [CrossRef]
+93. Arndt, L.; Koleala, T.; Orbán, Á.; Ibam, C.; Lufele, E.; Timinao, L.; Lorry, L.; Butykai, Á.; Kaman, P.; Molnár, A.P.; et al.
+Magneto-Optical Diagnosis of Symptomatic Malaria in Papua New Guinea. Nat. Commun. 2021, 12, 969. [CrossRef] [PubMed]
+94. Yamamoto, T.; Hashimoto, M.; Nagatomi, K.; Nogami, T.; Sofue, Y.; Hayashi, T.; Ido, Y.; Yatsushiro, S.; Abe, K.; Kajimoto, K.; et al.
+Field Evaluation of a Quantitative, and Rapid Malaria Diagnostic System Using a Fluorescent Blue-Ray Optical Device. BioRxiv
+2019. [CrossRef]
+95. Chen, N.; Li, A.; Talluri, K. Reviews and Self-Selection Bias with Operational Implications. Manag. Sci. 2021, 67, 7472–7492.
+[CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
