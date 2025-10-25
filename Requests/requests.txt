@@ -10,5 +10,4 @@ requests = [
 "What key social and environmental factors have been identified as influencing mental health outcomes, and how do recent studies suggest addressing them?",
 "What role do digital technologies and mobile platforms play in improving diabetes management and patient engagement?",
 "What is insulin, how does it regulate blood glucose, and how has insulin therapy evolved over time?"
-
 ]
