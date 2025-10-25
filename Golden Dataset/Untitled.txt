@@ -1,0 +1,95 @@
+
+manual_baseline = {
+    "Based on the collective perspective of recent literature, what are the major biological, technological, and sociopolitical barriers that still hinder full malaria eradication despite modern advances?": [
+        "WHO-guidelines-for-malaria.pdf",
+        "Malaria - Past, Present and Future.pdf",
+	"An update on Malaria.txt",
+	"Malaria - An Overview.pdf",
+	"Malaria Vaccines - Recent Advances and New Horizons.pdf"
+    ],
+
+ "What evidence exists across sources that mass vaccination programs have transformed global mortality and morbidity patterns, and what indicators suggest this progress is at risk?": [
+        "Vaccines and immunization - WHO.txt",
+        "A guide to vaccinology from basic principles to new developments.pdf",
+	"Childhood Vaccination Has Saved Millions of Lives, but Rising Hesitancy Could Reverse Decades of Progress.txt",
+	"Enrolling a rural community pharmacy as a Vaccines for Children provider to increase HPV vaccination: a feasibility study.pdf",
+	"Vaccine Safety - Examine the Evidence.txt"
+    ],
+
+ "How do logistical, social, and structural barriers affect vaccine delivery in rural or underserved regions, and what community-based interventions have shown promise in mitigating these obstacles?": [
+        "Enrolling a rural community pharmacy as a Vaccines for Children provider to increase HPV vaccination: a feasibility study.pdf",
+        "A guide to vaccinology from basic principles to new developments.pdf",
+	"Childhood Vaccination Has Saved Millions of Lives, but Rising Hesitancy Could Reverse Decades of Progress.txt",
+	"Vaccines and immunization - WHO.txt",
+	"Vaccine Safety - Examine the Evidence.txt"
+    ],
+
+ "Which groups are considered at highest risk of severe influenza complications, and what medical or preventive interventions are recommended for them?": [
+        "Flu CDC.txt",
+        "Influenza (seasonal) WHO.txt",
+	"Influenza and Influenza Vaccine_ A Review.pdf",
+	"Influenza Treatment and Prevention.txt",
+	"Understanding the symptoms of the common cold and influenza.pdf"
+    ],
+
+ "What are the major risk factors and early symptoms of myocardial infarction, and how does public awareness impact treatment outcomes?": [
+        "Analyzing_heart_attack.txt",
+        "Heart_Attacks.txt",
+	"Signs_Symptoms_Heart_Attack.txt",
+	"Understanding myocardial infarction.pdf",
+	"The global prevalence of myocardial infarction_ a systematic review and meta-analysis.pdf"
+    ],
+
+"How can early diagnosis, evolving clinical definitions, and global prevention strategies improve sepsis outcomes and reduce mortality worldwide?": [
+        "Sepsis WHO.txt",
+        "SEPSIS DEFINITION - WHATS NEW 
+IN THE TREATMENT GUIDELINES.txt",
+	"Immune dysregulation in sepsis experiences, lessons and perspectives.pdf",
+	"Subtypes and Mimics of Sepsis.pdf",
+	"Potential biomarker for diagnosis and therapy of sepsis - Lactylation.txt"
+    ],
+
+"Which emerging therapies, including gene therapy and molecular targeted approaches, show promise in revolutionizing overall cancer treatment paradigms?": [
+        "Revolutionizing cancer care strategies: immunotherapy, gene therapy, and molecular targeted therapy.pdf",
+        "The emerging clinical relevance of genomics in cancer medicine.pdf",
+	"Predictive, personalized, preventive, participatory (P4) cancer medicine.pdf",
+	"Immunotherapy and prevention of pancreatic cancer.pdf",
+	"Tumor microenvironment: recent advances in various cancer treatments.pdf"
+    ],
+
+"Which innovations in smart healthcare systems are improving disease diagnosis and clinical decision-making?": [
+        "Disease Diagnosis in Smart Healthcare: Innovation, Technologies and Applications.pdf",
+        "Machine learning for precision medicine1.pdf",
+	"Artificial intelligence in healthcare - transforming the practice of medicine.txt",
+	"Harnessing the Digital Revolution: A Comprehensive Re- view of mHealth Applications for Remote Monitoring in  Transforming Healthcare Delivery.pdf",
+	"An Ensemble of Deep Convolutional Neural Networks for Alzheimer’s Disease Detection and Classification.pdf"
+    ],
+
+"What key social and environmental factors have been identified as influencing mental health outcomes, and how do recent studies suggest addressing them?": [
+        "What is mental health? Evidence towards a new definition from a mixed methods multidisciplinary international survey.pdf",
+        "What is good mental health? A scoping review.pdf",
+	"MENTAL HEALTH AND MENTAL DISORDERS - A RURAL CHALLENGE: A LITERATURE REVIEW.pdf",
+	"The Use of Social Networking Sites in Mental Health Interventions for Young People: Systematic Review.pdf",
+	"No_health_without mental health.pdf"
+    ],
+
+
+"What role do digital technologies and mobile platforms play in improving diabetes management and patient engagement?": [
+        "Standards of Medical Care in Diabetes.pdf",
+        "Accessibility and Openness to Diabetes Management Support With Mobile Phones-Survey Study of People With Type 1 Diabetes Using Advanced Diabetes Technologies.pdf",
+	"Role_Of_Digital_Health_Technology_Interventions.txt",
+	"Digital technologies for prediabetes_ A systematic review and meta-analysis.pdf",
+	"Open-source Web Portal for Managing Self-reported Data and Real-world Data Donation in Diabetes Research- Platform Feasibility Study.pdf"
+    ],
+
+
+"What is insulin, how does it regulate blood glucose, and how has insulin therapy evolved over time?": [
+        "Evolution_of_Insulin.txt",
+        "100 Years of Insulin.pdf",
+	"Standards of Medical Care in Diabetes.pdf",
+	"Diabetes_ Recent Advances and Future Perspectives.pdf",
+	"Accessibility and Openness to Diabetes Management Support With Mobile Phones-Survey Study of People With Type 1 Diabetes Using Advanced Diabetes Technologies.pdf"
+    ],
+	
+}
+
