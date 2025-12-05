@@ -11,42 +11,51 @@ The system implements:
 - LLM-based answer generation
 - Retrieval-level + LLM-judge evaluation
 
-Running the Pipeline
+## Running the Pipeline
 
 Open the main notebook:
 
+```bash
 jupyter notebook CSE291_FINAL_CODE.ipynb
-
+```
 
 The notebook is structured in the following stages (run top-to-bottom):
 
-Config – set high-level flags:
+### 1. Config
 
+Set high-level flags:
+
+```python
 CHUNKING_STRATEGY = "paragraph"  # "sliding" | "sentence" | "paragraph"
-
 USE_TFIDF = False
-
 USE_RERANK = True
-
 TOP_K_INIT = 25   # candidates from FAISS
-
 TOP_K_FINAL = 6   # final context chunks for LLM
+```
 
+### 2. Ingestion
 
-Ingestion – load PDFs / text from data/raw/.
+Load PDFs / text from `data/raw/`.
 
-Chunking – create chunks according to CHUNKING_STRATEGY, save to data/processed/.
+### 3. Chunking
 
-Embeddings – encode chunks (SentenceTransformers), save to data/embeddings/.
+Create chunks according to `CHUNKING_STRATEGY`, save to `data/processed/`.
 
-FAISS Index – build / load index from data/faiss/.
+### 4. Embeddings
 
-Retrieval + Reranking – for each query:
+Encode chunks (SentenceTransformers), save to `data/embeddings/`.
 
-FAISS dense retrieval
+### 5. FAISS Index
 
-optional TF–IDF scoring
+Build / load index from `data/faiss/`.
 
-optional cross-encoder reranking
+### 6. Retrieval + Reranking
 
-Evaluation – compute retrieval metrics and LLM-based answer scores. Here you would need to connfigure your API key to be called via the parameter "api_key".
+For each query:
+- FAISS dense retrieval
+- Optional TF–IDF scoring
+- Optional cross-encoder reranking
+
+### 7. Evaluation
+
+Compute retrieval metrics and LLM-based answer scores. Here you would need to configure your API key to be called via the parameter `api_key`.
