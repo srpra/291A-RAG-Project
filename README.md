@@ -26,7 +26,7 @@ The notebook is structured in the following stages (run top-to-bottom):
 Set high-level flags:
 
 ```python
-CHUNKING_STRATEGY = # "sliding" or "sentence"
+CHUNKING_STRATEGY = "sliding" # "sliding" or "sentence" or call a separately defined function for "paragraph"
 USE_TFIDF = False
 USE_RERANK = True
 TOP_K_INIT = 25   # candidates from FAISS
