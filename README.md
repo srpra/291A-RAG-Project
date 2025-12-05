@@ -1,4 +1,4 @@
-# Domain-Specific Biomedical RAG (CSE 291 – Phase 2)
+# Domain-Specific Biomedical RAG (CSE 291 A00: Systems for LLMs and AI Agents)
 
 End-to-end, domain-specific Retrieval-Augmented Generation (RAG) pipeline for biomedical question answering, built for **CSE 291 A00: Systems for LLMs and AI Agents (UCSD)**.
 
