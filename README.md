@@ -23,9 +23,13 @@ The notebook is structured in the following stages (run top-to-bottom):
 Config – set high-level flags:
 
 CHUNKING_STRATEGY = "paragraph"  # "sliding" | "sentence" | "paragraph"
+
 USE_TFIDF = False
+
 USE_RERANK = True
+
 TOP_K_INIT = 25   # candidates from FAISS
+
 TOP_K_FINAL = 6   # final context chunks for LLM
 
 
@@ -45,4 +49,4 @@ optional TF–IDF scoring
 
 optional cross-encoder reranking
 
-Evaluation – compute retrieval metrics and LLM-based answer scores
+Evaluation – compute retrieval metrics and LLM-based answer scores. Here you would need to connfigure your API key to be called via the parameter "api_key".
