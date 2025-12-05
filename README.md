@@ -1,19 +1,48 @@
-# 291A-RAG-Project
+# Domain-Specific Biomedical RAG (CSE 291 – Phase 2)
 
-This repository contains the resources and evaluation setup for a domain-specific Retrieval-Augmented Generation (RAG) system. The project is structured to support dataset creation, query testing, and evaluation of retrieval quality for a specialized domain.
+End-to-end, domain-specific Retrieval-Augmented Generation (RAG) pipeline for biomedical question answering, built for **CSE 291 A00: Systems for LLMs and AI Agents (UCSD)**.
 
-## Repository Structure
+The system implements:
+- Document ingestion (PDF / text)
+- Multiple chunking strategies (sliding / sentence / paragraph)
+- Dense embeddings + FAISS vector search
+- Optional TF–IDF hybrid scoring
+- Cross-encoder reranking
+- LLM-based answer generation
+- Retrieval-level + LLM-judge evaluation
 
-- **Dataset/** - Collection of ≥100 domain-specific data sources (PDFs, articles, etc.) used for retrieval experiments.
-- **Golden Dataset/** - Manually curated retrieval results for each query, used as a reference for evaluation.
-- **Queries/** - Set of ≥10 realistic and domain-specific retrieval requests designed to capture key use cases.
+Running the Pipeline
 
-## Getting Started
+Open the main notebook:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/<your-username>/<repo-name>.git
-    ```
-2. Explore the datasets in `Dataset/` and `Golden Dataset/`.
-3. Run the evaluator scripts on `Queries/` to compare retrieval results.
+jupyter notebook CSE291_FINAL_CODE.ipynb
 
+
+The notebook is structured in the following stages (run top-to-bottom):
+
+Config – set high-level flags:
+
+CHUNKING_STRATEGY = "paragraph"  # "sliding" | "sentence" | "paragraph"
+USE_TFIDF = False
+USE_RERANK = True
+TOP_K_INIT = 25   # candidates from FAISS
+TOP_K_FINAL = 6   # final context chunks for LLM
+
+
+Ingestion – load PDFs / text from data/raw/.
+
+Chunking – create chunks according to CHUNKING_STRATEGY, save to data/processed/.
+
+Embeddings – encode chunks (SentenceTransformers), save to data/embeddings/.
+
+FAISS Index – build / load index from data/faiss/.
+
+Retrieval + Reranking – for each query:
+
+FAISS dense retrieval
+
+optional TF–IDF scoring
+
+optional cross-encoder reranking
+
+Evaluation – compute retrieval metrics and LLM-based answer scores
